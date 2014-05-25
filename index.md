@@ -6,4 +6,4 @@ image:
   feature: texture-feature-01.jpg
   credit: James McCullough
   creditlink: http://www.instagram.com/foursides
----
+--- 

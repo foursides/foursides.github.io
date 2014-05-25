@@ -1,0 +1,14 @@
+# I Lived to Tweet the Tale 
+- James McCullough
+- four_sides
+- fitness
+- 2012/04/08
+- published
+
+If you have been paying attention to my [Twitter feed](http://www.twitter.com/four_sides) you may have noticed some cryptic messages been shown between 10 PM and midnight on a semi-regular basis. The messages are being sent out by an iOS app called [Seconds Free](http://itunes.apple.com/us/app/seconds-free-interval-timer/id475816966?mt=8) after I complete a workout. I’ll do a full run-down of the app later in the week, but check it out if you’re in need of a timer for tabata drills or interval training, for examples. 
+
+The Pro version allows you to save the routines you can program, so can be worth the few dollars investment to save you some time entering in the information. I thought I would share the information through Twitter to help me keep track of my progress. It doesn’t have a website to record the data under a unique profile for me, but it does allow me to click thru to see the [details of the workout](http://www.secondsapp.com/timers/716689) if I recorded all the information thoroughly (i.e. instead of “Exercise 1, 2, 3…” I would see “Pushups, Squats, Situps…”). At some point, I plan on entering all that information into something more appropriate to estimate the calories being burnt. For now, it’s far easier to hit the magic “Tweet now” button when I’m exhausted instead of trying to think about loading a website or writing down the information on a pad of paper. 
+
+The other thing I wanted to note, in reference to the “I lived to tweet the tale,” is that I purchased this [Bad Boy](http://amzn.to/14HQjFN "Kettlebell") today. I had been using a 30 pound kettlebell to build up my balance with some of the exercises and practice my form before I put more stress on my body. This guy is 45 pounds. I did one of my routines tonight,felt good halfway through, but the last half nearly did me in. I can definitely feel the impact of the heavier kettlebell on my body. We will see how I feel in the morning, and whether I can get out of bed. 
+
+For anyone interested (and if you’ve read this far, maybe you are), I alternate between two different routines. I do a tabata-like workout with kettlebell swings - 30 seconds one arm, 30 seconds other arm, 30 seconds of rest and repeat 15–20 times. I also do one of the [Spartacus workouts](http://www.squidoo.com/spartacus-workout-2012) designed by Men’s Health magazine. I put up a page on Squidoo detailing all three versions of the workouts to help get people started with choosing a workout. I’ve switched over to doing [Spartacus 2.0](http://www.squidoo.com/spartacus-workout-2012 "Spartacus 2 workout") now.

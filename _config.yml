@@ -1,15 +1,3 @@
-<<<<<<< Local Changes
-source:      .
-destination: ./_site
-plugins:     ./_plugins
-layouts:     ./_layouts
-include:     ['.htaccess']
-exclude:     []
-keep_files:  ['.git','.svn']
-gems:        []
-timezone:    America/Vancouver
-encoding:    nil
-=======
 title:            Four Sides
 tagline:          Writing the Real
 description:      A father, urban hermit, polymath. 

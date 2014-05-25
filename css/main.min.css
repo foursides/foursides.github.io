@@ -1578,8 +1578,8 @@ body {
 }
 
 #index article p {
-    font-size: 14px;
-    font-size: .875rem
+    font-size: 16px;
+    font-size: .900rem
 }
 
 #index article p+p {

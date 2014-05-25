@@ -1,6 +1,10 @@
+---
+layout: post
 title: One Sip is All it Takes
-tags: coffee, tea, life
-date: 2013-01-25
+tags: [coffee, tea, life]
+category: articles
+---
+
 
 There is nothing quite like the sound of a ceramic mug when it first touches down on a table, full of steaming, hot liquid.
 

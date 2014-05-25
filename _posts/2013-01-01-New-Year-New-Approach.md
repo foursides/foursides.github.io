@@ -1,6 +1,9 @@
+---
+layout: post
 title: New Year, New Approach
-date: 2013-01-01
+category: articles
 tags: life, zen
+---
 
 New Year's Eve is meant to be a time to connect with friends and family. Not so for me. I have been at home cleaning up my office, doing dishes, and settling down on my couch to catch up on some reading that has been collecting. Reading about what people are up to on Facebook/Twitter, and starting to see some of the drunken shenanigans on Instagram makes me wish I was out enjoying myself like in years past. 
 

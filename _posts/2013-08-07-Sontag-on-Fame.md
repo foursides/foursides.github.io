@@ -1,6 +1,10 @@
+---
+layout: post
 title: Sontag on Fame
-tags: writing, sontag, quote
-date: 2013-08-07
+tags: [writing, sontag, quote]
+category: articles
+---
+
 
 > There's a reason why traditional religious wisdom has been esoteric and often requires a kind of initiation, because it's not for just anybody. The nature of modern communication systems is that anything can be said, any context, so that things can be placed in many different contexts at the same time, like photography. But there's something profoundly compromising about that situation. Of course, it allows for a liberty of action and consciousness that people have never had before. But it means that you can't keep original or profound meanings intact because inevitably they're disappointed, adulterated, transformed, and transmuted. So when you launch an idea for a fantasy or a theme or an image to the world, it has this tremendous career that you can't possibly control or limit. You want to share things with other people, but on the other hand you don't want to just feed the machine that needs millions of fantasies and objects and products and opinions to be fed into it every day in order to keep on going. And that's perhaps a reason one is tempted to be silent sometimes. 
 

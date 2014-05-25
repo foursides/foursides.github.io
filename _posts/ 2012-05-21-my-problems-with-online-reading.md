@@ -1,6 +1,9 @@
+---
+layout: post
 Title: My Problems with Online Reading
-Date: 2012-05-21
-Tags: reading, online
+Tags: [reading, online]
+category: articles
+---
 
 > There was too much noise. Even with the relatively small number of feeds to which I was subscribed, almost none of it was interesting to me. I realized that, for some reason I couldn’t quite recall, I felt obligated to stay abreast of new developments in technology and such.
 > 

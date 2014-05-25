@@ -14,7 +14,7 @@ title:            Four Sides
 tagline:          Writing the Real
 description:      A father, urban hermit, polymath. 
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://www.foursides.ca
+url:              localhost
 
 # Owner/author information
 owner:

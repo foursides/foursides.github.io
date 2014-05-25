@@ -13,7 +13,7 @@ owner:
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # To register at HMFAYSAL SOCIAL, visit http://social.hmfaysal.tk
   twitter:        four_sides
-  facebook:       JamesMcCullough79
+  facebook:       jmccullough79
   github:         
   linkedin:       
   instagram:      foursides
@@ -21,7 +21,7 @@ owner:
   tumblr:         asheepfarm
   hmfaysalsocial: 
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  google_plus:    +JamesMcCullough
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-467040-3
@@ -36,16 +36,13 @@ links:
     url: /
   - title: About
     url: /about/
-  - title: Articles
-    url: /articles/
-  - title: Setup
-    url: /theme-setup/
-  - title: T-Details
-    url: /technical-details/
-  - title: The Evil-Genius
-    url: http://www.theevilgenius.tk/
+  - title: Blog
+    url: /blog/
+  - title: Reviews
+    url: /reviews/
+  - title: Consulting
+    url: http://www.foursidesconsulting.com/
     external: true
->>>>>>> External Changes
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Vancouver

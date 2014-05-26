@@ -29,6 +29,7 @@ body {
 	font-family: 'Merriweather', serif;
 	font-weight: 400;
     margin: 0
+	font-size: 16px;
 }
 
 h1 {
@@ -45,6 +46,7 @@ b, strong {
 }
 
 dfn {
+	font-family: 'Merriweather', serif;
     font-style: italic
 }
 
@@ -199,6 +201,7 @@ a, b, blockquote, em, figure, h1, h2, header, i, img, input, p, q, span, strong 
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Merriweather', serif;
+	font-weight: 700;
 }
 
 h1 {
@@ -317,6 +320,7 @@ blockquote {
     padding-left: 20px;
     margin-left: -28px;
     font-family: font-family: 'Merriweather', serif;
+	font-weight: 400;
     font-size: 18px;
     font-size: 1.5rem;
     font-style: italic;

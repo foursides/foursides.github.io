@@ -1475,6 +1475,7 @@ select:focus {
 body {
     color: #333332;
     font-family: 'Merriweather', serif;
+	font-weight: 400;
     background-color: #fff;
     font-color: #333332
 }
@@ -1750,6 +1751,7 @@ body {
     padding: 0;
     margin: 0;
     font-family: 'Merriweather', serif;
+	font-weight: 400;
     border-bottom: 1px solid gray
 }
 
@@ -1831,7 +1833,8 @@ body {
 }
 
 .holder {
-    font-family: 'PT Sans Narrow', sans-serif
+    font-family: 'Merriweather', serif;
+	font-weight: 400;
 }
 
 .holder a {

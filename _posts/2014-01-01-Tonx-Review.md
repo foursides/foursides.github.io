@@ -1,8 +1,10 @@
-# Tonx Coffee Review
-- James McCullough
-- four_sides
-- coffee
-- 2013/06/25
+---
+layout: post
+title: Tonx Coffee Review
+description: "The best coffee available today: Tonx. Read about the varieties of coffee that has been delivered over the past few years."
+category: review
+tags: [tonx, coffee, fuel]
+---
 
 <a href="http://goo.gl/bZagW" title="Tonx Coffee"><img src="http://farm6.staticflickr.com/5468/9131558517_1a9265450a.jpg" width="500" height="270" alt="Tonx Coffee" align="center" margin="5px"></a>
 <br>

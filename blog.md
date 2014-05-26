@@ -1,8 +1,8 @@
 ---
 layout: post-index
 permalink: /blog/
-title: Blog
-tagline: A List of Posts
+title: Writings
+tagline: A List of Writings
 tags: [blog]
 ---
 {% if paginator.total_pages > 1 %}

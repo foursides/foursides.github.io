@@ -1,7 +1,7 @@
 ---
 layout: home
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+description: "Writings of an urban hermit with a variety of interests."
+tags: [life, technology, writing, blogging, blog, paleo, fitness, kettlebell]
 image:
   feature: texture-feature-01.jpg
   credit: James McCullough

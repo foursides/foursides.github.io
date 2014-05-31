@@ -18,6 +18,6 @@ Yes, what is that mysterious liquid that brings so much goodness to our bodies i
 <p>
 It's the one thing we all look forward to after a cold afternoon of playing in the snow, or a long walk through the mists after a rainfall, or a miserable sleep: a warm drink to snap us back into reality and instantly make us feel a thousand times better from head to toe.
 <p>
-One sip is all it takes.[^1]
+One sip is all it takes[^1]
 
-[^1]: Fueled by [Tonx](https://tonx.org/u/foursides "Tonx Coffee")
+[^1]:  Fueled by [Tonx](https://tonx.org/u/foursides "Tonx Coffee")

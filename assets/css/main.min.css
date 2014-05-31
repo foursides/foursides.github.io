@@ -331,7 +331,7 @@ blockquote {
     font-family: 'Merriweather', serif;
 	font-weight: 400;
 	font-size: 1.15rem;
-	line-height: 2.0rem;
+	line-height: 2;
     font-style: italic;
 	
     border-left: 4px solid #333332
@@ -1498,6 +1498,8 @@ body {
     color: #333332;
     font-family: 'Merriweather', serif;
 	font-weight: 400;
+	font-size: 1.3rem;
+	line-height: 150%;
     background-color: #fff;
     font-color: #333332
 }

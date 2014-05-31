@@ -49,7 +49,11 @@ links:
 timezone:    America/Vancouver
 future:      true
 pygments:    true
-markdown:    kramdown
+markdown:    redcarpet
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
+
+redcarpet: 
+	extensions: ["footnotes"]
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:title

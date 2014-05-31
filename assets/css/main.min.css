@@ -30,8 +30,8 @@ body {
 	font-weight: 300;
 	
     margin: 0
-	font-size: 1.2erm;
-	line-height: 2;
+	font-size: 1.15erm;
+	line-height: 1.8;
 }
 
 p {
@@ -39,8 +39,8 @@ p {
 	font-weight: 300;
 	
     margin: 0
-	font-size: 1.2erm;
-	line-height: 2;
+	font-size: 1.15erm;
+	line-height: 1.8;
 }
 
 h1 {
@@ -207,7 +207,7 @@ a, b, blockquote, em, figure, h1, h2, header, i, img, input, p, q, span, strong 
     -moz-transition: all .2s ease;
     -ms-transition: all .2s ease;
     -o-transition: all .2s ease;
-    transition: all .2s ease
+    
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -335,6 +335,7 @@ blockquote {
 	font-size: 1.15rem;
 	line-height: 2;
     font-style: italic;
+	width: 80%;
 	
     border-left: 4px solid #333332
 }
@@ -345,13 +346,6 @@ blockquote {
     font-size: .875rem
 }
 
-p {
-	font-family: 'Merriweather', serif;
-	font-weight: 400;
-    
-	
-    margin: 0 0 1.625rem
-}
 
 p+p {
     margin-top: -1.625rem;

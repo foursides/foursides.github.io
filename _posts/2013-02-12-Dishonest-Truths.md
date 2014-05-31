@@ -7,11 +7,12 @@ tags: [life, truth]
 ---
 
 > We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.
+> 
 > -- Plato
 
 When someone offers you a compliment, regardless of what it is about, how do you respond?
 <p>
-Most people I come across give the same reaction, "Thank you, **but** ..." <p>
+Most people I come across give the same reaction, "Thank you, but ..." <p>
 
 Do I really need to finish that sentence? It's rampant, it's everywhere I go. The person receiving the compliment isn't really at fault though, because the other thing I see happening are the dishonest truths. <p>
 
@@ -28,7 +29,7 @@ You are attractive.<p>
 You are a brilliant writer/chef/baker/designer. <p>
 You are a valuable worker. <p>
 
-If we get over this fear of the light and believe in every word that someone says, we will live a much fuller life. This isn't to say we can't be constantly refining who we are in all areas of life. What I am saying is you are smart, and can become smart*er*, health*ier*, turn good into *great*.<p> 
+If we get over this fear of the light and believe in every word that someone says, we will live a much fuller life. This isn't to say we can't be constantly refining who we are in all areas of life. What I am saying is you are smart, and can become smarter, healthier, turn good into <em>great</em>.<p> 
 
 Believe in yourself; help others believe in themselves.<p>
 

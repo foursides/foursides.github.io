@@ -5,7 +5,8 @@ tags: [life, work]
 category: articles
 ---
 > I'm not particularly stressed, I'm not particularly overwhelmed. I'm not even mad, but for the past week I have just been feeling bored.
-> – Ben Brooks, <a title="Mentally Fatigued | Ben Brooks" href="http://brooksreview.net/2013/02/tired-ben/">Mentally Fatigued</a>
+>
+> –- Ben Brooks, <a title="Mentally Fatigued | Ben Brooks" href="http://brooksreview.net/2013/02/tired-ben/">Mentally Fatigued</a>
 
 Unlike Ben, I am feeling quite stressed, but I can definitely relate to his feelings of boredom.
 <p>

@@ -52,14 +52,14 @@ pygments:    true
 markdown:    redcarpet
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 
-redcarpet: 
-	extensions: ["footnotes"]
+
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:title
 paginate: 10
 
 kramdown:
+	input: GFM
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char

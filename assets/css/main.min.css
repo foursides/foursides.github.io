@@ -330,9 +330,9 @@ blockquote {
     margin-left: -28px;
     font-family: font-family: 'Merriweather', serif;
 	font-weight: 400;
-    font-size: 1.12em;
+    font-size: 16px;
     font-style: italic;
-	line-height: 3;
+	line-height: 1.5;
     border-left: 4px solid #333332
 }
 

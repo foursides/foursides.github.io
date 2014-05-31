@@ -27,7 +27,8 @@ html {
 
 body {
 	font-family: 'Merriweather', serif;
-	font-weight: 400;
+	font-weight: 300;
+	font-style: light;
     margin: 0
 	font-size: 16px;
 	line-height: 24px;
@@ -1498,7 +1499,7 @@ body {
     color: #333332;
     font-family: 'Merriweather', serif;
 	font-weight: 300;
-	font-size: 1.3rem;
+	font-size: 1.2rem;
 	line-height: 150%;
     background-color: #fff;
     font-color: #333332

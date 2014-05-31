@@ -1269,7 +1269,7 @@ button, input, label, select, textarea {
 }
 
 button, input, select, textarea {
-    font-family: 'Merriweather', serif;
+    font-family: 'b
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
@@ -3009,7 +3009,7 @@ ol, ul {
 }
 
 #top .block-title {
-	font-family: Verdana, Geneva, sans-serif;
+	font-family: 'Merriweather', serif;
     margin: 0;
     font-size: 1.875em;
     line-height: 1.2em;

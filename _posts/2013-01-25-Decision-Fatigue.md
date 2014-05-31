@@ -6,7 +6,8 @@ tags: [life, work]
 ---
 
 > Decision fatigue is real talk when it comes to the web.
-> -- [Joshua Blankenship](http://joshuablankenship.com/blog/2012/09/12/some-thoughts-on-web-content-strategy/ "Some Thoughts on Web Content Strategy"), Some Thoughts on Web Content Strategy
+>
+> -- Joshua Blankenship, [Some Thoughts on Web Content Strategy]((http://joshuablankenship.com/blog/2012/09/12/some-thoughts-on-web-content-strategy/ "Some Thoughts on Web Content Strategy")
 
 Through my life, I have been fairly good at making choices. I don't spend a lot of time doing price comparisons, looking up reviews of products, sorting out what to order off a menu, and so forth. I tend to enter an environment either knowing roughly or exactly what I am wanting, or it simply does not matter to me. For example, if I need a power bar, I tend to scan the options for something that isn't incredibly bulky and go for it. 
 <p>
@@ -28,6 +29,7 @@ I started to think about how I could use the web better to align more with who I
 <p>
 I don't think I need to develop a full content publishing strategy since this is more hobby than business for me, but I do want to rethink about what I share and what I create here. 
 <p>
+
 This blog has been forever evolving for me, it seems. Time to nail it down.[^2]
 
 [^1]: I am a big proponent of Douglas Rushkoff's [Program, or Be Programmed](http://www.amazon.com/gp/product/B004ELAPME/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B004ELAPME&linkCode=as2&tag=four0b-20 "Program or Be Programmed")

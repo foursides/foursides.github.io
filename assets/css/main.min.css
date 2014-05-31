@@ -3008,7 +3008,7 @@ ol, ul {
     background: #f0ba7b;
 }
 
-#top .block-title {
+#top .block-title h1 {
 	font-family: 'Merriweather', serif;
     margin: 0;
     font-size: 1.875em;

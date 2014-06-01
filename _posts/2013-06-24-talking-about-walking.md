@@ -10,16 +10,16 @@ tags: [urban, explore]
 > -- Alexandra Horowitz, [On Looking: Eleven Walks with Expert Eyes](http://www.amazon.com/gp/product/1439191255/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1439191255&linkCode=as2&tag=four0b-20 "On Looking: Eleven Walks with Expert Eyes | Alexandra Horowitz")
 
 <br><center>
-<a href="http://www.flickr.com/photos/jmccullough/9134039380/" title="Urban Vancouver by Urban_Hermit, on Flickr"><img src="http://farm4.staticflickr.com/3730/9134039380_5ca16bc887.jpg" width="270" height="360" alt="Urban Vancouver" align="center" margin="10px"></a>
+<a href="https://www.flickr.com/photos/jmccullough/9134039380" title="Urban Vancouver by James M., on Flickr"><img src="https://farm4.staticflickr.com/3730/9134039380_cf1d3c6a1b_o.jpg" width="270" height="360" alt="Urban Vancouver"></a>
 <br></center>
 
-Mark Kingwell was reviewing a selection of books for [Harper's Magazine](http://www.amazon.com/gp/product/B00005N7QO/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00005N7QO&linkCode=as2&tag=four0b-20 "Harper's Magazine")[^1] under the title "Talking the Walk." Reading through it, while sitting on the beach, the above paragraph stood out to me as the author recalls taking a walk with her toddler son. Having done many walks with my daughter, I was struck with how accurate she captured the essence of a walk with kids in a few sentences. The walk is not about getting to a destination or exercise, it is about discovery. 
+Mark Kingwell was reviewing a selection of books for [Harper's Magazine](http://www.amazon.com/gp/product/B00005N7QO/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00005N7QO&linkCode=as2&tag=four0b-20 "Harper's Magazine")<sup><a href="#fn:1" id="fnref:1" title="see footnote" class="footnote">[1]</a></sup> under the title "Talking the Walk." Reading through it, while sitting on the beach, the above paragraph stood out to me as the author recalls taking a walk with her toddler son. Having done many walks with my daughter, I was struck with how accurate she captured the essence of a walk with kids in a few sentences. The walk is not about getting to a destination or exercise, it is about discovery. 
 
 Contrast that to how the majority of us walk: with the intention to get some place, for exercise, to walk with someone for conversation. Apart from a stroll out of a bar under the moonlight with the purpose to see who is out there, it is rare for people to walk in an urban environment and pay close attention to the details around them. The only times we notice something is when there is a disruption with our walk. Someone cutting us off on the sidewalk, an annoying conversation with people talking too loudly, car horns or sirens going off. We miss out on the finer details that toddlers are only just discovering. What is new and different to them is completely mundane to the adults. 
 
 As I sat on the beach reading through this section (and the entire magazine), I thought about how different life is when we aren't moving and in a rush to be somewhere. I was sitting with my back against a tree and found myself looking up whenever I noticed someone new was entering the beach area. I wasn't alone, either. As people walked past, they almost always glanced in my direction. Even with so much happening around us, we were all hyper-aware of who was where and what they were doing. 
 
-When walking through a mall or the main street downtown, I am rather oblivious to the people around me. I don't find myself looking across the street to see someone, for example. At the park, someone a hundred feet away will at least get a courtesy glance, ya know, just in case.[^2] 
+When walking through a mall or the main street downtown, I am rather oblivious to the people around me. I don't find myself looking across the street to see someone, for example. At the park, someone a hundred feet away will at least get a courtesy glance, ya know, just in case.<sup><a href="#fn:2" id="fnref:2" title="see footnote" class="footnote">[2]</a></sub> </p>
 
 In a place where privacy is limited because of an open space, it seems almost natural to invade eachother's privacy by looking over or striking up conversation with someone sitting nearby. No need to tell this to kids as they are more than willing to pick up the abandoned toy even with its owner mere footsteps away. In a crowded place, those conversations usually don't amount to much. 
 
@@ -33,6 +33,17 @@ As Mark Kingwell begins his article:
 
 To walk, is to discover - both the physical and the mental; the private and the public. 
  
-[^1]: I didn't know this, but you can subscribe to print magazines through Amazon and save even more than the deals on the subscription cards in magazines. Crazy. 
+<div class="footnotes">
+<hr />
+<ol>
 
-[^2]: Nevermind the fact that I barely know anyone here. 
+<li id="fn:1">
+<p>I didn&#8217;t know this, but you can subscribe to print magazines through Amazon and save even more than the deals on the subscription cards in magazines. Crazy.  <a href="#fnref:1" title="return to article" class="reversefootnote">&#160;&#8617;</a></p>
+</li>
+
+<li id="fn:2">
+<p>Nevermind the fact that I barely know anyone here.  <a href="#fnref:2" title="return to article" class="reversefootnote">&#160;&#8617;</a></p>
+</li>
+
+</ol>
+</div>

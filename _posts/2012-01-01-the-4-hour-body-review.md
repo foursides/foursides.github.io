@@ -1,8 +1,10 @@
+---
+layout: post
 title: The 4 Hour Body Review
-slug: the-4-hour-body-review/
-date: 2012-01-01
-tags: 4 hour body, ferriss
-
+description: "The full review of The 4 Hour Body by Tim Ferriss."
+category: articles
+tags: [4 hour body, fitness, ferriss, reviews]
+---
 Below is my complete review of <a title="The 4 Hour Body | Amazon" href="http://www.amazon.com/gp/product/030746363X?ie=UTF8&tag=four0b-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=030746363X" target="_blank">The 4 Hour Body by Timothy Ferriss</a>. Fair warning, it is nearly 5,000 words in length.
 <p style="text-align: center;"><a title="The 4 Hour Body Newsletter | Facebook" href="http://www.foursides.ca/4-hour-body-newsletter/the-4-hour-body/" rel="attachment wp-att-1542" target="_blank"><img src="http://farm4.staticflickr.com/3821/9045507083_399f377c40_m.jpg" width="240" height="240" alt="the-4-hour-body" align="center"></a></p>
 Also consider signing up for <a title="The 4 Hour Body Newsletter" href="http://eepurl.com/cC-VI" target="_blank">The 4 Hour Body Newsletter</a> which will give you some great resources found across the Internet every two weeks.

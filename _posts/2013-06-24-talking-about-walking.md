@@ -1,6 +1,9 @@
+---
+layout: post
 title: Talking About Walking
-tags: urban, explore
-date: 2013-06-24
+category: articles
+tags: [urban, explore]
+---
 
 > A walk is exploring surfaces and textures with finger, toe, and - yuck - tongue; standing still and seeing who or what comes by; trying out different forms of locomotion (among them running, marching, high-kicking, galloping, scooting, projectile falling, spinning, and noisy shuffling). It is archaelogy; exploring the bits of discarded candy wrapper; collecting a fistful of pebbles and a twig and a torn corner of a paperback; swishing dirt back and forth along the ground. 
 

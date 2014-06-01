@@ -2,7 +2,7 @@
 layout: post
 title:  Weathering the Storm - A Story of Moving On
 category: articles
-tags: [relationships, life]
+tags: [relationships, life, fuck it]
 ---
 
 Play the video, then read on:  

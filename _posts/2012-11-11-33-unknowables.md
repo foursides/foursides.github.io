@@ -1,7 +1,10 @@
+---
+layout: post
 title: 33 Unknowables
-slug: 33-the-unknowables
-date: 2012-11-11
-tags: life, birthday
+description: "Happy birthday to me."
+category: articles
+tags: [life, birthday]
+---
 
 <blockquote>It seems strange to me now to think about how I have to unlearn how I lived in my 20s to really live now.</blockquote>
 33

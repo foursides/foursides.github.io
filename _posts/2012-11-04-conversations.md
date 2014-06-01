@@ -1,6 +1,9 @@
+---
+layout: post
 title: Conversations
-tags: conversations, life, coffee
-date: 2012-11-04
+category: articles
+tags: [life, conversations, coffee]
+---
 
 Conversations today: banal generalities that lack depth. 
 

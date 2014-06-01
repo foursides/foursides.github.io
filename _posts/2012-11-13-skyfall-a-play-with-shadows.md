@@ -1,8 +1,9 @@
-title: Skyfall: A Play with Shadows
-slug: skyfall
-tags: reviews, bond, movies
-date: 2012-11-13
-
+---
+layout: post
+title: Skyfall- A Play with Shadows
+category: articles
+tags: [reviews, bond, movies]
+---
 
 >Let the sky fall, when it crumbles
 >

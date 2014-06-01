@@ -1,5 +1,10 @@
-Title: A Potential Change
-Date: 2013-06-09 09:00
+---
+layout: post
+title: A Potential Change
+category: articles
+tags: [writing, blogging]
+---
+
 
 After receiving an incredible amount of emails notifying me that people have been trying to gain access to my blog (on Wordpress), I thought I would seek out alternatives. I first contemplated setting up my own blog on a spare desktop computer, but I realized how cumbersome the process actually is. 
 

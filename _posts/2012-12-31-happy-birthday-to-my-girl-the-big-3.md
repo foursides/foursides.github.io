@@ -1,8 +1,12 @@
-title: Happy Birthday to My Girl: The Big 3
-date: 2012-12-31
-tags: life, daughter
+---
+layout: post
+title: Happy Birthday to My Girl - The Big 3
+description: "Happy birthday to my beautiful daughter - 3 years old"
+category: articles
+tags: [life, daughter, birthday]
+---
 
-The end of the year brings about a time for a lot of personal reflection for people. It is doubly important for me as December 31st happens to be the birthday for my daughter. Today, she turns 3. A number that seems insignifiant for someone like myself that is <a title="33: The Unknowables" href="http://www.foursides.ca/2012/11/33-the-unknowables/">33</a> now, but rather significant for her considering the amount of changes she is going through.
+The end of the year brings about a time for a lot of personal reflection for people. It is doubly important for me as December 31st happens to be the birthday for my daughter. Today, she turns 3. A number that seems insignifiant for someone like myself that is <a title="33: The Unknowables" href="http://www.foursides.ca/33-the-unknowables/">33</a> now, but rather significant for her considering the amount of changes she is going through.
 
 Watching my daughter over the past year has been a wake-up call to me with how much a person can truly change within a year, whether naturally or through conscientious actions to make improvements. I witness one of my grandmothers (nearly 90 years old) go through major changes herself in the past year and cannot help but think of time as an inverse parabola. At the beginning and at the ends of our life, each day is far more significant than within the middle years.
 

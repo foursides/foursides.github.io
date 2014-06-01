@@ -18,11 +18,10 @@ tags: [culture, life]
 <img src="http://cdn.theatlanticwire.com/img/upload/2012/08/24/A0_5lFKCEAA2vSc.jpg" alt="The Atlantic" style="padding-bottom:0.2em;">via The Atlantic</div></a>
 
 Two separate incidents happened this week which I found to be interesting when juxtaposed against each other. 
-
+<p>
 1. Samsung was found guilty in the case of copying the iPhone. 
 2. Cecilia Gimenez ruined a 100 year old fresco. 
-
-
+</p>
 One of these acts was mocked openly and laughed at; the other had people laughing at one party, and fearful of what would happen with the other. 
 
 One of these acts basically destroyed a work of art; the other stole ideas to create something new. 

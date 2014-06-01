@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Pain Pushes Until the Vision Pulls 
-Tags: [life, pain]
+Tags: [life, pain, quote]
 category: articles
 ---
 
 > Pain pushes until the vision pulls. 
+>
 > -- Rev. Michael Bernard Beckwith
 
 [Lori Painter](http://www.lifebylori.com/pushed-by-pain-until-pulled-by-a-vision) posted a wonderful video sharing the story of her life, and how painful it was for her five years ago. The message throughout the video resonated with me so much that I needed to share it. 

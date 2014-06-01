@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  2011: Don't Move, Improve
+title:  Don't Move, Improve
 category: articles
 tags: [life, work]
 ---

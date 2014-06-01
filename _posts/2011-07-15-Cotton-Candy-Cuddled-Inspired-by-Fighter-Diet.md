@@ -1,10 +1,10 @@
-# Cotton Candy Cuddled - Inspired by @Fighter_Diet
-- James McCullough
-- four_sides
-- fitness
-- 2011/07/15
-- published	
+---
+layout: post
+title: Cotton Candy Cuddled - Inspired by @Fighter_Diet
+category: articles
+tags: [fitness, paleo]
 
+---
 > A great friend tells you to keep working hard. A great friend does not tell you to, "Take it easy and don't be so hard on yourself." We grow from pushing our limits, not from being cotton candy cuddled.
 > 
 > [Pauline Nordin](http://www.facebook.com/FDfighterdiet/posts/10150262669479209), [Fighter Diet](http://www.fighterdiet.com/)
@@ -12,7 +12,7 @@
 I follow Pauline Nordin on Facebook for a few reasons:
 
 1. She's pretty darn funny with some of her comments about her fellow gym users. 
-2. 2. She gives some pretty solid, motivating quotes. 
+2. She gives some pretty solid, motivating quotes. 
 
 I haven't read her eBooks as of yet, but from what I understand, it is fairly similar to the paleo diet, but with a little more flexibility in the menu items that are allowed. Just in case anyone was interested. 
 

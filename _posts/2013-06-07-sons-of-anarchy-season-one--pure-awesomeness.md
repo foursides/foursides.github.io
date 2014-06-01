@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Sons of Anarchy: Season One = Pure Awesomeness
+title:  Sons of Anarchy: Season One - Pure Awesomeness
 category: articles
 tags: [sons of anarchy, television, reviews]
 ---

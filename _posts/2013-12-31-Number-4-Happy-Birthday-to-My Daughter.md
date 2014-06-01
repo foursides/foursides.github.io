@@ -1,9 +1,10 @@
-# Number 4: Happy Birthday to My Daughter
-- James McCullough
-- four_sides
-- 2013/12/31
-- birthday
-- published	
+---
+layout: post
+title: Number 4 - Happy Birthday to My Daughter
+category: articles
+tags: [birthday, life, daughter]
+
+---
 
 December 31st at 9:00 PM, my daughter Kylie was born. 
 

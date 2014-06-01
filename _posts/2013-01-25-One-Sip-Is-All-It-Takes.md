@@ -18,8 +18,8 @@ Yes, what is that mysterious liquid that brings so much goodness to our bodies i
 <p>
 It's the one thing we all look forward to after a cold afternoon of playing in the snow, or a long walk through the mists after a rainfall, or a miserable sleep: a warm drink to snap us back into reality and instantly make us feel a thousand times better from head to toe.
 <p>
-One sip is all it takes.<a href="#fn:1" id="fnref:1" title="see footnote" class="footnote">[1]</a>.</p>
-<div class="footnotes">
+One sip is all it takes.<sup><a href="#fn:1" id="fnref:1" title="see footnote" class="footnote">[1]</a>.</p>
+<div class="footnotes"></sup>
 <hr />
 <ol>
 

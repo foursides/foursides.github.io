@@ -26,7 +26,8 @@ I really wish I could get into more detail about the plot lines, the characters,
 
 If you enjoyed _The Shield_ (or Shawn Ryan's other series, [The Chicago Code](http://amzn.to/11qcX4t "Chicago Code"), you'll really enjoy _Sons of Anarchy_. If you are at all interested in motorcylce gangs, like the Hells Angels, you will love this show. If you like a show with strong storytelling, not afraid to give you plenty of shocking moments, and don't mind seeing a lot of blood, this show is definitely for you.  
 
-**Quick Update**
+### Quick Update
+
 Sons of Anarchy is nearing its end. Catch up on the seasons for free as a member of [Amazon Prime - Free Trial](http://www.amazon.com/gp/video/primesignup?tag=four0b-20 "Amazon Prime - Free Trial"):
 
 [Season 1](http://www.amazon.com/gp/product/B0040I09RM/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0040I09RM&linkCode=as2&tag=four0b-20&linkId=RMXSMOFILWF6JPKU "Season 1")

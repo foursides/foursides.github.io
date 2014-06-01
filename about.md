@@ -1,28 +1,46 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About the Theme
-tagline: HMFAYSAL V2, a Jekyll Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 9-9-2013
-image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+title: About James McCullough
+tags: [about, life, writing, blogging]
 ---
 
-My name is **Hossain Mohd. Faysal**, I am an MSc + PhD candidate in *Electrical Engineering* at the [School of Engineering and Applied Science](http://www.seas.upenn.edu/) at **University of Pennsylvania**. I am licensed as a Professional Engineer (P.E) to practice in the states of Texas, Massachusetts and California. I graduated with a B.Sc degree in EECS from Texas A&M University in 2011 and with a B.Sc degree in Mathematics from Massachusetts Institute of Technology in 2012, and currently focusing on Electrical Engineering for my post-graduate studies.   
+<p>My name is <strong>James McCullough</strong> - an entrepreneur, a writer, a father, a paleo-eating polymath, fuelled by <a href="http://foursides.ca/tonx-coffee-review" title="Tonx Coffee">Tonx Coffee</a>. I work as a <a href="http://www.foursidesconsulting.com" title="Hotel Consultant | James McCullough">consultant for boutique hotels</a>.</p>
 
----
-Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://www.theevilgenius.tk) as a theme for others to hack and build on would be fun. So here be that theme --- I call it **HMFAYSAL V2**, a responsive Jekyll theme with a navigation drawer, large featured images and solid typography. 
+<p>This is my home to help understand what is happening around us. I aim to bring the big ideas, the trends, that are fashionable or obscure and share them with you here.</p>
 
-## HMFAYSAL V2 is all about:
+<p>The style here may be different than what you are accustomed to, but I have never been one to fit in with the majority.</p>
 
-* Responsive templates. Features a slide out drawer menu in mobile browsers.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments --- content first.
-* Large feature images for posts and pages.
-* Author sidebar to pimp your bio, photo[^2], and social media links.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
+<h4>I am an outlier.</h4>
 
-<a markdown="0" href="{{ site.url }}/technical-details" class="btn">Technical Details</a>
+<p>I view things from the outside before fully engaging with the object.</p>
+
+<p>I will cover many topics here - niches are passe, a dangerous trend that does not help us in the long term. I am here to help you grow without being a preacher.</p>
+
+<p>I am a host, not a guru. I welcome feedback and good conversation. I want to build a community more than a level of readership.</p>
+
+<p>[ Below is an introduction to the philosophy of my writing. To learn more about me and my connections, check out my <a href="http://www.about.me/jamesmccullough">About.me profile</a>. ]</p>
+
+<h1>Uomo universale: Why a focused blog is dangerous</h1>
+
+<blockquote>
+<p>The ideal of the Renaissance man or woman, or uomo universale, has always suggested a well-rounded, balanced person, comfortable with both art and science. The liberal arts curriculum of universities around the world originated as a reflection of this ideal. In an age of increasing speculization, attaining balance requires going against the grain.</p>
+
+<ul>
+<li>Michael Gelb, <a href="http://www.amazon.com/gp/product/0440508274/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0440508274&amp;linkCode=as2&amp;tag=four0b-20" title="How to Think Like Leonardo da Vinci | Michael Gelb">How to Think like Leonardo da Vinci</a></li>
+</ul>
+</blockquote>
+
+<p>The one common theme amongst blogs and websites writing to help you gain readership (and make money) with your personal blog is to find a niche and write about it well. This idea of writing focused blogs may help that individual blogger, but it doesn&#8217;t help the reader grow further. Just like the writer categorizes and tags their blog post, the readers also earn tags and get slotted into categories. They are essentially trapped within that category, unless they possess a natural curiosity to explore beyond that initial blog and network. Bloggers do not help the reader move forward into other mindscapes and help them discover other, radically different concepts, but instead ensnare them into similar concepts and like-minded writers.</p>
+
+<p>When responding to the question, &#8220;How do you stand out amongst the 200 million blogs out there?&#8221;<a href="http://keysplashcreative.com/">Susan Gunelius</a> <a href="http://www.personalbrandingblog.com/personal-branding-interview-2-susan-gunelius/">responded with</a>, &#8220;The easy answer to that question is to find your unique niche where you can add value and something extra that isn’t already offered across the Web.&#8221; Maybe I am alone with this idea, but the number of blogs I come across that are about creating value in a niche have surely saturated the internet at this point. It is impossible for someone to keep up with all the blogs in a certain niche, and even more unlikely that they can curate the content to ensure they only read the good quality content.</p>
+
+<p>Instead of another niche blog, we need more of a Renaissance approach to writing to help everyone expand personally. There are blogs out there that curate the internet for us, but few bloggers that expand on the ideas that are discovered or share their ideas on other topic areas. Here are two well-known, long-term examples to describe what I mean.</p>
+
+<p><a href="http://www.boingboing.net/" title="Boing Boing">Boing Boing</a> is a blog with a collective writing for it. Each author writes posts based upon the submissions they receive, or what they have discovered, so in theory, it should be a diverse blog to read. What ends up happening is that each author slots themselves into their own categories (by choice or design, I am not sure), and publishes content that is all within the same area. After reading the blog for several months, you can read an article and make a reasonable guess as to who wrote it. Cory Doctorow is focused on copyright/privacy/surveillance issues, science fiction stories, Linux/Ubuntu, comic books, and anything Walt Disney. Xeni Jardin is the resident expert on current events, anything related to Central and South America, resident Apple lover, and so on. I don&#8217;t feel the need to break down the rest of the authors, because there are quite a long list of names. There is very little cross-over with the authors, and not a lot of commentary to add to what they link to, unless it is with promoting their own works.</p>
+
+<p>Jason Kottke says <a href="http://www.kottke.org/">kottke.org</a> &#8220; &#8230;is a weblog about the liberal arts 2.0.&#8221; After following his blog for several years now, Jason is one of the better curators of the internet out there. The links he shares are from one end of the spectrum to the other, with no common theme linking any of them. For example, the headlines from this past weekend are about: worst movies never made, Pixar, Michael Jackson, tuna, collective nouns, and our outboard brains. A small portion of his links stimulate our minds, the others are purely for entertainment - e.g. the sketches of Pixar characters populating the Star Wars universe. The unfortunate thing is that there is no substantial commentary involved in these postings. The reader is directed to the link, and we are left to make up our own minds about it, or, worse, try to find the snippet that interested us in a long article.</p>
+
+<p>In all my travels across the internet, I haven&#8217;t come across a Renaissance blog that captured my interest because it covered a variety of topics. Instead, I am on an never-ending quest that has me trying to read 275 subscriptions to satisfy my curiosity. I somehow manage to cover the majority of it, but I would much rather read a few blogs that covered a lot of the grand ideas found in these other ones. That is my aim with this blog, to cover large ideas and develop new ones by connecting the dots, an interdisciplinary blog of sorts. And, hopefully, it will inspire someone to break out of their niche and explore other areas of the internet and the world. </p>
+
+<p>There is much to discover and discuss - let&#8217;s get to it.</p>

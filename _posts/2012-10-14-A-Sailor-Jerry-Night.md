@@ -1,9 +1,9 @@
-# A Sailor Jerry Night
-- James McCullough
-- four_sides
-- life
-- 2012/10/14
-- published
+---
+layout: post
+title: A Sailor Jerry Night
+category: articles
+tags: [life, alcohol]
+---
 
 > Long lit up tonight and still drinking
 > Don't we have anything to live for?

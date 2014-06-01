@@ -1,9 +1,13 @@
-# Aligning with My Needs
-- James McCullough
-- four_sides
-- life
-- 2012/03/19
-- published
+---
+layout: post
+title: Aligning with My Needs
+category: articles
+tags: [life]
+image:
+  feature: texture-feature-05.jpg
+  credit: Texture Lovers
+  creditlink: http://texturelovers.com
+---
 
 >The more features you add to a product, the more it dilutes the core reason for a product’s existence and confuses people.
 > 

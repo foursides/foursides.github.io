@@ -1,6 +1,9 @@
+---
+layout: post
 title: For Freelancers: Breaking the Time Barrier
-date: 2013-06-16
-tags: work, freelance
+category: articles
+tags: [work, freelance]
+---
 
 > The first thing you think when someone offers to sell you a perfectly decent- looking car for a thousand dollars is that something must be wrong under the hood
 

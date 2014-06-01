@@ -1,9 +1,9 @@
-# Death of Facts
-- James McCullough
-- four_sides
-- life
-- 2013/03/06
-- published		
+---
+layout: post
+title: Death of Facts
+category: articles
+tags: [life, facts]
+---
 
 > Facts is survived by two brothers, Rumor and Innuendo, and a sister, Emphatic Assertion.
 

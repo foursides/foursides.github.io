@@ -1,9 +1,9 @@
-# Changing My Workflow
-- James McCullough
-- four_sides
-- work
-- 2012/04/09
-- published	
+---
+layout: post
+title: Changing My Workflow
+category: articles
+tags: [work, writing]
+---
 
 A productive workflow is important to us all, but it is imperative for me considering how precious my free time is during the week. Working on my MacBook has been a bit cumbersome lately due to how warm it is running and the keyboard has been acting up for me,[^1] so I have been trying to move my work over to the iPad and adopt the post-PC era. I mentioned a few of the tools I have been using previously, [Byword](https://itunes.apple.com/ca/app/byword/id482063361?mt=8&uo=4&at=10l4Qt "Byword") and [Grazing](https://itunes.apple.com/ca/app/grazing-web-browser/id387125749?mt=8&uo=4&at=10l4Qt "Grazing"). 
 
@@ -20,7 +20,6 @@ Short story is I couldn’t be happier with the keyboard. It adds a lot of funct
   
 I do the final edits on the Wordpress site to enter in all the meta information, a featured image and do the final scheduling for when it should be posted. So far, it is working out well for me. It’s quite a joy to be working on the iPad now instead of using the MacBook, and I enjoy how quiet it is. No fan running, no background processes slowing me down. I am currently looking into purchasing Numbers to do my spreadsheet work on the iPad instead of the laptop now. Time will tell whether I need to tinker further with the setup, but for now, I have my found my peace. 
 
-* * *
 
 [^1]: The cursor tends to jump around on me, deleting letters or even whole sections of a paragraph. Highly annoying.
 

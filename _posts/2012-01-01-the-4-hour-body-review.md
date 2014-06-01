@@ -259,7 +259,6 @@ function mce_success_cb(resp){
                 html = '
 
 <div id="'+err_id+'" style="'+err_style+'" mce_style=""> '+msg+' ';                 var input_id = '#mc_embed_signup';                 var f = $(input_id);                 if (ftypes[index]=='address'){                     input_id = '#mce-'+fnames[index]+'-addr1';                     f = $(input_id).parent().parent().get(0);                 } else if (ftypes[index]=='date'){                     input_id = '#mce-'+fnames[index]+'-month';                     f = $(input_id).parent().parent().get(0);                 } else {                     input_id = '#mce-'+fnames[index];                     f = $().parent(input_id).get(0);                 }                 if (f){                     $(f).append(html);                     $(input_id).focus();                 } else {                     $('#mce-'+resp.result+'-response').show();                     $('#mce-'+resp.result+'-response').html(msg);                 }             }         } catch(e){             $('#mce-'+resp.result+'-response').show();             $('#mce-'+resp.result+'-response').html(msg);         }     } }
-// ]]></script><!--End mc_embed_signup-->
-<br>
+// ]]></script><br>
 
 <a title="The Paleo Diet - Buy Now" href="hhttp://d6681gh176ujtq5htq10l75r2s.hop.clickbank.net/?tid=4HBR" target="_blank"><img src="http://farm4.staticflickr.com/3752/9047817380_c819eae830_m.jpg" width="234" height="240" alt="3covers-293x300"> 

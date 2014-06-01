@@ -29,7 +29,8 @@ body {
 	font-family: 'Merriweather', serif;
 	font-weight: 300;
 	
-    margin: 0
+	margin-top: 2erm;
+	margin-bottom: 2erm;
 	font-size: 1.10erm;
 	line-height: 1.85;
 }
@@ -37,8 +38,6 @@ body {
 p {
 	font-family: 'Merriweather', serif;
 	font-weight: 300;
-	
-    margin: 0
 	font-size: 1.10erm;
 	line-height: 1.85;
 	margin-top: 2erm;
@@ -349,10 +348,7 @@ blockquote {
 }
 
 
-p+p {
-    margin-top: -1.625rem;
-    text-indent: 1.625rem
-}
+
 
 code, kbd, pre, samp, tt {
     font-family: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace

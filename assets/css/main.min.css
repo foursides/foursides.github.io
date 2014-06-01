@@ -2999,6 +2999,7 @@ ol, ul {
 }
 
 #top {
+	
     z-index: 100;
     position: relative;
     color: #fff;
@@ -3009,7 +3010,7 @@ ol, ul {
 	font-family: 'Merriweather', serif;
 	font-weight: 700;
 	font-color: black;
-    margin: 0;
+    margin: 20px;
     font-size: 2.2rem;
     line-height: 2.4rem;
     text-align: center;

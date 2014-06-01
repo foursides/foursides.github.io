@@ -3,6 +3,7 @@ layout: post
 title: A Case of Mistaken Identity 
 category: articles
 tags: [culture, life]
+---
 
 > Material from earlier theatre can be brought into a production in the same way as personal material is brought in. Just as the performer refines, distorts, condenses, and selects from his life experiences, so fragments from earlier dramas can be worked into the play at hand. Only since the intrusion of stupid laws and notions regarding originality has this rich vein of creativity been stopped. Shakespeare and Moliere without their plagiarisms would be much poorer playwrights. An art that is in essence transformational and transmutational should not surrender any of its sources, its deep springs. The modern idea of originality is a lawyer-capitalist construction geared to protecting private property and promoting money-making. It is anti-creative, and inhibits the reworking of old themes in the light of new experience. It is the constant reworking and elaboration of old material- call it plagiarism if you like- that is the strongest sinew of tradition.            
 

@@ -1,6 +1,9 @@
-Title: Growth Through Mistakes
-Tags: writing, blogs
-Date: 2013-07-16
+---
+layout: post
+title: Growth Through Mistakes
+category: articles
+tags: [writing, blogs]
+---
 
 > If you think you’ve reached a point where you can create work that never makes you cringe again, then you’re saying that what you do today will be just as good as what you do next month, next year, and in 5 years from now.
 

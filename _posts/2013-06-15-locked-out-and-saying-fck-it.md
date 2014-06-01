@@ -3,12 +3,9 @@ layout: post
 title: Locked Out and Saying F*ck It
 category: articles
 tags: [life, fuck it]
-image:
-  feature: locked-out-and-saying-fck-it.jpg
-  credit: F*ck It
-  creditlink: http://www.amazon.com/gp/product/1401927599/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1401927599&linkCode=as2&tag=four0b-20
----
 
+---
+<a href="http://www.amazon.com/gp/product/1401927599/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1401927599&linkCode=as2&tag=four0b-20"><img src="/images/locked-out-and-saying-fck-it.jpg"></a>
 > When you say *Fuck It*, you give in to the flow of life - you stop doing what you don't want to do, you finally do what you've always wanted to do, and you stop listening to people and listen to yourself. 
 >
 > -- John C. Parkin, [Fuck It: The Ultimate Spiritual Way](http://www.amazon.com/gp/product/1401927599/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1401927599&linkCode=as2&tag=four0b-20 "Fuck It - John C Parkin")<sup><a href="#fn:1" id="fnref:1" title="see footnote" class="footnote">[1]</a></sup>

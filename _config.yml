@@ -52,6 +52,9 @@ pygments:    true
 markdown:    redcarpet
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 
+redcarpet:
+  extensions: [footnotes]
+
 
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks

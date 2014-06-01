@@ -6,9 +6,13 @@ tags: [life, alcohol]
 ---
 
 > Long lit up tonight and still drinking
+>
 > Don't we have anything to live for?
+>
 > Well of course we do
+>
 > But till they come true
+>
 > We're drinking
 
 > [Japandroids](http://amzn.to/11yyNGa "Japandroids"), "The Nights of Wine and Roses"

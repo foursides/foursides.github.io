@@ -5,8 +5,6 @@ category: articles
 tags: [life]
 image:
   feature: texture-feature-05.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
 ---
 
 >The more features you add to a product, the more it dilutes the core reason for a product’s existence and confuses people.

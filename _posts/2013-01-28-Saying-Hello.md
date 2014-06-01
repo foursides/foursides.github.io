@@ -17,16 +17,17 @@ By being less restrictive in our words and images, we open ourselves up for a co
 I was reminded of this when I stumbled across Adam Brault's piece, 
 [I quit Twitter for a month and it completely changed my thinking about mostly everything](http://adambrault.com/post/37201680402/i-quit-twitter-for-a-month-and-it-completely-changed-my "Adam Brault"):
 <p>
+
 > The level of candor people often share on Twitter, particularly over time, has given me a strong sense of who some of the people I follow are, how they think, and what they value. I end up including many of the people on my Twitter list in the somewhat fuzzy set of people I empathize with.
-<p>
+
 The downside of the openness is that we can all be more selective in who we choose to connect with. When you bump into someone with a different personality or mindset online, we are more likely to discard them in search of the more ideal friendship/partner. This does not leave much room to discover your common interests and learn how to get along with one another. It is rather frightening with how specific one can be in searching for someone to connect with. 
-<p>
+
 It can also be equally disappointing when you finally meet someone in person that you have been building a connection with online. Much like how we build expectations in how a favourite book will be portrayed in a movie, we build expectations in how our real life conversations will play out. Sometimes, it is as though those two people have known each other forever with a seamless transition of online interactions to real ones. Others, it feels like you are starting all over with a vague sense of who that person is. 
-<p>
+
 Being more selective online does not always guarantee a great friendship. Sometimes, you have to reach past your comfort zone to discover that magical person you didn't know existed. Take a chance on that person you feel resistance to because they upset you in some way or pay more attention to someone you first viewed as trivial. Maybe it won't be worthwhile in the end, but maybe, just maybe, it will blossom into a great friendship. 
-<p>
+
 I will be the first person to admit that this isn't easy. I can struggle to say hello to someone at the elevator, so reaching out to someone outside of my comfort zone online is a challenge. It is a challenge I have accepted, because more often than not it has turned into a growing friendship or business partnership. 
-<p>
+
 Saying "Hello" while passing in the hallway is a pleasantry; saying "Hello" online is an invitation to connect and build something together.  
-<p>
+
 But you must start that all by saying, "Hello."

@@ -3,9 +3,9 @@ layout: post
 title:  Sons of Anarchy -  Season One - Pure Awesomeness
 category: articles
 tags: [sons of anarchy, television, reviews]
-image:
-feature: Sons-of-Anarchy-Tattoo.jpg
+
 ---
+<img src="/assets/img/Sons-of-Anarchy-Tattoo.jpg">
 
 I just finished watching [Sons of Anarchy, Season 1](https://itunes.apple.com/us/tv-season/sons-of-anarchy-season-1/id289274652?uo=4&at=10l4Qt "Sons of Anarchy - Season 1") after a strong recommendation from John Bell, [Start Your Novel](http://www.startyournovel.com/). After watching the pilot episode, I was hooked. I honestly couldn't stop watching it, and it's rare for a show like that to come into my life. The last show that had that kind of impact on me was _Mad Men_. So after finishing it, I thought I would give some of my thoughts about the show so far to further entice people to watch/buy the show. 
 

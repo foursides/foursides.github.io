@@ -1,12 +1,11 @@
-# An Invitation to the Future
-- James McCullough
-- four_sides
-- technology
-- 2012/03/11
-- published		
+---
+layout: post
+title: An Invitation to the Future
+tags: [technology, apple]
+---	
 
 > The popular image of the visionary is someone with a clear view of the future, but empirically it may be better to have a blurry one.
-
+>
 > -- Paul Graham, [Frighteningly Ambitious Startup Ideas](http://paulgraham.com/ambitious.html)
 
 This past week could be deemed the Week of the Future. It's hosted the launch of the new iPad, the successive launches (and updates) of several popular apps ([Highlight](http://highlig.ht/), [Sonar](http://www.sonar.me), [Path](http://www.path.com), [Flipboard](http://flipboard.com/)), and SxSW is taking place. It has been difficult to keep track of all of this information, and I have yet to delve into all the news coming out of SxSW yet. For that, I'm going to wait and listen to TWiT and some of the other podcasts on the 5by5 network. All of these items are important to varying degrees, but another small event happened that is more satisfying to me. 

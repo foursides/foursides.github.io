@@ -2,7 +2,7 @@
 layout: post
 title: Changing My Workflow
 category: articles
-tags: [work, writing]
+tags: [work, writing, apple]
 ---
 <p>A productive workflow is important to us all, but it is imperative for me considering how precious my free time is during the week. Working on my MacBook has been a bit cumbersome lately due to how warm it is running and the keyboard has been acting up for me,<sup><a href="#fn:1" id="fnref:1" title="see footnote" class="footnote">[1]</a></sup> so I have been trying to move my work over to the iPad and adopt the post-PC era. I mentioned a few of the tools I have been using previously, <a href="https://itunes.apple.com/ca/app/byword/id482063361?mt=8&amp;uo=4&amp;at=10l4Qt" title="Byword">Byword</a> and <a href="https://itunes.apple.com/ca/app/grazing-web-browser/id387125749?mt=8&amp;uo=4&amp;at=10l4Qt" title="Grazing">Grazing</a>. </p>
 

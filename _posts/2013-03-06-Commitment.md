@@ -1,9 +1,9 @@
-# Commitment
-- James McCullough
-- four_sides
-- life
-- 2013/03/06
-- published		
+---
+layout: post
+title: Commitment
+category: articles
+tags: [life, adventure]
+---
 
 >Whatever you can do, or dream you can,
 >

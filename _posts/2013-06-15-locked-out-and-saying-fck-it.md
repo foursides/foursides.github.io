@@ -1,13 +1,17 @@
-# Locked Out and Saying F*ck It
-- James McCullough
-- four_sides
-- life
-- 2013/06/15
-- published		
+---
+layout: post
+title: Locked Out and Saying F*ck It
+category: articles
+tags: [life, fuck it]
+image:
+  feature: locked-out-and-saying-fck-it.jpg
+  credit: F*ck It
+  creditlink: http://www.amazon.com/gp/product/1401927599/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1401927599&linkCode=as2&tag=four0b-20
+---
 
 > When you say *Fuck It*, you give in to the flow of life - you stop doing what you don't want to do, you finally do what you've always wanted to do, and you stop listening to people and listen to yourself. 
 >
-> -- John C. Parkin, [Fuck It: The Ultimate Spiritual Way](http://www.amazon.com/gp/product/1401927599/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1401927599&linkCode=as2&tag=four0b-20 "Fuck It - John C Parkin")[^1]
+> -- John C. Parkin, [Fuck It: The Ultimate Spiritual Way](http://www.amazon.com/gp/product/1401927599/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1401927599&linkCode=as2&tag=four0b-20 "Fuck It - John C Parkin")<sup><a href="#fn:1" id="fnref:1" title="see footnote" class="footnote">[1]</a></sup>
 
 I stopped writing on this site back in February. I was becoming rather frustrated in the amount of ideas flowing around in my head and struggling to get them published. I thought I had perfected my writing work flow to the point where I couldn't possibly change anything more about it. I was able to publish from my iPhone, my iPad, my computer easily. 
 
@@ -27,7 +31,7 @@ I could still view my site, of course, but publishing something new was impossib
 
 So, I said, "Fuck it," and broke my site. 
 
-The one time I was able to access my site, I exported all the posts, converted them into Markdown, and then decided what to do. I discovered [Scriptogr.am](http://scriptogr.am "Scriptogr.am") by pure accident. My favourite writing application, [Byword](http://click.linksynergy.com/fs-bin/stat?id=IfAPAqe/hTs&offerid=162397&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fca%252Fapp%252Fbyword%252Fid420212497%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30 "Byword"), had received an update that allowed publishing to various blog platforms. Scriptogr.am was one of the options, which prompted me to explore it, put some posts up and see how it performed. 
+The one time I was able to access my site, I exported all the posts, converted them into Markdown, and then decided what to do. I discovered [Scriptogr.am](http://scriptogr.am "Scriptogr.am") by pure accident. My favourite writing application, [Byword](https://itunes.apple.com/us/app/byword/id420212497?mt=12&uo=4&at=10l4Qt "Byword"), had received an update that allowed publishing to various blog platforms. Scriptogr.am was one of the options, which prompted me to explore it, put some posts up and see how it performed. 
 
 The short answer is I liked it enough to keep pushing to make it work, which leads me to the current status of the site. There are roughly 35 posts out of the nearly 300 I had on the Wordpress domain. I curated this first batch because they represented what I felt was the most useful writing and stuff I enjoyed reading again myself. I am sure I will be adding more to it as time goes on. Definitely not the same amount of bloat as the other site. 
 
@@ -35,9 +39,19 @@ Otherwise, not much else will change. Posts will still appear on Facebook and Tw
 
 I still am the same person as I was before, after all:
 
-### Polymath, father, lover of literature and coffee.[^2]
+### Polymath, father, lover of literature and coffee.<sup><a href="#fn:2" id="fnref:2" title="see footnote" class="footnote">[2]</a></sup>
 
-[^1]: A seriously good book. Check it out: [Fuck It](http://www.amazon.com/gp/product/1401927599/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1401927599&linkCode=as2&tag=four0b-20 "Fuck It - John C Parkin")
+<div class="footnotes">
+<hr />
+<ol>
 
+<li id="fn:1">
+<p>A seriously good book. Check it out: <a href="http://www.amazon.com/gp/product/1401927599/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1401927599&amp;linkCode=as2&amp;tag=four0b-20" title="Fuck It - John C Parkin">Fuck It</a> <a href="#fnref:1" title="return to article" class="reversefootnote">&#160;&#8617;</a></p>
+</li>
 
-[^2]: Fuelled by [Tonx Coffee](https://tonx.org/178939be "Tonx Coffee")
+<li id="fn:2">
+<p>Fuelled by <a href="https://tonx.org/178939be" title="Tonx Coffee">Tonx Coffee</a> <a href="#fnref:2" title="return to article" class="reversefootnote">&#160;&#8617;</a></p>
+</li>
+
+</ol>
+</div>

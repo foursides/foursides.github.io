@@ -1,6 +1,6 @@
 ---
 layout: post
-title: For Freelancers: Breaking the Time Barrier
+title: For Freelancers - Breaking the Time Barrier
 category: articles
 tags: [work, freelance]
 ---

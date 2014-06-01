@@ -47,7 +47,7 @@ I still am the same person as I was before, after all:
 </li>
 
 <li id="fn:2">
-<p>Fuelled by <a href="https://tonx.org/178939be" title="Tonx Coffee">Tonx Coffee</a> <a href="#fnref:2" title="return to article" class="reversefootnote">&#160;&#8617;</a></p>
+<p>Fuelled by <a href="https://tonx.org/u/foursides" title="Tonx Coffee">Tonx Coffee</a> <a href="#fnref:2" title="return to article" class="reversefootnote">&#160;&#8617;</a></p>
 </li>
 
 </ol>

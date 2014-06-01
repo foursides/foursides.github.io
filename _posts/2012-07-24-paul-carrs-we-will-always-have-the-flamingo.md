@@ -1,10 +1,13 @@
-Title: Paul Carr's 'We Will Always Have the Flamingo'
-date: 2012-07-24
-tags: las vegas, travel, alcohol, life
+---
+layout: post
+title:  Paul Carr's 'We Will Always Have the Flamingo'
+category: articles
+tags: [las vegas, travel, alcohol, life]
+---
 
 >The biggest draw of hotels, though, is the people you meet in them. In the past three years, by virtue of having no fixed abode (and very little shame), I’ve partied with Hollywood actresses and Icelandic reality show stars; I’ve talked my way into toga parties with eight hundred bedsheet-clad female hairdressing students (and then been invited to lecture at their college on “the business of hair”); I’ve been thrown in jail; narrowly escaped being stabbed by Spanish drug dealers and I’ve learned first hand the difficulties of having sex with a girl while there’s a dead woman in my wardrobe. Actually, that all happened in the first six months, before things got really crazy.
-
-– Paul Carr, <a title="33 Dry Nights Along the Las Vegas Strip by Paul Carr | Amazon" href="http://www.amazon.com/gp/product/B008GAUL8W?ie=UTF8&amp;camp=213733&amp;creative=393177&amp;creativeASIN=B008GAUL8W&amp;linkCode=shr&amp;tag=fourkb-20&amp;keywords=33%20dry%20nights&amp;qid=1343070718&amp;ref_=sr_1_1&amp;sr=8-1">We’ll Always Have the Flamingo: 33 Dry Nights Along the Las Vegas Strip</a></blockquote>
+>
+> -– Paul Carr, <a title="33 Dry Nights Along the Las Vegas Strip by Paul Carr | Amazon" href="http://www.amazon.com/gp/product/B008GAUL8W?ie=UTF8&amp;camp=213733&amp;creative=393177&amp;creativeASIN=B008GAUL8W&amp;linkCode=shr&amp;tag=fourkb-20&amp;keywords=33%20dry%20nights&amp;qid=1343070718&amp;ref_=sr_1_1&amp;sr=8-1">We’ll Always Have the Flamingo: 33 Dry Nights Along the Las Vegas Strip</a></blockquote>
 
 <a title="Paul Carr" href="http://paulcarr.com/">Paul Carr</a> is one of the more entertaining writers out there. He used to do a weekly article published on Sunday for <a title="Now Can We All Agree that the 'High Quality Web Content' Experiment Has Failed? | TechCrunch" href="http://techcrunch.com/2011/08/27/who-wouldve-thought-it-figures/">TechCrunch</a>, which is how I first discovered him. He is British, a bit crass with his language, but always dead on with his observations.
 

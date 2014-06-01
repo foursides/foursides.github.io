@@ -1,6 +1,9 @@
-title: Bad Memories
-date: 2012-09-08
-tags: life, memories
+---
+layout: post
+title:  Bad Memories
+category: articles
+tags: [life, memories]
+---
 
 > But what’s a memory worth if it only breaks your heart? If it doesn’t make you smile or give you butterflies, if it doesn’t give you a reason to think positively, what’s the point of keeping it around. Someone who associates me with the idea of being a mistake doesn’t deserve my time; I was obviously a waste of theirs, so … it only makes sense right?
 

@@ -1,9 +1,9 @@
-# Weathering the Storm - A Story of Moving On
-- James McCullough
-- four_sides
-- relationships
-- 2011/06/23
-- published
+---
+layout: post
+title:  Weathering the Storm - A Story of Moving On
+category: articles
+tags: [relationships, life]
+---
 
 Play the video, then read on:  
 

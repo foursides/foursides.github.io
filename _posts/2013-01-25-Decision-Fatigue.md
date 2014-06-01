@@ -13,7 +13,7 @@ Through my life, I have been fairly good at making choices. I don't spend a lot 
 <p>
 Making those same choices on the web is difficult. More likely impossible. My mind is simply too interested in everything, regardless of the subject matter. I have a hard time hitting the off-switch when it comes to stop reading about something, scanning through Twitter, or getting lost in the world of YouTube videos. The absolute worst is Wikipedia or when I am trying to solve an issue that is usually technical in nature. 
 <p>
-Tonight, the project was setting up an old Windows desktop computer as a Linux web server. Incredibly geeky thing to start doing for no real purpose other than wanting the challenge to see if I could get it working.[^1] For someone not entirely familiar with the command line interface, the task has been a bit more daunting than I first expected. After several attempts of trying something, researching it on my iPhone, having a page up on the iPad to copy commands from, I decided to stop for the night. 
+Tonight, the project was setting up an old Windows desktop computer as a Linux web server. Incredibly geeky thing to start doing for no real purpose other than wanting the challenge to see if I could get it working.<sup><a href="#fn:1" id="fnref:1" title="see footnote" class="footnote">[1]</a></sup> For someone not entirely familiar with the command line interface, the task has been a bit more daunting than I first expected. After several attempts of trying something, researching it on my iPhone, having a page up on the iPad to copy commands from, I decided to stop for the night. 
 <p>
 Most people would most likely sink into their chairs to watch television. Lately, more people are probably scanning Facebook or Twitter. I usually go through all the stories showing up in Google Reader. 
 <p>
@@ -30,6 +30,11 @@ I started to think about how I could use the web better to align more with who I
 I don't think I need to develop a full content publishing strategy since this is more hobby than business for me, but I do want to rethink about what I share and what I create here. 
 <p>
 
-This blog has been forever evolving for me, it seems. Time to nail it down.[^2]
+This blog has been forever evolving for me, it seems. Time to nail it down.
 
-[^1]: I am a big proponent of Douglas Rushkoff's [Program, or Be Programmed](http://www.amazon.com/gp/product/B004ELAPME/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B004ELAPME&linkCode=as2&tag=four0b-20 "Program or Be Programmed")
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn:1">
+<p>I am a big proponent of Douglas Rushkoff&#8217;s <a href="http://www.amazon.com/gp/product/B004ELAPME/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B004ELAPME&amp;linkCode=as2&amp;tag=four0b-20" title="Program or Be Programmed">Program, or Be Programmed</a> <a href="#fnref:1" title="return to article" class="reversefootnote">&#160;&#8617;</a></p>
+</li>

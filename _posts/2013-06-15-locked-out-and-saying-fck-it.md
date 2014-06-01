@@ -36,7 +36,7 @@ Otherwise, not much else will change. Posts will still appear on Facebook and Tw
 
 I still am the same person as I was before, after all:
 
-### Polymath, father, lover of literature and coffee.<sup><a href="#fn:2" id="fnref:2" title="see footnote" class="footnote">[2]</a></sup>
+**Polymath, father, lover of literature and coffee.**<sup><a href="#fn:2" id="fnref:2" title="see footnote" class="footnote">[2]</a></sup>
 
 <div class="footnotes">
 <hr />

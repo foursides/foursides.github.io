@@ -3,8 +3,6 @@ layout: post
 title: Aligning with My Needs
 category: articles
 tags: [life]
-image:
-  feature: texture-feature-05.jpg
 ---
 
 >The more features you add to a product, the more it dilutes the core reason for a product’s existence and confuses people.

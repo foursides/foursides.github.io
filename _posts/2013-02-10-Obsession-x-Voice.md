@@ -1,22 +1,22 @@
-# Obsession x Voice
-- James McCullough
-- four_sides
-- writing
-- 2013/02/10
-- published
+---
+layout: post
+title: Obsession x Voice
+category: articles
+tags: [writing, passion]
+---
 
 > Find your obsession.
-
+>
 > Every day, explain it to
-
+>
 > one person you respect. 
-
+>
 > Edit everything, skip shortcuts,
-
+>
 > and try not to be a dick. 
-
+>
 > Get better. 
-
+>
 > Merlin Mann, [How to Blog](http://www.kungfugrippe.com/post/50022261/how-to-blog "How to Blog | Merlin Mann")
 
 My Sunday morning was spent listening to a discussion between Merlin Mann and John Gruber that has this ridiculous title, "[HOWTO: 149 Surprising Ways to Turbocharge Your Blog With Credibility!](http://www.43folders.com/2009/03/25/blogs-turbocharged "Howto: 149 Surprising Ways to Turbocharge Your Blog with Creditbility | SXSW"). The discussion happened at [SXSW](http://sxsw.com "SXSW") back in 2009. It is still as relevant today as it was then. 

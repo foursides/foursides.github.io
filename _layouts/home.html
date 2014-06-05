@@ -24,14 +24,16 @@
 
 <div id="index" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
   <h3><a href="{{ site.url}}/blog/">Writings</a></h3>
-  {% for post in site.posts limit:15 %}    
+  {% for post in site.posts limit:10 %}    
   <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
     <h2 itemprop="headline"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h2>
-    <p itemprop="text">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_newlines }}{% endif %}</p>
+	<p itemprop="text">{{ post.date | date: "%B %d, %Y" }}
+    <p itemprop="text">{% if post.description %}{{ post.description }}{% else %}{{ post.content }}{% endif %}</p>
   </article>
   {% endfor %}
 </div><!-- /#index -->
-
+<a href="http://www.foursides.ca/blog/">All Writings</a>
+<br>
 <div class="footer-wrap">
   <footer>
     {% include _footer.html %}

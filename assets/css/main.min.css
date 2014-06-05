@@ -264,7 +264,7 @@ h6 {
     line-height: 1.8571
 }
 
-a a:active {
+a, a:active {
     color: #E85F43;
     text-decoration: none
 }
@@ -273,18 +273,6 @@ a:visited {
     color: #E85F43;
 }
 
-a:hover {
-    color: #010101;
-}
-
-a:focus {
-    color: #E85F43;
-    outline: thin dotted
-}
-
-a:hover {
-    outline: 0;
-}
 
 figcaption {
     padding-top: 10px;

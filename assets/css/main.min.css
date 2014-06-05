@@ -264,8 +264,8 @@ h6 {
     line-height: 1.8571
 }
 
-a {
-    color: #343434;
+a a:active a:visited {
+    color: #b5190e;
     text-decoration: none
 }
 
@@ -3219,6 +3219,7 @@ footer[role=contentinfo] {
 }
 
 .line-title h1 {
+	font-color: #b5190e;
     font-size: 26px;
 	line-height: 28px;
 	margin-bottom: -64px;

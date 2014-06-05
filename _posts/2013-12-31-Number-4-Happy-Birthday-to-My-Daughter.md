@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Number 4 - Happy Birthday to My Daughter
+title: Happy Birthday to My Girl
 category: articles
 tags: [birthday, life, daughter]
-
 ---
 
-December 31st at 9:00 PM, my daughter Kylie was born. 
+December 31st, 2009 at 9:00 PM, my daughter Kylie was born. 
 
 My life has never been the same since that moment. The updates have been fairly frequent here, Facebook, Instagram on how she has changed over time. It is amusing to me as I watch new parents posting countless photos of their newborn children to reflect back on how normal that was for me at that time, as well. Now, not so much, as my daughter rarely sits still for photos (unless she is the one taking them) or give me a moment of peace to see how she is growing. 
 

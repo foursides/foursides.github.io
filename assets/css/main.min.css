@@ -3218,3 +3218,26 @@ footer[role=contentinfo] {
         }
 }
 
+.line-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+    padding-top: 1px; /* Allows for hr margin to start at top of h2 */
+}
+
+/* clearfix for floats */
+.line-title:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.line-title span {
+    padding-right: 10px;
+    float: left;
+}
+
+.line-title hr {
+    border:1px solid #DDD;
+    border-width: 1px 0 0 0;
+    margin-top: 0px;
+}

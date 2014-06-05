@@ -3220,9 +3220,9 @@ footer[role=contentinfo] {
 
 .line-title h1 {
     font-size: 26px;
-	line-height: 24px;
+	line-height: 28px;
 	margin-bottom: -64px;
-    padding-top: 20px; /* Allows for hr margin to start at top of h2 */
+    padding-top: 24px; /* Allows for hr margin to start at top of h2 */
 }
 .line-title h5 {
 	padding-top: 20px;

@@ -47,7 +47,7 @@ links:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Vancouver
-future:      true
+future:      false
 pygments:    true
 markdown:    redcarpet
 markdown_ext:  markdown,mkdown,mkdn,mkd,md

@@ -1,11 +1,11 @@
-# New Album From Moby - Innocents
-- James McCullough
-- four_sides
-- music
-- 2013/07/09
-- published		
+---
+layout: post
+title: New Album From Moby - Innocents
+category: articles
+tags: [music, moby]
+---
 
-<center><a href="http://click.linksynergy.com/fs-bin/stat?id=IfAPAqe/hTs&offerid=162397&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fca%252Falbum%252Finnocents%252Fid668138818%253Fuo%253D4%2526partnerId%253D30">Moby | Innocents<img src="http://www.moby.com/sites/default/files/www/inline/2012/innocents-cover-web.jpg" width="50%" height="50%"></center></a>
+<center><a href="https://itunes.apple.com/us/album/innocents/id826353202?uo=4&at=10l4Qt">Moby | Innocents<img src="http://www.moby.com/sites/default/files/www/inline/2012/innocents-cover-web.jpg" width="50%" height="50%"></center></a>
 
 [Moby](http://www.moby.com/innocents#.udyafhzh3k4 "Moby | Innocents") announced his new album last week on his blog. It's a refreshing way to announce an album after witnessing the release announcements from Justin Timberlake, Jay Z, Kanye West and so forth. This is how he starts off the announcement:
 
@@ -29,4 +29,4 @@ The vocalist featured on the track is Al Spyx, a Canadian singer based out of Lo
  
  It looks like a fantastic blend of voices and I look forward to listening to this album when it is released in October. 
  
- <a href="http://click.linksynergy.com/fs-bin/stat?id=IfAPAqe/hTs&offerid=162397&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fca%252Falbum%252Finnocents%252Fid668138818%253Fuo%253D4%2526partnerId%253D30"><img src="http://farm4.staticflickr.com/3820/9249917841_2b73e4fce0_o.png" width="110" height="40" alt="iTunes_Badge_US-UK_110x40_Master_071812"></a>
+ <a href="https://itunes.apple.com/us/album/innocents/id826353202?uo=4&at=10l4Qt"><img src="http://farm4.staticflickr.com/3820/9249917841_2b73e4fce0_o.png" width="110" height="40" alt="iTunes_Badge_US-UK_110x40_Master_071812"></a>

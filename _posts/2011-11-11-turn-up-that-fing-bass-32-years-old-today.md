@@ -1,9 +1,9 @@
-# Turn Up That F'ing Bass! - 32 Years Old Today
-- James McCullough
-- four_sides
-- 2011/11/11
-- birthday
-- published	
+---
+layout: post
+title: Turn Up That F'ing Bass! - 32 Years Old Today
+category: articles
+tags: [birthday]
+---
 
 11/11/11, otherwise known as my 32nd birthday. 
 

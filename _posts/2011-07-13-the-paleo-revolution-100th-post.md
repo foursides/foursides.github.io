@@ -1,10 +1,10 @@
-# The Paleo Revolution - 100th Post @ Four Sides
-- James McCullough
-- four_sides
-- paleo
-- 2011/07/13
-- published	
+---
+layout: post
+title: The Paleo Revolution - 100th Post @ Four Sides
+category: articles
+tags: [paleo, 4 hour body]
 
+---
 Almost one year to the day, I started blogging again. I had gone through several different versions of blogs trying to discover myself. There have been so many that I can't even remember all the addresses and whether the content is still alive on the sites or not. The one before this site, [Isolation](http://isolation.wordpress.com), is still alive. It is a dormant vegetable of a blog at this point though. Another, [Macbethproject](http://macbethproject.blogspot.com/) awaits me to find some time/energy/inspiration to finish it off. That is a project seven years in the making. Is this the year to finish it? Yet another was located at MSN Live Spaces, but I don't believe that site exists anymore. 
 
 When I went to start this post, I realized that not only was it the one year anniversary of this blog, but this was also the 100th post that I will have written. That seems incredible to me, because I have gone several months without writing a word on this blog a few times now. Like all humans, this blog has survived the upheavals of my own life and continued to roll along to go with the flow. 

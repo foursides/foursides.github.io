@@ -1,10 +1,9 @@
-# The Art of Non-Conformity by Chris Guillebeau
-- James McCullough
-- four_sides
-- work
-- 2011/03/24
-- published	
-
+---
+layout: post
+title: The Art of Non-Conformity by Chris Guillebeau
+category: articles
+tags: [work, life]
+---
 Let me start by saying that this is not a formal book review, but more of a discussion of the book. 
 
 ### Another Harajuku Moment
@@ -22,9 +21,9 @@ It has been a bit of a whirlwind for me this weekend. I bought AoNC (the acronym
 
 I really liked how he laid everything out and is extremely focused on achieving results. It made me think more about the lack of structure with my own sites and ventures. I am organized in terms of tasks and drafts of ideas for the blog, but I have not been thinking longterm for either venture nearly enough. I had Murray's ideas of a vision sitting in the back of my head as I worked my way through AoNC when I came across this quote in the book: 
 
-> ### It is not the decision you make that is most important; it is the degree of commitment with which you make the decision.
+> It is not the decision you make that is most important; it is the degree of commitment with which you make the decision.
 > 
-> ### - Bo Bartlett, Artist
+>  - Bo Bartlett, Artist
 
 That message hit me hard. I realize that some of my frustrations in life right now could all be centred around **commitment**. 
 

@@ -1,3 +1,9 @@
+---
+layout: post
+title: Beautiful Sparkling Hill Resort in Vernon, British Columbia
+category: articles
+tags: [travel, Okanagan]
+---
 
 # Beautiful Sparkling Hill Resort in Vernon, British Columbia
 - James McCullough

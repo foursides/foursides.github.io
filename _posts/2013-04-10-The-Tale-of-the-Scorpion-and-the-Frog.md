@@ -1,9 +1,9 @@
-# The Tale of the Scorpion and the Frog 
-- James McCullough
-- four_sides
-- life
-- 2013/04/10
-- published
+---
+layout: post
+title: The Tale of the Scorpion and the Frog
+category: articles
+tags: [life]
+---
 
 > Scorpion asked Frog to carry him across the river. Frog was a bit nervous and exclaimed, “But you will sting and kill me once we are going across!” “Nonsense,” said Scorpion, “we would both drown if I did that.” Frog thought about it and agreed to take Scorpion across the river. Halfway across the river, Scorpion stung Frog in the back several times. Frog turned back to Scorpion, “Why did you do that? Now we are both doomed.” Scorpion simply said, “It is my nature.”
 

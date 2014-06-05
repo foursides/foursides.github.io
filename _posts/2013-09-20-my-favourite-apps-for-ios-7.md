@@ -1,10 +1,9 @@
-# My Favourite Apps for iOS 7
-- James McCullough
-- four_sides
-- iOS
-- 2013/09/20
-- published		
-
+---
+layout: post
+title: My Favourite Apps for iOS 7
+category: articles
+tags: [ios, apple, iphone, ipad]
+---
 Everyone with an iPhone knows that iOS 7 was released on Wednesday to the general public. Joining the release of the operating system came a slew of apps designed for iOS 7 only or apps being re-designed for it. I thought I would share some of my favourites so far. Some I have been using for a long time before hand, some are new. These are mainly for iPhone right now. Perhaps next week I will follow up with some of my favourite apps for iPad. 
 
 ### Begin
@@ -54,7 +53,7 @@ A wonderful reading experience.
 
 Some other apps to look at that I use frequently:
 
-- [Feedly](https://itunes.apple.com/us/app/feedly-your-google-reader/id396069556?mt=8&uo=4&at=10l4Qt "Feedly") - Google Reader replacement
+- [Unread](https://itunes.apple.com/us/app/unread-an-rss-reader/id754143884?mt=8&uo=4&at=10l4Qt "Unread") - RSS reader.
 - [Fantastical](https://itunes.apple.com/us/app/fantastical/id575647534?mt=8&uo=4&at=10l4Qt "Fantastical") - Calendar app
 - [Vesper](https://itunes.apple.com/us/app/vesper-simple-elegant-notes/id655895325?mt=8&uo=4&at=10l4Qt "Vesper") - Beautiful note taking app
 - [Downcast](https://itunes.apple.com/us/app/downcast/id393858566?mt=8&uo=4&at=10l4Qt "Downcast") - podcast app

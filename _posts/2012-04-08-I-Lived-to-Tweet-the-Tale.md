@@ -1,10 +1,9 @@
-# I Lived to Tweet the Tale 
-- James McCullough
-- four_sides
-- fitness
-- 2012/04/08
-- published
-
+---
+layout: post
+title: I Lived to Tweet the Tale 
+category: articles
+tags: [fitness]
+---
 If you have been paying attention to my [Twitter feed](http://www.twitter.com/four_sides) you may have noticed some cryptic messages been shown between 10 PM and midnight on a semi-regular basis. The messages are being sent out by an iOS app called [Seconds Free](http://itunes.apple.com/us/app/seconds-free-interval-timer/id475816966?mt=8) after I complete a workout. I’ll do a full run-down of the app later in the week, but check it out if you’re in need of a timer for tabata drills or interval training, for examples. 
 
 The Pro version allows you to save the routines you can program, so can be worth the few dollars investment to save you some time entering in the information. I thought I would share the information through Twitter to help me keep track of my progress. It doesn’t have a website to record the data under a unique profile for me, but it does allow me to click thru to see the [details of the workout](http://www.secondsapp.com/timers/716689) if I recorded all the information thoroughly (i.e. instead of “Exercise 1, 2, 3…” I would see “Pushups, Squats, Situps…”). At some point, I plan on entering all that information into something more appropriate to estimate the calories being burnt. For now, it’s far easier to hit the magic “Tweet now” button when I’m exhausted instead of trying to think about loading a website or writing down the information on a pad of paper. 

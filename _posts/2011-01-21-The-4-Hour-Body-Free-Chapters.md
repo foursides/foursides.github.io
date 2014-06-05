@@ -1,9 +1,9 @@
-# The 4 Hour Body - Free Chapters - by Timothy Ferriss
-- James McCullough
-- four_sides
-- fitness
-- 2011/01/21
-- published	
+---
+layout: post
+title: The 4 Hour Body - Free Chapters - by Timothy Ferriss
+category: articles
+tags: [fitness, 4 hour body, tim ferriss]
+---
 
 When the release of The 4 Hour Body ([short review](http://jamesmccullough.hubpages.com/hub/The-4-Hour-Body-Review-Tim-Ferriss "The 4 Hour Body | Short Review")) was quickly approaching in December, I noticed something happening across several of the blogs I followed. A lot of them not only had interviews with Timothy Ferriss that mentioned the book, they were including sample chapters.  Only after reading the book did I realize how complete these chapters actually were.
 

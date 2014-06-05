@@ -26,7 +26,7 @@
   <h4><a href="{{ site.url}}/blog/">Writings</a></h4>
   {% for post in site.posts limit:10 %}    
   <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-    <span class="line-title"><h1 itemprop="headline" class="line-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a>< align="right" itemprop="text">{{ post.date | date: "%B %d, %Y" }}</span><hr /></h1>
+    <span class="line-title"><h1 itemprop="headline" class="line-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a><h4 align="right" itemprop="text">{{ post.date | date: "%B %d, %Y" }}</h4></span><hr /></h1>
     <p class="article-wrap"{{ post.content }}</p>
   </article>
   {% endfor %}

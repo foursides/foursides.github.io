@@ -3219,11 +3219,13 @@ footer[role=contentinfo] {
 }
 
 .line-title h1 {
+	padding-top: 20px;
     font-size: 24px;
     margin-bottom: 0px;
     padding-top: 1px; /* Allows for hr margin to start at top of h2 */
 }
 .line-title h5 {
+	padding-top: 20px;
     font-size: 14px;
     margin-bottom: 0px;
     padding-top: 1px; /* Allows for hr margin to start at top of h2 */

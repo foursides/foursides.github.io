@@ -48,4 +48,5 @@ So far, so good. I look forward to purchasing the mobile apps, as well, to conti
 *  [Tim Ferriss Podcast with Ryan Holiday](http://fourhourworkweek.com/2014/05/06/the-tim-ferriss-podcast-episode-4-ryan-holiday/ "Tim Ferriss Podcast w/ Ryan Holiday")
 * [The Obstacle Is the Way](http://www.amazon.com/gp/product/1591846358/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1591846358&linkCode=as2&tag=four0b-20&linkId=MYHHSTSBW6CCYZDE "The Obstacle is the Way: The Timeless Art of Turning Trials into Triump") - book. 
 * [Trust Me, I'm Lying](http://www.amazon.com/gp/product/1591846285/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1591846285&linkCode=as2&tag=four0b-20&linkId=TKYJ4G3PKE5RMFXW "Trust Me, I'm Lying"): Confessions of a Media Manipulator
+* Also read Steve Richards' take on the book: [The Obstacle is the Way](http://steves.seasidelife.com/2014/06/04/the-obstacle-is-the-way/ "The Obstacle is the Way")
 

@@ -44,14 +44,18 @@ It is an excellent episode, and I encourage everyone to listen to it if they are
 <p><strong><a rel="nofollow"  href="http://goo.gl/bZagW" title="Tonx Coffee">Free Trial for Tonx Coffee</a></strong></p>
 
 As mentioned previously, with a subscription to Tonx, you receive a different roast every two weeks. The shipments arrive in a small box that can fit inside a post office box, which eliminates the hassle of going to a post office to pick up a package. You won't be receiving duplicate roasts either. Once you have a received a roast you enjoy, you will have to wait and see if they will send it out again in the future. This may be discouraging to some, but to others this will be a welcome treat.
+
 The roasts themselves are contained within a resealable bag, keep the taste fresh after you have opened them. A better design than the classic coffee roast bags you find at the larger chains or grocery store.
+
 The roasts also come as whole beans. Tonx believes that coffee tastes best if it is freshly ground and then brewed. There are a wide variety of coffee grinders out there, which can handle small amounts to larger amounts of coffee. I am happy with a simpler one since I am only grinding coffee for one person. I have listed a few of the more popular options below.
+
 Also in the box is a short letter from the company. It is a nice touch and always brings a smile to my face. Much, much better than opening it up and seeing a receipt for your purchase.
+
 Down below, I have included the postcard description Tonx provides in each shipment with my own thoughts about the roast.
 
 Enjoy.
 
-#### Los Eucaliptos - Huila, Colombia
+### Los Eucaliptos - Huila, Colombia
 **Subscription Coffee #34**
 <br>
 <a href="http://www.flickr.com/photos/jmccullough/9131507715/" title="2013-02-01 13.04.25-2 by Urban_Hermit, on Flickr"><img src="http://farm8.staticflickr.com/7320/9131507715_255e6ec1f4_n.jpg" width="320" height="308" alt="Los Eucaliptos | Tonx Coffee" align="left" padding="5px" margin="5px"></a>

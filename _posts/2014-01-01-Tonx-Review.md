@@ -2,20 +2,17 @@
 layout: post
 title: Tonx Coffee Review
 description: "The best coffee available today: Tonx. Read about the varieties of coffee that has been delivered over the past few years."
-category: review
+category: review	
 tags: [tonx, coffee, fuel]
 ---
 
 <a href="http://goo.gl/bZagW" title="Tonx Coffee"><img src="http://farm6.staticflickr.com/5468/9131558517_1a9265450a.jpg" width="500" height="270" alt="Tonx Coffee" align="center" margin="5px"></a>
 <br>
-<a rel="nofollow"  href="http://goo.gl/bZagW" title="Tonx Coffee">Tonx</a> is an independent operation based out of California that sends the best coffee from their roasters to your door for a low price. After hearing about the service for months, I decided to try it out. Everything being said about Tonx is true: they truly are the best damn coffee out there. </p><br />
-<br />
-<p>I live in southern British Columbia in Canada, which besides a lot of wineries and orchards, has several coffee roasters here. I have tried almost all of the various blends, on top of the national chains (<a rel="nofollow"  href="http://goo.gl/KUccF" title="Starbucks">Starbucks</a>, <a rel="nofollow"  href="http://www.blenz.com" title="Blenz">Blenz</a>, <a rel="nofollow"  href="http://www.secondcup.com" title="Second Cup">Second Cup</a>, etc.) and have been unable to find something that really appealed to me day in, day out. I may find one blend I enjoy, but then end up sticking to it all the time. There was no variety. </p><br />
-<br />
-<p>Until I subscribed to Tonx. </p><br />
-<br />
-<p>Tonx gave me the variety I craved. A new blend of beans every two weeks, roasted fresh, and they all taste excellent. The coffee is sent direct to your address, no need to wait for a FedEx/UPS delivery man or visit a post office to pick up a package. Check your mail every two weeks and find a little treasure. </p><br />
-<p><br />
+<a rel="nofollow"  href="http://goo.gl/bZagW" title="Tonx Coffee">Tonx</a> is an independent operation based out of California that sends the best coffee from their roasters to your door for a low price. After hearing about the service for months, I decided to try it out. Everything being said about Tonx is true: they truly are the best damn coffee out there. </p>
+<p>I live in southern British Columbia in Canada, which besides a lot of wineries and orchards, has several coffee roasters here. I have tried almost all of the various blends, on top of the national chains (<a rel="nofollow"  href="http://goo.gl/KUccF" title="Starbucks">Starbucks</a>, <a rel="nofollow"  href="http://www.blenz.com" title="Blenz">Blenz</a>, <a rel="nofollow"  href="http://www.secondcup.com" title="Second Cup">Second Cup</a>, etc.) and have been unable to find something that really appealed to me day in, day out. I may find one blend I enjoy, but then end up sticking to it all the time. There was no variety. </p>
+<p>Until I subscribed to Tonx. </p>
+<p>Tonx gave me the variety I craved. A new blend of beans every two weeks, roasted fresh, and they all taste excellent. The coffee is sent direct to your address, no need to wait for a FedEx/UPS delivery man or visit a post office to pick up a package. Check your mail every two weeks and find a little treasure. </p>
+
 Everyone talks about how great Tonx is, but no one has been specific about what you are likely to get week in, week out. I thought it would be useful to share a short description of each blend I have received to date to give you a better idea why Tonx is the absolute best for fresh roasted coffee. </p>
 
 ####Who Tonx Is
@@ -25,10 +22,8 @@ Everyone talks about how great Tonx is, but no one has been specific about what 
 Nik Bauman <a rel="nofollow"  href="http://twitter.com/nbauman" title="Nbauman | Twitter">@nbauman</a><br />
 Nick Griffith <a rel="nofollow"  href="http://twitter.com/nickgriffla" title="Nick Griffith | Twitter">@nickgriffla</a><br />
 Ryan Brown <a rel="nofollow"  href="http://twitter.com/ry3bee" title="Ryan Brown | Twitter">@ry3bee</a><br />
-Scott Rocher <a rel="nofollow"  href="http://twitter.com/rochers" title="Scott Rocher | Twitter">@rochers</a>.<br />
-<br />
-</p><p></p><p> They come from a variety of backgrounds from longterm baristas to independent roasters to web startup executives. Together, they have upwards of over 40 years experience with coffee and operating a business. They are an insightful and interesting group (from following them on Twitter, haven't met any of them.)</p><br />
-<p><br />
+Scott Rocher <a rel="nofollow"  href="http://twitter.com/rochers" title="Scott Rocher | Twitter">@rochers</a>.
+<p> They come from a variety of backgrounds from longterm baristas to independent roasters to web startup executives. Together, they have upwards of over 40 years experience with coffee and operating a business. They are an insightful and interesting group (from following them on Twitter, haven't met any of them.)</p>
 Also check them out on Vine, the video service from Twitter. They're putting up some neat short videos of the coffee bean harvest procedure: <a rel="nofollow"  href="http://vine.co/v/b1BmqAibaYY">Tonx | Vine</a></p>
 
 ####Tonx on The New Disruptors
@@ -39,38 +34,27 @@ It is an excellent episode, and I encourage everyone to listen to it if they are
 
 ####How Tonx Works
 
-<p>Tonx is a coffee roaster, that bags and ships out coffee to households throughout Canada and the United States. What makes Tonx different (apart from their coffee) is that it is a subscription service. There isn't an option to order larger quantities of coffee or buy a bag to try for a month and then buy more at a later date. Instead, you pre-order coffee by subscription, with a new roast showing up at your doorstep every two weeks. </p><br />
-<br />
-<p>You can cancel the shipments at any time, and you will still receive the coffee you had paid for. You can also pause the shipments, so if you are going out on holidays, you can delay the shipments up to a year (I can't imagine a year without coffee, myself.)</p><br />
-<br />
-<p>With the subscriptions, you have two choices to make: regular or decaf, 6 oz or 12 oz bags. The prices for regular and decaf are the same. Here are the prices you are paying:</p><br />
-<br />
-<p><strong>6 oz = $24 every 28 days (two shipments)</strong></p><br />
-<br />
-<p><strong>12 oz = $38 every 28 days (two shipments)</strong></p><br />
-<br />
-<p>The best part is those prices are the same for Canadians as well as Americans. </p><br />
-<br />
-<p>People in the United States can actually ask for a free sample, as well. It is a 2 oz bag, which is enough for two people to enjoy coffee each morning for a few days. You can also purchase gift subscriptions for people, a great idea for birthdays and Christmas.</p><br />
-<br />
-<p><strong><a rel="nofollow"  href="http://goo.gl/bZagW" title="Tonx Coffee">Free Trial for Tonx Coffee</a></strong></p></intro>
+<p>Tonx is a coffee roaster, that bags and ships out coffee to households throughout Canada and the United States. What makes Tonx different (apart from their coffee) is that it is a subscription service. There isn't an option to order larger quantities of coffee or buy a bag to try for a month and then buy more at a later date. Instead, you pre-order coffee by subscription, with a new roast showing up at your doorstep every two weeks. </p>
+<p>You can cancel the shipments at any time, and you will still receive the coffee you had paid for. You can also pause the shipments, so if you are going out on holidays, you can delay the shipments up to a year (I can't imagine a year without coffee, myself.)</p>
+<p>With the subscriptions, you have two choices to make: regular or decaf, 6 oz or 12 oz bags. The prices for regular and decaf are the same. Here are the prices you are paying:</p>
+<p><strong>6 oz = $24 every 28 days (two shipments)</strong></p>
+<p><strong>12 oz = $38 every 28 days (two shipments)</strong></p>
+<p>The best part is those prices are the same for Canadians as well as Americans. </p>
+<p>People in the United States can actually ask for a free sample, as well. It is a 2 oz bag, which is enough for two people to enjoy coffee each morning for a few days. You can also purchase gift subscriptions for people, a great idea for birthdays and Christmas.</p>
+<p><strong><a rel="nofollow"  href="http://goo.gl/bZagW" title="Tonx Coffee">Free Trial for Tonx Coffee</a></strong></p>
 
-As mentioned previously, with a subscription to Tonx, you receive a different roast every two weeks. The shipments arrive in a small box that can fit inside a post office box, which eliminates the hassle of going to a post office to pick up a package. You won't be receiving duplicate roasts either. Once you have a received a roast you enjoy, you will have to wait and see if they will send it out again in the future. This may be discouraging to some, but to others this will be a welcome treat.<br />
-<br />
-The roasts themselves are contained within a resealable bag, keep the taste fresh after you have opened them. A better design than the classic coffee roast bags you find at the larger chains or grocery store.<br />
-<br />
-The roasts also come as whole beans. Tonx believes that coffee tastes best if it is freshly ground and then brewed. There are a wide variety of coffee grinders out there, which can handle small amounts to larger amounts of coffee. I am happy with a simpler one since I am only grinding coffee for one person. I have listed a few of the more popular options below.<br />
-<br />
-Also in the box is a short letter from the company. It is a nice touch and always brings a smile to my face. Much, much better than opening it up and seeing a receipt for your purchase.<br />
-<br />
-Down below, I have included the postcard description Tonx provides in each shipment with my own thoughts about the roast.<br />
+As mentioned previously, with a subscription to Tonx, you receive a different roast every two weeks. The shipments arrive in a small box that can fit inside a post office box, which eliminates the hassle of going to a post office to pick up a package. You won't be receiving duplicate roasts either. Once you have a received a roast you enjoy, you will have to wait and see if they will send it out again in the future. This may be discouraging to some, but to others this will be a welcome treat.
+The roasts themselves are contained within a resealable bag, keep the taste fresh after you have opened them. A better design than the classic coffee roast bags you find at the larger chains or grocery store.
+The roasts also come as whole beans. Tonx believes that coffee tastes best if it is freshly ground and then brewed. There are a wide variety of coffee grinders out there, which can handle small amounts to larger amounts of coffee. I am happy with a simpler one since I am only grinding coffee for one person. I have listed a few of the more popular options below.
+Also in the box is a short letter from the company. It is a nice touch and always brings a smile to my face. Much, much better than opening it up and seeing a receipt for your purchase.
+Down below, I have included the postcard description Tonx provides in each shipment with my own thoughts about the roast.
 
 Enjoy.
 
-####Los Eucaliptos - Huila, Colombia
+#### Los Eucaliptos - Huila, Colombia
 **Subscription Coffee #34**
 <br>
-<a href="http://www.flickr.com/photos/jmccullough/9131507715/" title="2013-02-01 13.04.25-2 by Urban_Hermit, on Flickr"><img src="http://farm8.staticflickr.com/7320/9131507715_255e6ec1f4_n.jpg" width="320" height="308" alt="Los Eucaliptos | Tonx Coffee" align="left" margin="5px"></a>
+<a href="http://www.flickr.com/photos/jmccullough/9131507715/" title="2013-02-01 13.04.25-2 by Urban_Hermit, on Flickr"><img src="http://farm8.staticflickr.com/7320/9131507715_255e6ec1f4_n.jpg" width="320" height="308" alt="Los Eucaliptos | Tonx Coffee" align="left" padding="5px" margin="5px"></a>
 <br>
 Los Eucaliptos is described as having flavours of "green apple, molasses, and vanilla."<br />
 

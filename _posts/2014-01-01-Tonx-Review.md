@@ -58,7 +58,7 @@ Enjoy.
 ### Los Eucaliptos - Huila, Colombia
 **Subscription Coffee #34**
 <br>
-<a href="http://www.flickr.com/photos/jmccullough/9131507715/" title="2013-02-01 13.04.25-2 by Urban_Hermit, on Flickr"><img src="http://farm8.staticflickr.com/7320/9131507715_255e6ec1f4_n.jpg" width="320" height="308" alt="Los Eucaliptos | Tonx Coffee" align="left" padding="5px" margin="5px"></a>
+<a href="http://goo.gl/bZagW"><img src="http://farm8.staticflickr.com/7320/9131507715_255e6ec1f4_n.jpg" width="320" height="308" alt="Los Eucaliptos | Tonx Coffee" align="left" padding-right="5px" padding-bottom="5px"></a>
 <br>
 Los Eucaliptos is described as having flavours of "green apple, molasses, and vanilla."<br />
 

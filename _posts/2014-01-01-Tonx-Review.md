@@ -3,7 +3,7 @@ layout: post
 title: Tonx Coffee Review
 description: "The best coffee available today: Tonx. Read about the varieties of coffee that has been delivered over the past few years."
 category: review	
-tags: [tonx, coffee, fuel]
+tags: [tonx, coffee, fuel, aeropress]
 ---
 
 <a href="http://goo.gl/bZagW" title="Tonx Coffee"><img src="http://farm6.staticflickr.com/5468/9131558517_1a9265450a.jpg" width="500" height="270" alt="Tonx Coffee" align="center" margin="5px"></a>
@@ -99,10 +99,9 @@ A quick mention that the quality of the beans being brewed is only as good as ho
 
 The beans from Tonx are full of rich flavours that need to be brought out slowly. Using a traditional drip coffee machine is unlikely to do the trick for you. You generally need a lot more beans ground up to get the most flavour through a method like that.
 
-French press or its cousin, the Aeropress, are probably the best ways to get the most flavour for your buck. Tonx will be selling special packages starting in March 2013, that will include a grinder, Aeropress/french press, and travel bag. I am also including the links to Amazon to give you an idea of pricing.
+French press or its cousin, the [Aeropress](http://www.amazon.com/gp/product/B001HBCVX0/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001HBCVX0&linkCode=as2&tag=four0b-20 "Aeropress"), are probably the best ways to get the most flavour for your buck. Tonx will be selling special packages starting in March 2013, that will include a grinder, Aeropress/french press, and travel bag. I am also including the links to Amazon to give you an idea of pricing.
 
-
-The Aeropress is the method I use. It is quick and easy: pour the grinds in, pour hot water in, wait, press down. Clean up couldn't be any easier. You won't have to worry about running a cleaning mixture through a coffee machine each month either. Check them out and read the reviews across the web. I can guarantee you that most coffee aficionados will be using an Aeropress.
+The [Aeropress](http://www.amazon.com/gp/product/B001HBCVX0/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001HBCVX0&linkCode=as2&tag=four0b-20 "Aeropress") is the method I use. It is quick and easy: pour the grinds in, pour hot water in, wait, press down. Clean up couldn't be any easier. You won't have to worry about running a cleaning mixture through a coffee machine each month either. Check them out and read the reviews across the web. I can guarantee you that most coffee aficionados will be using an [Aeropress](http://www.foursides.ca/invention-of-the-aeropress/ "Inventor of the Aeropress").
 							
 ### Sandia de Puno - Peru  
 **Subscription Coffee #39**

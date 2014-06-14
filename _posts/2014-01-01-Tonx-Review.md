@@ -68,105 +68,98 @@ This is also the roast I used to introduce my parents to the world of Tonx. Grou
 <br />
 If this roast shows up on my doorstep again, I will definitely not be complaining.
 
-#### Musasa - Gakenke, Rwanda
+### Musasa - Gakenke, Rwanda
 **Subscription Coffee #35**
 
-Described as "a bouquet of florals atop some sweet red fruits - pomegranate and raspberry - balanced with bittersweet chocolate."<br />
-<br />
-This roast definitely had a chocolate taste to it, slightly bitter but not overly so. The fruity tastes helped sweeten it up a great deal to offset the bitterness. This is one of those tastes that grow on you. The first cup I had, I was a bit hesitant about whether I really would enjoy it or not. After a week of tasting it, I am growing fond of it. A better way for me to start the day than the other varieties in the chain coffee shops.<br />
-<br />
+Described as "a bouquet of florals atop some sweet red fruits - pomegranate and raspberry - balanced with bittersweet chocolate."
+
+This roast definitely had a chocolate taste to it, slightly bitter but not overly so. The fruity tastes helped sweeten it up a great deal to offset the bitterness. This is one of those tastes that grow on you. The first cup I had, I was a bit hesitant about whether I really would enjoy it or not. After a week of tasting it, I am growing fond of it. A better way for me to start the day than the other varieties in the chain coffee shops.
+
 Not a favourite right now, but perhaps by the end of the week and I have used up the beans, it will be.
 
-####Tana Toraja - Sulawest, Indonesia
+### Tana Toraja - Sulawest, Indonesia
 **Subscription Coffee #36**
-<br>
-<img src="http://farm8.staticflickr.com/7406/9133718886_f2bde70f71_n.jpg" width="320" height="319" alt="Tana Toraja | Tonx Coffee" align="left" margin="5px"></a>
 
-Tana Toraja is Tonx's first roast of beans from Indonesia. If this is the case, then I can't wait for the next shipment that includes beans from that region. According to the post card, these beans are processed in a different way than most of the varieties there. The process they use is <i><a rel="nofollow"  href="http://en.wikipedia.org/wiki/Giling_Basah">giling basah</a></i> which literally means "wet grinding." I encourage you to click the link to read about it on Wikipedia as it is rather interesting.<br />
-<p><br />
+<img src="http://farm8.staticflickr.com/7406/9133718886_f2bde70f71_n.jpg" width="320" height="319" alt="Tana Toraja | Tonx Coffee" tyle="PADDING-RIGHT: 3px" - style="PADDING-BOTTOM: 2px"></a>
+
+Tana Toraja is Tonx's first roast of beans from Indonesia. If this is the case, then I can't wait for the next shipment that includes beans from that region. According to the post card, these beans are processed in a different way than most of the varieties there. The process they use is <i><a rel="nofollow"  href="http://en.wikipedia.org/wiki/Giling_Basah">giling basah</a></i> which literally means "wet grinding." I encourage you to click the link to read about it on Wikipedia as it is rather interesting.
+
 This coffee is described to make "a delightful cup, with bartlett pear serving as the flavour backbone for a brew that opens up to reveal a bit of raspberry and cane sugar." It's delicious and full of flavour.</p>
 
-####Caranavi - Bolivia
+### Caranavi - Bolivia
 **Subscription Coffee #37**
 
-Coming from a single grower in rural Bolivia, this roast is a combination of caturra and typica coffee beans. After one cup, I knew it was going to be one of my favourite blends from Tonx. The taste of almond and vanilla always go well in a cup of coffee. It wasn't incredibly sweet, just enough to go down smoothly without needing anything extra to be added to the cup.<br />
-<br />
+Coming from a single grower in rural Bolivia, this roast is a combination of caturra and typica coffee beans. After one cup, I knew it was going to be one of my favourite blends from Tonx. The taste of almond and vanilla always go well in a cup of coffee. It wasn't incredibly sweet, just enough to go down smoothly without needing anything extra to be added to the cup.
+
 I really hope this roast shows up again in a future coffee shipment.
 
-####Brewing Methods
+### Brewing Methods
 
-A quick mention that the quality of the beans being brewed is only as good as how the beans are being brewed.<br />
-<br />
-The beans from Tonx are full of rich flavours that need to be brought out slowly. Using a traditional drip coffee machine is unlikely to do the trick for you. You generally need a lot more beans ground up to get the most flavour through a method like that.<br />
-<br />
-French press or its cousin, the Aeropress, are probably the best ways to get the most flavour for your buck. Tonx will be selling special packages starting in March 2013, that will include a grinder, Aeropress/french press, and travel bag. I am also including the links to Amazon to give you an idea of pricing.<br />
-<br />
+A quick mention that the quality of the beans being brewed is only as good as how the beans are being brewed.
+
+The beans from Tonx are full of rich flavours that need to be brought out slowly. Using a traditional drip coffee machine is unlikely to do the trick for you. You generally need a lot more beans ground up to get the most flavour through a method like that.
+
+French press or its cousin, the Aeropress, are probably the best ways to get the most flavour for your buck. Tonx will be selling special packages starting in March 2013, that will include a grinder, Aeropress/french press, and travel bag. I am also including the links to Amazon to give you an idea of pricing.
+
+
 The Aeropress is the method I use. It is quick and easy: pour the grinds in, pour hot water in, wait, press down. Clean up couldn't be any easier. You won't have to worry about running a cleaning mixture through a coffee machine each month either. Check them out and read the reviews across the web. I can guarantee you that most coffee aficionados will be using an Aeropress.
 							
-####Sandia de Puno - Peru  
+### Sandia de Puno - Peru  
 **Subscription Coffee #39**
 
-<br />
-> Bordering Bolivia and far from any bustling city centers, Sandia de Puno in the Peruvian Andes is home to the Cecovasa Cooperative, the source of this delicious offering. Excellent shading, extreme elevations, and mostly heirloom typica variety trees make for some great coffee. Like many producers in South America, these growers have modest 1-2 hectare farms with simple homestead milling - handcrank pulpers, small tanks for fermentation and communal patios for drying.<br />
-<br />
+> Bordering Bolivia and far from any bustling city centers, Sandia de Puno in the Peruvian Andes is home to the Cecovasa Cooperative, the source of this delicious offering. Excellent shading, extreme elevations, and mostly heirloom typica variety trees make for some great coffee. Like many producers in South America, these growers have modest 1-2 hectare farms with simple homestead milling - handcrank pulpers, small tanks for fermentation and communal patios for drying.
+
 > A very balanced and buttery coffee, this Sandia de Puno selection offers flavours of chocolate cake, mixed berries and plum.<br />
 
 It was simply delicious.
 
-####Nyamasheke - Rwanda
+### Nyamasheke - Rwanda
 **Subscription Coffee #40**
 
-> On the northern shores of beautiful Lake Kivu in Nyamasheke, Rwanda, Kayjuka Alphonce began building Kanzu Washing Station in 2004. The mill was winning awards within its first year of processing. Seated in a lush valley, the contributing farms of Kanzu populate the three surrounding mountain peaks and also grow potatoes, peas, cabbage, wheat and tea. Across the valley is the Nyungwe Forest, a mountainous rainforest long ago established as a national reserve.<br />
-<br />
+> On the northern shores of beautiful Lake Kivu in Nyamasheke, Rwanda, Kayjuka Alphonce began building Kanzu Washing Station in 2004. The mill was winning awards within its first year of processing. Seated in a lush valley, the contributing farms of Kanzu populate the three surrounding mountain peaks and also grow potatoes, peas, cabbage, wheat and tea. Across the valley is the Nyungwe Forest, a mountainous rainforest long ago established as a national reserve.
+
 > A beautiful bourbon varietal coffee expressing flavours found flourishing in the best east African beans - ruby red grapefruit, apricot and caramel. 
 
-####Pedregal -Colombia
+### Pedregal -Colombia
 **Subscription Coffee #41**
 
-> From the Nevado de Huila region of the Colombian Andes comes a delicious coffee from the Asorcafe Producer's Association. The group is made up of farmers with 2-4 hectare plots, growing primarily a mix of the heralded bourbon and caturra coffee varieties and processing their coffees on site.<br />
-<br />
+> From the Nevado de Huila region of the Colombian Andes comes a delicious coffee from the Asorcafe Producer's Association. The group is made up of farmers with 2-4 hectare plots, growing primarily a mix of the heralded bourbon and caturra coffee varieties and processing their coffees on site.
+
 > The coffee berries are manually depulped of their skin and washed of their mucilage after undergoing fermentation in small tanks, then laid to dry under cover of simple but effective solar dryers that work like small greenhouses. The group brings their coffees together for export in the town of Pedegral de Inza de Cauca.
-<br />
+
 A sweet cup with lots of body, Pedegral de Cauca brings dark fruit flavours like currant and plum with brown sugar and a lingering, creamy finish.
 
-####Ciwidey - Java, Indonesia
+### Ciwidey - Java, Indonesia
 **Subscription Coffee #42**
 
-> It's all too rare that we taste a coffee from Indonesia that really catches our attention and meets all the quality criteria we have for what we share with you. This coffee from Ciwidey in West Java is one of those. While most of the java you'll encounter comes from big estates in east Java, it is in the west where many of the older, original farms are located. These farms are still growing a good deal of one of the oldest, prized cultivars, typical, known for producing a floral and flavourful cup. Farms here grow coffee in smaller plots alongside crops of rice, cabbage, carrots, and onions for the local markets.<br />
-<br />
+> It's all too rare that we taste a coffee from Indonesia that really catches our attention and meets all the quality criteria we have for what we share with you. This coffee from Ciwidey in West Java is one of those. While most of the java you'll encounter comes from big estates in east Java, it is in the west where many of the older, original farms are located. These farms are still growing a good deal of one of the oldest, prized cultivars, typical, known for producing a floral and flavourful cup. Farms here grow coffee in smaller plots alongside crops of rice, cabbage, carrots, and onions for the local markets.
+
 Enjoy the big body with flavours of buttery caramel, hazelnut, and semi-sweet chocolate with a long blackberry jam finish.
 
-####Rioblanco de Tolima - Colombia 
+### Rioblanco de Tolima - Colombia 
 **Subscription Coffee #43**
-<br>
-<img src="http://farm6.staticflickr.com/5548/9131507239_004b88ca4c_n.jpg" width="305" height="320" alt="Rioblanco | Tonx Coffee" align="left" margin="5px">
+<img src="http://farm6.staticflickr.com/5548/9131507239_004b88ca4c_n.jpg" width="305" height="320" alt="Rioblanco | Tonx Coffee" align="left" tyle="PADDING-RIGHT: 3px" - style="PADDING-BOTTOM: 2px"> In Rioblanco de Tolima, in western Colombia, a handful of producers grow mostly caturra and typica variety coffee on their small, four hectare farms. With plenty of shade from their guamo, nogal and plantain trees, they harvest and process the coffee using hand-crank pulpers and simple washing tanks stationed near their houses. The coffee is laid to dry under the protective cover of translucent roofs to help keep the frequent equatorial rains at bay. The care they take shows in this lovely cup.
 
-<p>In Rioblanco de Tolima, in western Colombia, a handful of producers grow mostly caturra and typica variety coffee on their small, four hectare farms. With plenty of shade from their guamo, nogal and plantain trees, they harvest and process the coffee using hand-crank pulpers and simple washing tanks stationed near their houses. The coffee is laid to dry under the protective cover of translucent roofs to help keep the frequent equatorial rains at bay. The care they take shows in this lovely cup.<br />
-<br />
 Sweet and fruited, rioblanco performs well across many brew methods to reveal cherry, date, hints of mint leaf and a lingering vanilla.
 
-####Santa Clara - Antigua, Guatemala
+### Santa Clara - Antigua, Guatemala
 **Subscription Coffee #44**
-<br>
-<img src="http://farm8.staticflickr.com/7331/9131507273_34815f95a5_n.jpg" width="320" height="318" alt="Santa Clara | Tonx Coffee" align="left" margin="5px"></a>
-<p>
-Ricardo Zelaya, a fourth generation coffee farmer, grows coffee on the southern slopes of the Antigua Valley, just off beautiful Volcan de Agua. As a well-studied agronomist, Ricardo was able to deliver us a stunning coffee despite looming threats from coffee leaf rust that affected yields in much of Central America. Ricardo relies on heirloom varieties (bourbon and caturra), an abundance of shade, and careful processing techniques, washing the coffee and laying it to dry on traditional patios. It's no surprise that his coffees have won numerous awards over the years.<br />
-<br />
+<img src="http://farm8.staticflickr.com/7331/9131507273_34815f95a5_n.jpg" width="320" height="318" alt="Santa Clara | Tonx Coffee" align="left" tyle="PADDING-RIGHT: 3px" - style="PADDING-BOTTOM: 2px"></a> Ricardo Zelaya, a fourth generation coffee farmer, grows coffee on the southern slopes of the Antigua Valley, just off beautiful Volcan de Agua. As a well-studied agronomist, Ricardo was able to deliver us a stunning coffee despite looming threats from coffee leaf rust that affected yields in much of Central America. Ricardo relies on heirloom varieties (bourbon and caturra), an abundance of shade, and careful processing techniques, washing the coffee and laying it to dry on traditional patios. It's no surprise that his coffees have won numerous awards over the years.
+
 Santa Clara is a crowd pleaser exemplary of top Antigua coffees - smooth and juicy, with flavours of raspberry, lovely cocoa, and lavender.
 			
-####Chelba - Yirgacheffe, Ethopia
+### Chelba - Yirgacheffe, Ethopia
 **Subscription Coffee #45**
-<br>
-<img src="http://farm6.staticflickr.com/5517/9131507109_7ba63e5489_n.jpg" width="320" height="315" alt="Chelba | Tonx Coffee" align="left" margin="5px"></a>
+<img src="http://farm6.staticflickr.com/5517/9131507109_7ba63e5489_n.jpg" width="320" height="315" alt="Chelba | Tonx Coffee" align="left" tyle="PADDING-RIGHT: 3px" - style="PADDING-BOTTOM: 2px"></a>
 
 > Chelba, a small village in the famed Yirgacheffe growing region of Ethiopia, is also the namesake washing station of the 700 small farmers who contributed to this Tonx offering. Under the shade of acacia, podocarpus, and cordia trees, these farmers raise cattle, grow a variety of subsistence crops, as well as this heralded heirloom coffee. After hand-sorting the coffee fruit to ensure only the ripest are processed, it's pulped, fermented (for up to two days to loosen any remaining fruit), and laid to dry for about ten days.<br />
 
 > A vibrant and sweet coffee, chelba has something for everyone with flavours of limeade, floral honey and peach.
 
-####Bella Vista - Antigua, Guatemala
+### Bella Vista - Antigua, Guatemala
 **Subscription Coffee #46**
-<br>
-<a href="http://www.flickr.com/photos/jmccullough/9133718454/" title="2013-06-16 20.05.59-2 by Urban_Hermit, on Flickr"><img src="http://farm6.staticflickr.com/5495/9133718454_c903bcbcca_n.jpg" width="309" height="320" alt="2013-06-16 20.05.59-2" align="left" margin="5px"></a>
+
+<a href="http://www.flickr.com/photos/jmccullough/9133718454/" title="2013-06-16 20.05.59-2 by Urban_Hermit, on Flickr"><img src="http://farm6.staticflickr.com/5495/9133718454_c903bcbcca_n.jpg" width="309" height="320" alt="2013-06-16 20.05.59-2" align="left" tyle="PADDING-RIGHT: 3px" - style="PADDING-BOTTOM: 2px"></a>
 
 > Luis Pedro Zelaya is a fourth generation coffee farmer working in the heart of the gamed Antigua region. He is also our good friend. Managing the renowned Beneficio Bella Vista and many other well-known farms in the area, Luis Pedro has produced some truly exceptional coffees over the years we've known him. His progressive approach to every aspect of his operation is an inspiration. This past year, he built an incredible greenhouse to dry the coffee, an improvement over the typical patios. This lovely selection is made up of bourbon and caturra from the farms surrounding the mill, nestled between the volcanos Fuego, Agua, and Acatenango. 
 

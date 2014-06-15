@@ -58,7 +58,7 @@ Enjoy.
 ### Los Eucaliptos - Huila, Colombia
 **Subscription Coffee #34**
 <br>
-<a href="http://goo.gl/bZagW"><img src="http://farm8.staticflickr.com/7320/9131507715_255e6ec1f4_n.jpg" width="320" height="308" alt="Los Eucaliptos | Tonx Coffee" - style="PADDING-RIGHT: 3px" - style="PADDING-BOTTOM: 2px"></a>
+<a href="http://goo.gl/bZagW"><img src="http://farm8.staticflickr.com/7320/9131507715_255e6ec1f4_n.jpg" width="320" height="308" alt="Los Eucaliptos | Tonx Coffee" - style="PADDING-RIGHT: 3px" style="PADDING-BOTTOM: 2px"></a>
 <br>
 Los Eucaliptos is described as having flavours of "green apple, molasses, and vanilla."<br />
 
@@ -80,7 +80,7 @@ Not a favourite right now, but perhaps by the end of the week and I have used up
 ### Tana Toraja - Sulawest, Indonesia
 **Subscription Coffee #36**
 
-<img src="http://farm8.staticflickr.com/7406/9133718886_f2bde70f71_n.jpg" width="320" height="319" alt="Tana Toraja | Tonx Coffee" tyle="PADDING-RIGHT: 3px" - style="PADDING-BOTTOM: 2px"></a>
+<img src="http://farm8.staticflickr.com/7406/9133718886_f2bde70f71_n.jpg" width="320" height="319" alt="Tana Toraja | Tonx Coffee" style="PADDING-RIGHT: 3px" style="PADDING-BOTTOM: 2px"></a>
 
 Tana Toraja is Tonx's first roast of beans from Indonesia. If this is the case, then I can't wait for the next shipment that includes beans from that region. According to the post card, these beans are processed in a different way than most of the varieties there. The process they use is <i><a rel="nofollow"  href="http://en.wikipedia.org/wiki/Giling_Basah">giling basah</a></i> which literally means "wet grinding." I encourage you to click the link to read about it on Wikipedia as it is rather interesting.
 
@@ -137,19 +137,19 @@ Enjoy the big body with flavours of buttery caramel, hazelnut, and semi-sweet ch
 
 ### Rioblanco de Tolima - Colombia 
 **Subscription Coffee #43**
-<img src="http://farm6.staticflickr.com/5548/9131507239_004b88ca4c_n.jpg" width="305" height="320" alt="Rioblanco | Tonx Coffee" align="left" tyle="PADDING-RIGHT: 3px" - style="PADDING-BOTTOM: 2px"> In Rioblanco de Tolima, in western Colombia, a handful of producers grow mostly caturra and typica variety coffee on their small, four hectare farms. With plenty of shade from their guamo, nogal and plantain trees, they harvest and process the coffee using hand-crank pulpers and simple washing tanks stationed near their houses. The coffee is laid to dry under the protective cover of translucent roofs to help keep the frequent equatorial rains at bay. The care they take shows in this lovely cup.
+<img src="http://farm6.staticflickr.com/5548/9131507239_004b88ca4c_n.jpg" width="305" height="320" alt="Rioblanco | Tonx Coffee" align="left" style="PADDING-RIGHT: 3px" style="PADDING-BOTTOM: 2px"> In Rioblanco de Tolima, in western Colombia, a handful of producers grow mostly caturra and typica variety coffee on their small, four hectare farms. With plenty of shade from their guamo, nogal and plantain trees, they harvest and process the coffee using hand-crank pulpers and simple washing tanks stationed near their houses. The coffee is laid to dry under the protective cover of translucent roofs to help keep the frequent equatorial rains at bay. The care they take shows in this lovely cup.
 
 Sweet and fruited, rioblanco performs well across many brew methods to reveal cherry, date, hints of mint leaf and a lingering vanilla.
 
 ### Santa Clara - Antigua, Guatemala
 **Subscription Coffee #44**
-<img src="http://farm8.staticflickr.com/7331/9131507273_34815f95a5_n.jpg" width="320" height="318" alt="Santa Clara | Tonx Coffee" align="left" tyle="PADDING-RIGHT: 3px" - style="PADDING-BOTTOM: 2px"></a> Ricardo Zelaya, a fourth generation coffee farmer, grows coffee on the southern slopes of the Antigua Valley, just off beautiful Volcan de Agua. As a well-studied agronomist, Ricardo was able to deliver us a stunning coffee despite looming threats from coffee leaf rust that affected yields in much of Central America. Ricardo relies on heirloom varieties (bourbon and caturra), an abundance of shade, and careful processing techniques, washing the coffee and laying it to dry on traditional patios. It's no surprise that his coffees have won numerous awards over the years.
+<img src="http://farm8.staticflickr.com/7331/9131507273_34815f95a5_n.jpg" width="320" height="318" alt="Santa Clara | Tonx Coffee" align="left" style="PADDING-RIGHT: 3px" style="PADDING-BOTTOM: 2px"></a> Ricardo Zelaya, a fourth generation coffee farmer, grows coffee on the southern slopes of the Antigua Valley, just off beautiful Volcan de Agua. As a well-studied agronomist, Ricardo was able to deliver us a stunning coffee despite looming threats from coffee leaf rust that affected yields in much of Central America. Ricardo relies on heirloom varieties (bourbon and caturra), an abundance of shade, and careful processing techniques, washing the coffee and laying it to dry on traditional patios. It's no surprise that his coffees have won numerous awards over the years.
 
 Santa Clara is a crowd pleaser exemplary of top Antigua coffees - smooth and juicy, with flavours of raspberry, lovely cocoa, and lavender.
 			
 ### Chelba - Yirgacheffe, Ethopia
 **Subscription Coffee #45**
-<img src="http://farm6.staticflickr.com/5517/9131507109_7ba63e5489_n.jpg" width="320" height="315" alt="Chelba | Tonx Coffee" align="left" tyle="PADDING-RIGHT: 3px" - style="PADDING-BOTTOM: 2px"></a>
+<img src="http://farm6.staticflickr.com/5517/9131507109_7ba63e5489_n.jpg" width="320" height="315" alt="Chelba | Tonx Coffee" align="left" tyle="PADDING-RIGHT: 3px" style="PADDING-BOTTOM: 2px"></a>
 
 > Chelba, a small village in the famed Yirgacheffe growing region of Ethiopia, is also the namesake washing station of the 700 small farmers who contributed to this Tonx offering. Under the shade of acacia, podocarpus, and cordia trees, these farmers raise cattle, grow a variety of subsistence crops, as well as this heralded heirloom coffee. After hand-sorting the coffee fruit to ensure only the ripest are processed, it's pulped, fermented (for up to two days to loosen any remaining fruit), and laid to dry for about ten days.<br />
 

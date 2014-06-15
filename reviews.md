@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: /reviews/
 title: Reviews
 tagline: A List of Reviews

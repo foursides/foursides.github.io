@@ -33,7 +33,7 @@ To me, the sculptures looked like they were designed to fit in their respective 
 
 <img src="https://farm6.staticflickr.com/5592/14633408239_321fed2452.jpg" width="375" height="500" alt="Untitled">
 
-I wouldn't be surprised to read that a portion of the collection becomes a permanent part of Mission Hill. 
+I wouldn't be surprised to read that a portion of the collection becomes a permanent part of Mission Hill. *Encounters with Iceland* is on display until October 2014.
 
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=ss_til&ad_type=product_link&tracking_id=four0b-20&marketplace=amazon&region=US&placement=1770502300&asins=1770502300&linkId=L6X5VMGJYRG5PLT3&show_border=true&link_opens_in_new_window=true">

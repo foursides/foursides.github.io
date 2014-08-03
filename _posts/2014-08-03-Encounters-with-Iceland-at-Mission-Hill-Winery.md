@@ -10,7 +10,8 @@ category: articles
 >
 > [DAVID HANDLEY](http://www.steinunnth.com/literature.html "David Handley Quote"), Director of "Sculpture by the Sea" in Australia
 
-<img src="https://farm3.staticflickr.com/2905/14817705494_cf4243c8a9.jpg" align="left" width="500" height="500" alt="Untitled">
+<img src="https://farm3.staticflickr.com/2905/14817705494_cf4243c8a9.jpg" align="left" width="250" height="250" alt="Untitled">
+<br>
 
 [Steinunn Thórarinsdóttir](http://www.steinunnth.com/ "Steinunn Thorarinsdottir") currently has on display 40 sculptures at [Mission Hill Winery](http://www.missionhillwinery.com/ "Mission Hill Winery") in Kelowna titled **"Encounters with Iceland."** Scattered across the grounds and within the buildings, I was drawn to how the sculptures echoed a lot of the physical stances the visitors to Mission Hill take. Quiet, grounded, taking in the views of the valley and vineyard. 
 
@@ -26,6 +27,7 @@ category: articles
 To me, the sculptures looked like they were designed to fit in their respective spots at the winery. Thórarinsdóttir was brought over to place each piece. Their positions feel like permanent homes for them, they belong at Mission Hill. This is more evident when you see how the statues were displayed in a different art show.
 
 <img src="http://www.steinunnth.com/images/7%202012%20encounter%20scott%20white%20contemporary.jpg" align="right">
+<br>
 
 > Some critics have noted that Thórarinsdóttir’s mostly asexual figures, be they whole or ‘broken’, seem to convey an eerie atmosphere of loneliness, isolation or even sadness; others have seen the same works as monuments to meditation, dignity and peace within an individual at ease with himself. However, such analysis only scratches the surface of her works, but that is exactly where all shared interpretation comes to a stop: we can share views on what we see, but the figures give nothing away of what rest within. They do not share their inner life with the audience; they maintain a very human privacy of emotion, that we both feel bound to honour and align ourselves with.
 >

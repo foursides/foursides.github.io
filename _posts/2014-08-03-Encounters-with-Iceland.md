@@ -17,9 +17,10 @@ category: articles
 <img src="https://farm4.staticflickr.com/3852/14820070785_49b13bfd43.jpg" align="right" width="375" height="500" alt="Untitled">
 
 > My works explore the human condition in all its variety and how man relates to the environment and to each other. The figures are mostly life size and the atmosphere is reflective and mediative. They are androgynous symbols of mankind. ... Each piece is firmly rooted in my Icelandic origin, reflecting the power and proximity of the elements.
+> 
 > Steinunn Thórarinsdóttir
 
-<img src="https://farm4.staticflickr.com/3904/14576698479_3a49c44fc9.jpg" align="left" width="375" height="500" alt="Untitled">
+<img src="https://farm4.staticflickr.com/3904/14576698479_3a49c44fc9.jpg" align="left" width="375" height="500" alt="Untitled" padding="5px">
 
 To me, the sculptures looked like they were designed to fit in their respective spots at the winery. Thórarinsdóttir was brought over to place each piece. Their positions feel like permanent homes for them, they belong at Mission Hill. This is more evident when you see how the statues were displayed in a different art show.
 

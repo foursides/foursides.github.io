@@ -21,7 +21,8 @@ category: articles
 > Steinunn Thórarinsdóttir
 
 <img src="https://farm4.staticflickr.com/3904/14576698479_3a49c44fc9.jpg" align="left" width="375" height="500" alt="Untitled" padding="5px">
-
+<br>
+<br>
 To me, the sculptures looked like they were designed to fit in their respective spots at the winery. Thórarinsdóttir was brought over to place each piece. Their positions feel like permanent homes for them, they belong at Mission Hill. This is more evident when you see how the statues were displayed in a different art show.
 
 <img src="http://www.steinunnth.com/images/7%202012%20encounter%20scott%20white%20contemporary.jpg" align="right">

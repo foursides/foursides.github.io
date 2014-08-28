@@ -18,7 +18,6 @@ category: articles
 <img src="https://farm4.staticflickr.com/3852/14820070785_49b13bfd43.jpg" align="right" width="375" height="500" alt="Untitled">
 
 > My works explore the human condition in all its variety and how man relates to the environment and to each other. The figures are mostly life size and the atmosphere is reflective and mediative. They are androgynous symbols of mankind. ... Each piece is firmly rooted in my Icelandic origin, reflecting the power and proximity of the elements.
-<<<<<<< HEAD:_posts/2014-08-03-Encounters-with-Iceland.md
 >
 > Steinunn Thórarinsdóttir
 
@@ -26,19 +25,8 @@ category: articles
 <br>
 To me, the sculptures looked like they were designed to fit in their respective spots at the winery. Thórarinsdóttir was brought over to place each piece. Their positions feel like permanent homes for them, they belong at Mission Hill. This is more evident when you see how the statues were displayed in a different art show.
 
-<img src="http://www.steinunnth.com/images/7%202012%20encounter%20scott%20white%20contemporary.jpg" align="right" padding="5px">
-=======
-> 
-> Steinunn Thórarinsdóttir
-
-<img src="https://farm4.staticflickr.com/3904/14576698479_3a49c44fc9.jpg" align="left" width="375" height="500" alt="Untitled" padding="5px">
-<br>
-<br>
-To me, the sculptures looked like they were designed to fit in their respective spots at the winery. Thórarinsdóttir was brought over to place each piece. Their positions feel like permanent homes for them, they belong at Mission Hill. This is more evident when you see how the statues were displayed in a different art show.
-
 <img src="http://www.steinunnth.com/images/7%202012%20encounter%20scott%20white%20contemporary.jpg" align="right">
 <br>
->>>>>>> FETCH_HEAD:_posts/2014-08-03-Encounters-with-Iceland-at-Mission-Hill-Winery.md
 
 > Some critics have noted that Thórarinsdóttir’s mostly asexual figures, be they whole or ‘broken’, seem to convey an eerie atmosphere of loneliness, isolation or even sadness; others have seen the same works as monuments to meditation, dignity and peace within an individual at ease with himself. However, such analysis only scratches the surface of her works, but that is exactly where all shared interpretation comes to a stop: we can share views on what we see, but the figures give nothing away of what rest within. They do not share their inner life with the audience; they maintain a very human privacy of emotion, that we both feel bound to honour and align ourselves with.
 >

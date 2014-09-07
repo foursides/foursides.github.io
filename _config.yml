@@ -55,7 +55,8 @@ markdown_ext:  markdown,mkdown,mkdn,mkd,md
 redcarpet:
   extensions: [footnotes]
 
-
+gems:
+  - jekyll-redirect-from
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:title

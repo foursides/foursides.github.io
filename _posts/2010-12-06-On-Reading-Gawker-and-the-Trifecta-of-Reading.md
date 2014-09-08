@@ -5,7 +5,10 @@ category: articles
 tags: [books, reading, iphone, reviews]
 ---
 
-> ... Blogs are emphasizing the trait that’s always defined them, the fact that they’re an ongoing flow of information instead of just a collection of published pages. Anil Dash, [Gawker Is A Blog. Just Like Twitter](http://dashes.com/anil/2010/12/gawker-is-a-blog-just-like-twitter.html).
+
+> ... Blogs are emphasizing the trait that’s always defined them, the fact that they’re an ongoing flow of information instead of just a collection of published pages.
+>
+> -- Anil Dash, [Gawker Is A Blog. Just Like Twitter](http://dashes.com/anil/2010/12/gawker-is-a-blog-just-like-twitter.html).
 
 It's been two months since I last wrote about the [importance of reading](http://www.foursides.ca/pausing-to-read-site-design) and how it is changing in the digital age, and I thought it was important to revisit the the topic. A few things have been rising up through the Internet that has caused me to delve into the topic further. I'll start with the new, soon-to-be-released, site design for Gawker and the blogs under their ownership. 
 

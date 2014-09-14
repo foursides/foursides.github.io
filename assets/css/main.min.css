@@ -3210,11 +3210,11 @@ footer[role=contentinfo] {
 	font-color: #E85F43;
     font-size: 26px;
 	line-height: 28px;
-	margin-bottom: -64px;
+	margin-bottom: 10px;
     padding-top: 24px; /* Allows for hr margin to start at top of h2 */
 }
 .line-title h5 {
-	padding-top: 20px;
+	padding-top: 5px;
     font-size: 14px;
     margin-bottom: 20px;
 	text-align:right;

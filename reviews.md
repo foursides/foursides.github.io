@@ -6,7 +6,7 @@ tagline: A List of Reviews
 tags: [reviews]
 ---
 
-* [Tonx Coffee Review](http://www.foursides.ca/Tonx-Review "Tonx Coffee Review")
+* [Blue Bottle Coffee Review](http://www.foursides.ca/Blue-Bottle-Coffee-Review "Blue Bottle Coffee Review")
 * [Moby - Innocents](http://www.foursides.ca/new-album-from-moby--innocents "Moby - Innocents")
 * [Sons of Anarchy - Season 1](http://www.foursides.ca/sons-of-anarchy-season-one--pure-awesomeness "Sons of Anarchy - Season 1"): Pure Awesomeness
 * [Skyfall](http://www.foursides.ca/skyfall-a-play-with-shadows "Skyfall"): A Play with Shadows

@@ -6,9 +6,13 @@ category: review
 tags: [tonx, coffee, fuel, aeropress]
 ---
 
-<a href="http://goo.gl/bZagW" title="Tonx Coffee"><img src="http://farm6.staticflickr.com/5468/9131558517_1a9265450a.jpg" width="500" height="270" alt="Tonx Coffee" align="center" margin="5px"></a>
+<a href="https://bluebottlecoffee.com/u/foursides" title="Pearlfisher-Blue-Bottle-Coffee-logo-design-packaging-New-Orleans-Iced-Coffee-carton-6 by James M., on Flickr"><img src="https://farm6.staticflickr.com/5554/15114570518_5512c4d007_q.jpg" width="150" height="150" alt="Blue-Bottle-Coffee"></a>
+
+**Tonx Coffee has joined Blue Bottle Coffee to continue offering their coffee subscription. To learn more, follow this link:[Blue Bottle Coffee Review](http://www.foursides.ca/Blue-Bottle-Coffee-Review )**
+
+
 <br>
-<a rel="nofollow"  href="http://goo.gl/bZagW" title="Tonx Coffee">Tonx</a> is an independent operation based out of California that sends the best coffee from their roasters to your door for a low price. After hearing about the service for months, I decided to try it out. Everything being said about Tonx is true: they truly are the best damn coffee out there. </p>
+<a rel="nofollow"  href="https://bluebottlecoffee.com/u/foursides" title="Tonx Coffee">Tonx</a> is an independent operation based out of California that sends the best coffee from their roasters to your door for a low price. After hearing about the service for months, I decided to try it out. Everything being said about Tonx is true: they truly are the best damn coffee out there. </p>
 <p>I live in southern British Columbia in Canada, which besides a lot of wineries and orchards, has several coffee roasters here. I have tried almost all of the various blends, on top of the national chains (<a rel="nofollow"  href="http://goo.gl/KUccF" title="Starbucks">Starbucks</a>, <a rel="nofollow"  href="http://www.blenz.com" title="Blenz">Blenz</a>, <a rel="nofollow"  href="http://www.secondcup.com" title="Second Cup">Second Cup</a>, etc.) and have been unable to find something that really appealed to me day in, day out. I may find one blend I enjoy, but then end up sticking to it all the time. There was no variety. </p>
 <p>Until I subscribed to Tonx. </p>
 <p>Tonx gave me the variety I craved. A new blend of beans every two weeks, roasted fresh, and they all taste excellent. The coffee is sent direct to your address, no need to wait for a FedEx/UPS delivery man or visit a post office to pick up a package. Check your mail every two weeks and find a little treasure. </p>
@@ -41,7 +45,7 @@ It is an excellent episode, and I encourage everyone to listen to it if they are
 <p><strong>12 oz = $38 every 28 days (two shipments)</strong></p>
 <p>The best part is those prices are the same for Canadians as well as Americans. </p>
 <p>People in the United States can actually ask for a free sample, as well. It is a 2 oz bag, which is enough for two people to enjoy coffee each morning for a few days. You can also purchase gift subscriptions for people, a great idea for birthdays and Christmas.</p>
-<p><strong><a rel="nofollow"  href="http://goo.gl/bZagW" title="Tonx Coffee">Free Trial for Tonx Coffee</a></strong></p>
+<p><strong><a rel="nofollow"  href="https://bluebottlecoffee.com/u/foursides" title="Tonx Coffee">Free Trial for Tonx Coffee</a></strong></p>
 
 As mentioned previously, with a subscription to Tonx, you receive a different roast every two weeks. The shipments arrive in a small box that can fit inside a post office box, which eliminates the hassle of going to a post office to pick up a package. You won't be receiving duplicate roasts either. Once you have a received a roast you enjoy, you will have to wait and see if they will send it out again in the future. This may be discouraging to some, but to others this will be a welcome treat.
 
@@ -58,7 +62,7 @@ Enjoy.
 ### Los Eucaliptos - Huila, Colombia
 **Subscription Coffee #34**
 <br>
-<a href="http://goo.gl/bZagW"><img src="http://farm8.staticflickr.com/7320/9131507715_255e6ec1f4_n.jpg" width="320" height="308" alt="Los Eucaliptos | Tonx Coffee" - style="PADDING-RIGHT: 3px" style="PADDING-BOTTOM: 2px"></a>
+<a href="https://bluebottlecoffee.com/u/foursides"><img src="http://farm8.staticflickr.com/7320/9131507715_255e6ec1f4_n.jpg" width="320" height="308" alt="Los Eucaliptos | Tonx Coffee" - style="PADDING-RIGHT: 3px" style="PADDING-BOTTOM: 2px"></a>
 <br>
 Los Eucaliptos is described as having flavours of "green apple, molasses, and vanilla."<br />
 
@@ -80,7 +84,7 @@ Not a favourite right now, but perhaps by the end of the week and I have used up
 ### Tana Toraja - Sulawest, Indonesia
 **Subscription Coffee #36**
 
-<img src="http://farm8.staticflickr.com/7406/9133718886_f2bde70f71_n.jpg" width="320" height="319" alt="Tana Toraja | Tonx Coffee" style="PADDING-RIGHT: 3px" style="PADDING-BOTTOM: 2px"></a>
+<img src="http://farm8.staticflickr.com/7406/9133718886_f2bde70f71_n.jpg" width="320" height="319" alt="Tana Toraja | Tonx Coffee" style="PADDING-RIGHT: 3px" style="PADDING-BOTTOM: 2px">
 
 Tana Toraja is Tonx's first roast of beans from Indonesia. If this is the case, then I can't wait for the next shipment that includes beans from that region. According to the post card, these beans are processed in a different way than most of the varieties there. The process they use is <i><a rel="nofollow"  href="http://en.wikipedia.org/wiki/Giling_Basah">giling basah</a></i> which literally means "wet grinding." I encourage you to click the link to read about it on Wikipedia as it is rather interesting.
 
@@ -158,7 +162,7 @@ Santa Clara is a crowd pleaser exemplary of top Antigua coffees - smooth and jui
 ### Bella Vista - Antigua, Guatemala
 **Subscription Coffee #46**
 
-<a href="http://www.flickr.com/photos/jmccullough/9133718454/" title="2013-06-16 20.05.59-2 by Urban_Hermit, on Flickr"><img src="http://farm6.staticflickr.com/5495/9133718454_c903bcbcca_n.jpg" width="309" height="320" alt="2013-06-16 20.05.59-2" align="left" tyle="PADDING-RIGHT: 3px" - style="PADDING-BOTTOM: 2px"></a>
+<a href="https://bluebottlecoffee.com/u/foursides><img src="http://farm6.staticflickr.com/5495/9133718454_c903bcbcca_n.jpg" width="309" height="320" alt="2013-06-16 20.05.59-2" align="left" tyle="PADDING-RIGHT: 3px" - style="PADDING-BOTTOM: 2px"></a>
 
 > Luis Pedro Zelaya is a fourth generation coffee farmer working in the heart of the gamed Antigua region. He is also our good friend. Managing the renowned Beneficio Bella Vista and many other well-known farms in the area, Luis Pedro has produced some truly exceptional coffees over the years we've known him. His progressive approach to every aspect of his operation is an inspiration. This past year, he built an incredible greenhouse to dry the coffee, an improvement over the typical patios. This lovely selection is made up of bourbon and caturra from the farms surrounding the mill, nestled between the volcanos Fuego, Agua, and Acatenango. 
 

@@ -6,7 +6,7 @@ tags: [about, life, writing, blogging]
 ---
 <script src="//about.me/embed/jamesmccullough?headline=0"></script>
 <br>
-<p>My name is <strong>James McCullough</strong> - an entrepreneur, a writer, a father, a paleo-eating polymath, fuelled by <a href="http://foursides.ca/tonx-coffee-review" title="Tonx Coffee">Tonx Coffee</a>. I work as a <a href="http://www.foursidesconsulting.com" title="Hotel Consultant | James McCullough">consultant for boutique hotels</a>.</p>
+<p>My name is <strong>James McCullough</strong> - an entrepreneur, a writer, a father, a paleo-eating polymath, fuelled by <a href="https://bluebottlecoffee.com/u/foursides" title=""Blue Bottle Coffee">Blue Bottle Coffee</a>. I work as a <a href="http://www.foursidesconsulting.com" title="Hotel Consultant | James McCullough">consultant for boutique hotels</a>.</p>
 
 <p>This is my home to help understand what is happening around us. I aim to bring the big ideas, the trends, that are fashionable or obscure and share them with you here.</p>
 

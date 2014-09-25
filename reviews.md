@@ -7,6 +7,7 @@ tags: [reviews]
 ---
 
 * [Blue Bottle Coffee Review](http://www.foursides.ca/Blue-Bottle-Coffee-Review "Blue Bottle Coffee Review")
+* [You Have to Fucking Eat - Adam Mansbach](http://www.foursides.ca/You-Have-to-Fucking-Eat/ "You Have to Fucking Eat")
 * [Moby - Innocents](http://www.foursides.ca/new-album-from-moby--innocents "Moby - Innocents")
 * [Sons of Anarchy - Season 1](http://www.foursides.ca/sons-of-anarchy-season-one--pure-awesomeness "Sons of Anarchy - Season 1"): Pure Awesomeness
 * [Skyfall](http://www.foursides.ca/skyfall-a-play-with-shadows "Skyfall"): A Play with Shadows

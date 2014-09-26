@@ -50,3 +50,4 @@ So far, so good. I look forward to purchasing the mobile apps, as well, to conti
 * [Trust Me, I'm Lying](http://www.amazon.com/gp/product/1591846285/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1591846285&linkCode=as2&tag=four0b-20&linkId=TKYJ4G3PKE5RMFXW "Trust Me, I'm Lying"): Confessions of a Media Manipulator
 * Also read Steve Richards' take on the book: [The Obstacle is the Way](http://steves.seasidelife.com/2014/06/04/the-obstacle-is-the-way/ "The Obstacle is the Way")
 
+<iframe width="600" height="400" src="//bundles.bittorrent.com/embed/bundles/9252292e296ca2bee704262ef1ca92fe9e10d4458b81382b6bece663bd13f2aa" frameborder="0" allowfullscreen></iframe>

@@ -1,4 +1,3 @@
-
 ---
 layout: post
 Title: The Social Network Review

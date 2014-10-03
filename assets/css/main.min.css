@@ -46,6 +46,7 @@ p {
 
 h1 {
     margin: .67em 0
+	line-height: 1.0em;
 }
 
 abbr[title] {

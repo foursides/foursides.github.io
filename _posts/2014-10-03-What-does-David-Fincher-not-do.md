@@ -1,7 +1,7 @@
 ---
 layout: post
 Title: What does David Fincher not do?
-Tags: [movies, design]
+Tags: [movies, design, david fincher]
 category: articles
 ---
 

@@ -1,7 +1,7 @@
 
 ---
 layout: post
-Title: The Social Network - A Quick Review
+Title: The Social Network, A Quick Review
 Tags: [movies, review, david fincher]
 category: articles
 ---

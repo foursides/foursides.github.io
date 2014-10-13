@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: Bury Yourself -- Writing Project
+Title: "Bury Yourself -- Writing Project"
 Tags: [gwen bell, writing]
 category: articles
 ---

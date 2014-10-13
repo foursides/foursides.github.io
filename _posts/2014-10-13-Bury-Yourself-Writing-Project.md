@@ -33,6 +33,6 @@ There are too many features to cover here, so I suggest heading over to their si
 
 Read more about the free trial: [Try Ulysses for NaNoWriMo](http://www.ulyssesapp.com/nanowrimo/  "Ulyesses for NaNoWriMo") ([National Novel Writing Month](http://nanowrimo.org "NaNoWriMo") is in November.)
 
-<a href="https://itunes.apple.com/us/app/ulysses-iii/id623795237?mt=12&uo=4&at=10l4Qt"><img src="http://www.foursides.ca/images/AppStore.eps"></a>
+<a href="https://itunes.apple.com/us/app/ulysses-iii/id623795237?mt=12&uo=4&at=10l4Qt"><img src="http://www.foursides.ca/images/AppStore.svg"></a>
 
 

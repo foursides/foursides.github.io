@@ -5,7 +5,7 @@ Tags: [gwen bell, writing]
 category: articles
 ---
 
-<img src="http://www.foursides.ca/images/fall.jpg" height="50%" width="50%">
+<center><img src="http://www.foursides.ca/images/fall.jpg" height="50%" width="50%"></center>
 
 > We’re coming up on the end of the year. The Earth gives us an opportunity to wake up earlier and go to sleep earlier. The Earth isn’t getting an operating system upgrade; it’s doing what it has always done. It’s preparing itself for a new year by shaking off the old one.
 >

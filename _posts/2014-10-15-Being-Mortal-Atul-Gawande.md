@@ -17,5 +17,5 @@ Atul Gawande is a practicing doctor, which makes the book and the Frontline epis
 > 
 > Medicine has triumphed in modern times, transforming birth, injury, and infectious disease from harrowing to manageable. But in the inevitable condition of aging and death, the goals of medicine seem too frequently to run counter to the interest of the human spirit. Nursing homes, preoccupied with safety, pin patients into railed beds and wheelchairs. Hospitals isolate the dying, checking for vital signs long after the goals of cure have become moot. Doctors, committed to extending life, continue to carry out devastating procedures that in the end extend suffering.
 
-\<iframe width="560" height="315" src="//www.youtube.com/embed/VRkr09ZMI3w" frameborder="0" allowfullscreen\>\</iframe\>
+<iframe width="560" height="315" src="//www.youtube.com/embed/VRkr09ZMI3w" frameborder="0" allowfullscreen></iframe>
 

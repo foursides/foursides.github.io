@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /bury-yourself/
+permalink: /bury/
 title: Bury Yourself
 tagline: A Writing Project
 tags: [bury yourself, death]

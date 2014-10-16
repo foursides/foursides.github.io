@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /bury/
-title: Bury Yourself
+title: "Bury Yourself"
 tagline: A Writing Project
 tags: [bury yourself, death]
 ---

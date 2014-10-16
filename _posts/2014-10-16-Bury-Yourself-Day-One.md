@@ -5,7 +5,7 @@ Tags: [bury yourself, death]
 category: articles
 ---
 
-*Part of the [Bury Yourself](http://www.foursides.ca/bury-yourself "Bury Yourself | Four Sides") writing project*
+*Part of the [Bury Yourself](http://www.foursides.ca/bury "Bury Yourself | Four Sides") writing project*
 
 > Then I heard a voice from heaven say, "Write: Blessed are the dead who die in the Lord from now on." "Yes," says the Spirit, "they will rest from their labor, for their deeds will follow them."
 > 

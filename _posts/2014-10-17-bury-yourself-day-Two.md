@@ -1,7 +1,7 @@
 ---
 layout: post
 Title: “Bury Yourself — Day Two”
-Tags: [bury yourself, death](#)
+Tags: [bury yourself, death]
 category: articles
 ---
 

@@ -4,6 +4,7 @@ Title: “Bury Yourself — Day Two”
 Tags: [bury yourself, death]
 category: articles
 ---
+*Part of the [Bury Yourself](http://www.foursides.ca/bury "Bury Yourself | Four Sides") writing project*
 
 35 years is both a long time to live and a short amount of time. It is relative those surrounding you. Whether I am looking at my daughter (nearly 5 years old) or my grandma (90) who lives in Kelowna, I think about how much that has happened or will happen for me. I consider myself lucky enough to be able to say those words. Death is always a possibility these days, robbing life way too young or prolonging it for an excoriating amount of time. 
 

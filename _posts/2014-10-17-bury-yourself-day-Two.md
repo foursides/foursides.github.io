@@ -15,6 +15,7 @@ The one time where death was a strong possibility occurred when I was fresh out 
 
 A haunting memory for me happened towards the end of that summer of work. It was an outdoor venue, a large circus tent in a half-shell. Inside the tent, at the back, was the stage. The crowd was half inside, half outside, with a gazebo acting as the command central for the sound and lighting operators. With the huge amount of people crowding around the stage, having cables run on the ground towards the stage was unfeasible. The solution: run the cables to the top of the tent from the top of the gazebo and down towards the stage. 
 
+<img src=“http://www.foursides.ca/images/tent.jpg”>
 <table class="image">
 <caption align="bottom">The Tent</caption>
 <tr><td><img src=“http://www.foursides.ca/images/tent.jpg”></td></tr>

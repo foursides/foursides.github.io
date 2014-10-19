@@ -1,7 +1,8 @@
 ---
 layout: post
 Title: “Bury Yourself — Day Three”
-Tags: bury yourself, death ()
+Tags: [bury yourself, death]
+description: "When you arise in the morning, think of what a precious privilege it is to be alive - to breathe, to think, to enjoy, to love."
 category: articles
 ---
 

@@ -9,7 +9,7 @@ category: articles
 
 > When you arise in the morning, think of what a precious privilege it is to be alive - to breathe, to think, to enjoy, to love.
 >
-> -- Marcus Aurelius, 
+> -- Marcus Aurelius
 
 No one wants to think about what happens when they die. 
 

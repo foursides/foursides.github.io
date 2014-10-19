@@ -5,7 +5,7 @@ Tags: bury yourself, death ()
 category: articles
 ---
 
-Part of the Bury Yourself ()(http://www.foursides.ca/bury "Bury Yourself | Four Sides") writing project.
+*Part of the [Bury Yourself](http://www.foursides.ca/bury "Bury Yourself | Four Sides") writing project.*
 
 When you arise in the morning, think of what a precious privilege it is to be alive - to breathe, to think, to enjoy, to love.
 

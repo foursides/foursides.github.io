@@ -7,9 +7,9 @@ category: articles
 
 *Part of the [Bury Yourself](http://www.foursides.ca/bury "Bury Yourself | Four Sides") writing project.*
 
-When you arise in the morning, think of what a precious privilege it is to be alive - to breathe, to think, to enjoy, to love.
-
-— Marcus Aurelius, 
+> When you arise in the morning, think of what a precious privilege it is to be alive - to breathe, to think, to enjoy, to love.
+>
+> -- Marcus Aurelius, 
 
 No one wants to think about what happens when they die. 
 
@@ -23,7 +23,7 @@ Talking to her about death makes me start to think more about my own mortality a
 
 I have no control over how people will cope, especially my daughter. The only thing I can really prepare them for is to describe what I want done with my possesions, my material wealth, and, a real First World Problem, my digital goods. 
 
-After hearing about the process of deciding what to do with what when my grandfather (http://www.foursides.ca/Bury-Yourself-Day-One)passed away and then when my grandmother decided to move into a condo, made me appreciate what happens after death. Living in a house for around 30 years, they had quite a collection. Not junk, either. They were worldly travellers, living in southeast Asia for a good portion, travelling throughout the United States, Canada, Australia, and so forth. There was precious Chinese artwork purchased during the Cultural Revolution, shadow puppets from Indonesia, furniture from their parents or grandparents, and, of course, books. Lots and lots of books. 
+After hearing about the process of deciding what to do with what when my [grandfather](http://www.foursides.ca/Bury-Yourself-Day-One) passed away and then when my grandmother decided to move into a condo, made me appreciate what happens after death. Living in a house for around 30 years, they had quite a collection. Not junk, either. They were worldly travellers, living in southeast Asia for a good portion, travelling throughout the United States, Canada, Australia, and so forth. There was precious Chinese artwork purchased during the Cultural Revolution, shadow puppets from Indonesia, furniture from their parents or grandparents, and, of course, books. Lots and lots of books. 
 
 I am not a minimalist. I would describe myself as a non-materialist. I do own stuff, but I don’t stress about how much stuff I have and what would happen if I lost it. I make a conscious effort not to have an attachment to said stuff. My condo could burn down tonight, I would be upset, but I would not be heartbroken over losing x, y, and z.
 

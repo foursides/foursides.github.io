@@ -12,4 +12,6 @@ A series of writing developed over 31 days, prompted by questions and topics by 
 - [Day 1](http://www.foursides.ca/Bury-Yourself-Day-One/ "Bury Yourself | Day 1")
 - [Day 2](http://www.foursides.ca/bury-yourself-day-Two/ "Bury Yourself | Day 2")
 - [Day 3](http://www.foursides.ca/Bury-Yourself-Day-Three/ "Bury Yourself | Day 3")
+- [Day 4](http://www.foursides.ca/Bury-Yourself-Day-Four "Bury Yourself | Day Four")
+
 

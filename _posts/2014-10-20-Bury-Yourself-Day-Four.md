@@ -2,7 +2,7 @@
 layout: post
 Title: “Bury Yourself — Day Four”
 Tags: bury yourself, death
-description: The life of the dead is placed in the memory of the living. — Cicero
+description: "The life of the dead is placed in the memory of the living. — Cicero"
 category: articles
 ---
 

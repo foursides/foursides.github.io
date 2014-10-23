@@ -37,7 +37,7 @@ Two main differences:
 2. Predictive type
 
 
-<img src=“http://www.foursides.ca/images/Inbox.png” height="100%" width="100%">
+<img src="https://raw.githubusercontent.com/foursides/foursides.github.io/master/images/Inbox.PNG" height="25%" width="25%" align="left" style="PADDING-BOTTOM: 5px" style="PADDING-RIGHT: 5px" style="PADDING-TOP: 5px">
 
 The first one could be a big deal for people. No more switching apps to create a reminder to do a task. The Plus button to create a new email or reminder is always at the bottom of the app when viewing a list of messages. When viewing a message, you have to make that jump out but it's very fast. 
 

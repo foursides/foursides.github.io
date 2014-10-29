@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Blue Bottle Coffee Review
-description: "The best coffee available today: Tonx. Read about the varieties of coffee that has been delivered over the past few years."
+description: "The best coffee available today: Blue Bottle. Read about the varieties of coffee that has been delivered over the past few years."
 category: review	
-tags: [tonx, coffee, fuel, aeropress]
+tags: [blue bottle, coffee, fuel, aeropress]
 ---
 
 <a href="https://bluebottlecoffee.com/u/foursides" title="Pearlfisher-Blue-Bottle-Coffee-logo-design-packaging-New-Orleans-Iced-Coffee-carton-6 by James M., on Flickr"><img src="https://farm6.staticflickr.com/5554/15114570518_5512c4d007_q.jpg" width="150" height="150" alt="Blue-Bottle-Coffee"></a>
@@ -61,6 +61,14 @@ The other options available:
 - **Roman Espresso**: Jammy, malted, medium-bodied
 
 ### Subscription Coffees Received
+
+**[Buena Vista](https://bluebottlecoffee.com/u/foursides "Blue Bottle Coffee")**
+
+![Buena Vista](http://www.foursides.ca/images/BuenaVista.jpg)
+
+**Details**: Roger Esaú Herrera Ortéz and his family of seven are responsible for some of the most delicious coffee Nicaragua has to offer. Their farm, Buena Vista, is located on the Cerror de la Explosion in San Fernando de Nueva Segovia. This selection is pulped, fermented, and washed on the farm before it is transferred to Beneficio La Estrella, in nearby Ocotal, to be dried and prepared for export.
+
+**Deliciousness**: Nougat, cocoa, mixed berry, pear
 
 **[Costa Rica Tarrqzú Santa Rosa](https://bluebottlecoffee.com/u/foursides "Blue Bottle Coffee")**
 

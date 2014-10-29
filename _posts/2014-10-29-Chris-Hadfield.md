@@ -7,7 +7,7 @@ category: articles
 ---
 
 <center>
-![Egypt and Jerusalem][http://raw.githubusercontent.com/foursides/foursides.github.io/master/images/theend.jpg]
+![Egypt and Jerusalem](http://raw.githubusercontent.com/foursides/foursides.github.io/master/images/theend.jpg)
 </center>
 
 > It occurred to me last year, ‘What is going to become of that treasure trove of self-awareness?’ It would be a waste if nobody ever saw it. So I went through all 45,000 and chose a few thousand. But I can’t publish a book with 3,000 photos, so I took this this as my precept: ‘If somebody who wanted to buy this book were at the window next to me, what would I show them if we were floating around the world once?'

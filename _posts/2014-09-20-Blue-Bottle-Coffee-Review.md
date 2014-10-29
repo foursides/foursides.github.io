@@ -62,4 +62,12 @@ The other options available:
 
 ### Subscription Coffees Received
 
+**[Costa Rica Tarrqzú Santa Rosa](https://bluebottlecoffee.com/u/foursides "Blue Bottle Coffee")**
+
+![Santa Rosa](http://www.foursides.ca/images/SantaRosa.jpg)
+
+**Details**: Beneficio Santa Rosa is perched high in the mountains of Santa Rosa de León Cortés, in central Costa Rica. Owned and managed by the father and son team of Efraín and Herberth Naranjo, the farm and mill are modestly sized and impeccably run. After pulping and mechanically demucilaging the fruit from each tiny harvest, the Naranjos lay their parchment coffee out to dry on well-monitored raised beds.
+
+**Deliciousness**: Nectarine, watermelon, strawberry shortcake, maple. 
+
 *To be updated as subscriptions are received*

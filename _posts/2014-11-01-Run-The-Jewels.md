@@ -7,8 +7,11 @@ category: articles
 ---
 
 > Throw your hands in the air
+> 
 > And wave ‘em like you just don't care
+> 
 > Keep ‘em there
+> 
 > Run the jewels, run the jewels, run the jewels.
 > 
 > LL Cool J, [Cheesy Rat Blues](https://www.youtube.com/watch?v=cwx6pLz21gE&spfreload=10 "Cheesy Rat Blues | LL Cool J")
@@ -32,12 +35,19 @@ Listening to it the first time through, I wasn’t entirely sure what to think. 
 Hypnotic. When you reach the third track, *Blockbuster Night Part 1*, you are done. Run With Jewels has you ensnared into their music and you will find yourself listening to this album more than once. 
 
 > This Run The Jewels is, murder, mayhem, melodic music
+> 
 > Psychotics use it then lose it, junkies simply abuse it
+> 
 > That's word to Phillip Seymour Hoffman, I'm pushin coffin
+> 
 > I probably smell like a pound when they put me in a coffin
+> 
 > The gates of hell are pugnaciously pacing waitin'
+> 
 > I give a fuck if I'm late, tell Satan be patient
+> 
 > But I ain't here for durations, I'm just taking vacations
+> 
 > And tell 'em fuck 'em, I never loved 'em and salutations
 
 Listening to the lyrics on the album, you can see the influences coming from everywhere. References to other rappers, lyrical references to lines from classic hip hop songs, cultural references from actors to old school WWF, and life in New York City, where Run The Jewels are from. The rebellious language that EL-P aims for is spread throughout, attacking other rappers for the lack of musical value they provide or provoking other African-Americans to finally rise up to the police. 

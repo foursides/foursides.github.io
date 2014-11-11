@@ -9,7 +9,7 @@ tags: [birthday]
 <blockquote>It seems strange to me now to think about how I have to unlearn how I lived in my 20s to really live now.</blockquote>
 33
 
-As cool as it would have been turning 33 on 11/11/11, I suppose it will be just as meaningful happening on 11/11/12. I was re-reading through last year's <a href="http://scriptogr.am/foursides/post/turn-up-that-fing-bass-32-years-old-today">birthday</a> post earlier in the week, reflecting on what I would like to write this year. Oddly, I didn't write on my birthdays before last year, so this is a new trend that is starting.
+As cool as it would have been turning 33 on 11/11/11, I suppose it will be just as meaningful happening on 11/11/12. I was re-reading through last year's <a href="http://www.foursides.ca/turn-up-that-fing-bass-32-years-old-today/">birthday</a> post earlier in the week, reflecting on what I would like to write this year. Oddly, I didn't write on my birthdays before last year, so this is a new trend that is starting.
 
 The cliche thing to do would be to write about "33 Things You Don't Know About Me" or "33 Life Lessons I Have Learned Through the Year," but I am never one to fit in with the popular trends. While thinking more about how I have been unlearning things about life to enjoy life more the past few years, I came to the realization of how much more meaningful it is to have those mysteries in life, those things you simply can't know about.
 

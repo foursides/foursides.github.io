@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: “34: Discovering the Somatic Markers”
+Title: “34- Discovering the Somatic Markers”
 Tags: birthday, 34, life
 description: “It seems strange to me now to think about how I have to unlearn how I lived in my 20's to really live now.”
 category: articles

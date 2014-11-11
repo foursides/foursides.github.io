@@ -3,7 +3,7 @@ layout: post
 title: 33 Unknowables
 description: "Happy birthday to me."
 category: articles
-tags: [life, birthday]
+tags: [birthday]
 ---
 
 <blockquote>It seems strange to me now to think about how I have to unlearn how I lived in my 20s to really live now.</blockquote>

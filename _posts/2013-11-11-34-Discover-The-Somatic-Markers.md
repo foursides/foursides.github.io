@@ -8,7 +8,7 @@ category: articles
 
 > It seems strange to me now to think about how I have to unlearn how I lived in my 20's to really live now.
 > 
-> [Turn Up That F'ing Bass! 32 Years Old Today](http://foursides.ca/turn-up-that-fing-bass-32-years-old-today "Turn Up That F'ing Bass! 32 Years Old Today")
+> [Turn Up That F'ing Bass! 32 Years Old Today](http://www.foursides.ca/turn-up-that-fing-bass-32-years-old-today/ "Turn Up That F'ing Bass! 32 Years Old Today")
 
 **34**
 

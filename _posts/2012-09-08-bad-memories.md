@@ -30,7 +30,7 @@ Jennifer's conclusion of a what a memory is worth is parallel to what I conclude
 
 > What do I have to lose in writing this? She was willing to give me up in order improve herself with another person in another location. Certainly, I can forget about my fears of backlash, unfriending, rude comments to better myself.
 
-> [Weathering the Storm - A Story of Moving On - NSFW](Weather-the-Storm-A-Story-of-Moving-On "Weathering the Storm - A Story of Moving On")
+> [Weathering the Storm - A Story of Moving On - NSFW](http://www.foursides.ca/Weather-the-Storm-A-Story-of-Moving-On/ "Weathering the Storm - A Story of Moving On")
 
 What is a negative memory worth?
 What do you have to lose in throwing that memory away and facing life with a renewed focus?

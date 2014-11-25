@@ -79,9 +79,9 @@ The other options available:
 
 **Deliciousness**: Nectarine, watermelon, strawberry shortcake, maple. 
 
-<a href="https://bluebottlecoffee.com/u/foursides">
+**<a href="https://bluebottlecoffee.com/u/foursides">
 El Salvador Aida Batlle Tanzania
-</a>
+</a>**
 <center>
 <a href="https://bluebottlecoffee.com/u/foursides">
 ![Aida Batlle Tanzania](http://www.foursides.ca/images/tanzania.jpg "Aida Batlle Tanzania")

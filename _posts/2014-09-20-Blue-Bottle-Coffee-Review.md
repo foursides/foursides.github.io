@@ -78,6 +78,7 @@ The other options available:
 **Details**: Beneficio Santa Rosa is perched high in the mountains of Santa Rosa de León Cortés, in central Costa Rica. Owned and managed by the father and son team of Efraín and Herberth Naranjo, the farm and mill are modestly sized and impeccably run. After pulping and mechanically demucilaging the fruit from each tiny harvest, the Naranjos lay their parchment coffee out to dry on well-monitored raised beds.
 
 **Deliciousness**: Nectarine, watermelon, strawberry shortcake, maple. 
+
 <a href="https://bluebottlecoffee.com/u/foursides">
 El Salvador Aida Batlle Tanzania
 </a>

@@ -78,11 +78,14 @@ The other options available:
 **Details**: Beneficio Santa Rosa is perched high in the mountains of Santa Rosa de León Cortés, in central Costa Rica. Owned and managed by the father and son team of Efraín and Herberth Naranjo, the farm and mill are modestly sized and impeccably run. After pulping and mechanically demucilaging the fruit from each tiny harvest, the Naranjos lay their parchment coffee out to dry on well-monitored raised beds.
 
 **Deliciousness**: Nectarine, watermelon, strawberry shortcake, maple. 
-
-**Blue Bottle Coffee: El Salvador Aida Batlle Tanzania**
+<a href="https://bluebottlecoffee.com/u/foursides">
+** El Salvador Aida Batlle Tanzania**
+</a>
+<center>
 <a href="https://bluebottlecoffee.com/u/foursides">
 ![Aida Batlle Tanzania](http://www.foursides.ca/images/tanzania.jpg "Aida Batlle Tanzania")
 </a>
+</center>
 
 **Details**: Thanks to her scupulous attention to picking and processing, along with her savvy across all levels of the coffee supply chain, Aida Batlle has become the first of a new breed: coffee producer as culinary celebrity. Cherries from Finca Tanzania are hand-selected for their ultra-ripe "blood red and burgundy" coloration, then processed at J. Hill, an unparalleled facility in downtown Santa Ana.
 

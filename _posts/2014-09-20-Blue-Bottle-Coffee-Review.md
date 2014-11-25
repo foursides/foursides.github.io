@@ -81,7 +81,7 @@ The other options available:
 
 **Blue Bottle Coffee: El Salvador Aida Batlle Tanzania**
 <a href="https://bluebottlecoffee.com/u/foursides">
-![Aida Batlle Tanzania](https://farm8.staticflickr.com/7465/15252451494_80970ae0b3_q.jpg "Aida Batlle Tanzania")
+![Aida Batlle Tanzania](http://www.foursides.ca/images/tanzania.jpg "Aida Batlle Tanzania")
 </a>
 
 **Details**: Thanks to her scupulous attention to picking and processing, along with her savvy across all levels of the coffee supply chain, Aida Batlle has become the first of a new breed: coffee producer as culinary celebrity. Cherries from Finca Tanzania are hand-selected for their ultra-ripe "blood red and burgundy" coloration, then processed at J. Hill, an unparalleled facility in downtown Santa Ana.

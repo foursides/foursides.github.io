@@ -32,17 +32,16 @@ Be sure to watch this little gem and support your independent coffee roasters th
 
 <h3>Other Links</h3>
 
-If you wish to explore the film and the people involved more, check out these links:
+<p>If you wish to explore the film and the people involved more, check out these links:</p>
 
-* [A Film About Coffee](http://afilmaboutcoffee.com "A Film About Coffee"): official website with media, shop
+<ul>
+<li><p><a href="http://afilmaboutcoffee.com" title="A Film About Coffee">A Film About Coffee</a>: official website with media, shop</p></li>
+<li><p><a href="http://www.theessentialman.com/blog/2012/11/20/five-things-i-learned-from-katsu-of-bear-pond-espresso" title="Five Things I Learned From Katsu">Five Things I Learned From Katsu</a>: profile of Katsu</p></li>
+<li><p><a href="http://roadsandkingdoms.com/2013/daibo/" title="Daibo Dreamed of Coffee">Daibo Dreamed of Coffee</a>: profile of Daibo</p></li>
+<li><p><a href="http://www.refinery29.com/james-freeman" title="Coffee Snobs, SF Brew Scene, and more">Coffee Snobs, SF Brew Scene, and More</a>: interview with James Freeman of Blue Bottle Coffee</p></li>
+<li><p><a href="http://www.amazon.com/mn/search/?_encoding=UTF8&amp;camp=1789&amp;creative=390957&amp;field-keywords=film%20about%20coffee&amp;linkCode=ur2&amp;tag=four0b-20&amp;url=search-alias%3Daps&amp;linkId=AXPDEKGFVAH6J4TI" title="Direct Trade Coffee Beans">Direct Trade Coffee Beans</a>: a selection of coffee available from Amazon</p></li>
+</ul>
 
-* [Five Things I Learned From Katsu](http://www.theessentialman.com/blog/2012/11/20/five-things-i-learned-from-katsu-of-bear-pond-espresso "Five Things I Learned From Katsu"): profile of Katsu
-
-* [Daibo Dreamed of Coffee](http://roadsandkingdoms.com/2013/daibo/ "Daibo Dreamed of Coffee"): profile of Daibo
-
-* [Coffee Snobs, SF Brew Scene, and More](http://www.refinery29.com/james-freeman "Coffee Snobs, SF Brew Scene, and more"): interview with James Freeman of Blue Bottle Coffee
-
-* [Direct Trade Coffee Beans](http://www.amazon.com/mn/search/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=film%20about%20coffee&linkCode=ur2&tag=four0b-20&url=search-alias%3Daps&linkId=AXPDEKGFVAH6J4TI "Direct Trade Coffee Beans"): a selection of coffee available from Amazon
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=ss_til&ad_type=product_link&tracking_id=four0b-20&marketplace=amazon&region=US&placement=B007UH9A84&asins=B007UH9A84&linkId=5DO3E6TCZO46UBS5&show_border=true&link_opens_in_new_window=true">
 </iframe>

@@ -30,7 +30,7 @@ Be sure to watch this little gem and support your independent coffee roasters th
 
 <iframe src="//player.vimeo.com/video/112360104" width="500" height="270" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>    <p><a href="http://vimeo.com/112360104">A Film About Coffee</a> from <a href="http://vimeo.com/avocadosandcoconuts">Avocados and Coconuts</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-### Other Links
+<h3>Other Links</h3>
 
 If you wish to explore the film and the people involved more, check out these links:
 

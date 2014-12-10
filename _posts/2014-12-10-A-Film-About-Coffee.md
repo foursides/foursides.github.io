@@ -32,7 +32,7 @@ Be sure to watch this little gem and support your independent coffee roasters th
  
 <hr>
 
-#### Other Links
+### Other Links
 
 If you wish to explore the film and the people involved more, check out these links:
 

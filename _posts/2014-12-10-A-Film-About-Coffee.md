@@ -34,15 +34,15 @@ Be sure to watch this little gem and support your independent coffee roasters th
 
 If you wish to explore the film and the people involved more, check out these links:
 
-- [A Film About Coffee](http://afilmaboutcoffee.com "A Film About Coffee"): official website with media, shop
+* [A Film About Coffee](http://afilmaboutcoffee.com "A Film About Coffee"): official website with media, shop
 
-- [Five Things I Learned From Katsu](http://www.theessentialman.com/blog/2012/11/20/five-things-i-learned-from-katsu-of-bear-pond-espresso "Five Things I Learned From Katsu"): profile of Katsu
+* [Five Things I Learned From Katsu](http://www.theessentialman.com/blog/2012/11/20/five-things-i-learned-from-katsu-of-bear-pond-espresso "Five Things I Learned From Katsu"): profile of Katsu
 
-- [Daibo Dreamed of Coffee](http://roadsandkingdoms.com/2013/daibo/ "Daibo Dreamed of Coffee"): profile of Daibo
+* [Daibo Dreamed of Coffee](http://roadsandkingdoms.com/2013/daibo/ "Daibo Dreamed of Coffee"): profile of Daibo
 
-- [Coffee Snobs, SF Brew Scene, and More](http://www.refinery29.com/james-freeman "Coffee Snobs, SF Brew Scene, and more"): interview with James Freeman of Blue Bottle Coffee
+* [Coffee Snobs, SF Brew Scene, and More](http://www.refinery29.com/james-freeman "Coffee Snobs, SF Brew Scene, and more"): interview with James Freeman of Blue Bottle Coffee
 
-- [Direct Trade Coffee Beans](http://www.amazon.com/mn/search/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=film%20about%20coffee&linkCode=ur2&tag=four0b-20&url=search-alias%3Daps&linkId=AXPDEKGFVAH6J4TI "Direct Trade Coffee Beans"): a selection of coffee available from Amazon
+* [Direct Trade Coffee Beans](http://www.amazon.com/mn/search/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=film%20about%20coffee&linkCode=ur2&tag=four0b-20&url=search-alias%3Daps&linkId=AXPDEKGFVAH6J4TI "Direct Trade Coffee Beans"): a selection of coffee available from Amazon
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=ss_til&ad_type=product_link&tracking_id=four0b-20&marketplace=amazon&region=US&placement=B007UH9A84&asins=B007UH9A84&linkId=5DO3E6TCZO46UBS5&show_border=true&link_opens_in_new_window=true">
 </iframe>

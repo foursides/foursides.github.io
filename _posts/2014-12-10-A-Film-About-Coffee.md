@@ -29,8 +29,6 @@ The one thing that links everyone in the film, apart from coffee, is their dedic
 Be sure to watch this little gem and support your independent coffee roasters that practice direct trade with coffee growers around the world. 
 
 <iframe src="//player.vimeo.com/video/112360104" width="500" height="270" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>    <p><a href="http://vimeo.com/112360104">A Film About Coffee</a> from <a href="http://vimeo.com/avocadosandcoconuts">Avocados and Coconuts</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
- 
-<hr>
 
 ### Other Links
 

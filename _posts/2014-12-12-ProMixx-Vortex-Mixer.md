@@ -30,12 +30,10 @@ The protein powder going into it is [Revolution Whey Gainer Punch](http://www.re
 It gives me a lot more calories than other protein drinks, which I need since I tend to under eat when stressed. High protein, low sugar, and it tastes delicious. Definitely worth tracking down if you want to switch things up. The only downside is it is only available from independent supplement stores, so take a look at their site to find it. 
 
 The ProMixx is more widely available, including Amazon. A great, reasonably priced Christmas present for your fitness enthusiast.
-
-<a href=“[http://www.amazon.com/gp/product/B00A9XMNMQ/ref=as\_li\_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A9XMNMQ&linkCode=as2&tag=four0b-20&linkId=NUPMGK7QOARMR4ON](http://www.amazon.com/gp/product/B00A9XMNMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A9XMNMQ&linkCode=as2&tag=four0b-20&linkId=NUPMGK7QOARMR4ON)”>
-![ProMixx Vortex Mixer](http://www.foursides.ca/images/ProMixx.jpg)
-</a>
 <center>
 <a href=“[http://www.amazon.com/gp/product/B00A9XMNMQ/ref=as\_li\_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A9XMNMQ&linkCode=as2&tag=four0b-20&linkId=NUPMGK7QOARMR4ON](http://www.amazon.com/gp/product/B00A9XMNMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A9XMNMQ&linkCode=as2&tag=four0b-20&linkId=NUPMGK7QOARMR4ON)”>
+![ProMixx Vortex Mixer](http://www.foursides.ca/images/ProMixx.jpg)
+</a><a href=“[http://www.amazon.com/gp/product/B00A9XMNMQ/ref=as\_li\_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A9XMNMQ&linkCode=as2&tag=four0b-20&linkId=NUPMGK7QOARMR4ON](http://www.amazon.com/gp/product/B00A9XMNMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A9XMNMQ&linkCode=as2&tag=four0b-20&linkId=NUPMGK7QOARMR4ON)”>
 ![Buy on Amazon](http://www.foursides.ca/images/amazonlogo.png)
 </a>
 </center>

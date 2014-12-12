@@ -34,6 +34,8 @@ The ProMixx is more widely available, including Amazon. A great, reasonably pric
 <a href=“[http://www.amazon.com/gp/product/B00A9XMNMQ/ref=as\_li\_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A9XMNMQ&linkCode=as2&tag=four0b-20&linkId=NUPMGK7QOARMR4ON](http://www.amazon.com/gp/product/B00A9XMNMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A9XMNMQ&linkCode=as2&tag=four0b-20&linkId=NUPMGK7QOARMR4ON)”>
 ![ProMixx Vortex Mixer](http://www.foursides.ca/images/ProMixx.jpg)
 </a>
+<center>
 <a href=“[http://www.amazon.com/gp/product/B00A9XMNMQ/ref=as\_li\_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A9XMNMQ&linkCode=as2&tag=four0b-20&linkId=NUPMGK7QOARMR4ON](http://www.amazon.com/gp/product/B00A9XMNMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A9XMNMQ&linkCode=as2&tag=four0b-20&linkId=NUPMGK7QOARMR4ON)”>
 ![Buy on Amazon](http://www.foursides.ca/images/amazonlogo.png)
 </a>
+</center>

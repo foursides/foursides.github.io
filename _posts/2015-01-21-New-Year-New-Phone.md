@@ -28,7 +28,7 @@ By far, the most impressive thing about the phone itself is the camera. I enjoye
 
 Stay tuned for more pictures, apps I am loving, and more.
 
-![Ice](http://www.foursides.ca/images/ice.jpg)
+<div style='position: relative; padding-bottom: 76%; height: 0; overflow: hidden;'><iframe id='iframe' src='http://flickrit.com/slideshowholder.php?height=75&size=big&setId=72157648109533314/&thumbnails=0&transition=0&layoutType=responsive&sort=0' scrolling='no' frameborder='0'style='width:100%; height:100%; position: absolute; top:0; left:0;' ></iframe></div>
 
 [^1]:	If you are interested in switching to Telus, contact me and I can give you $25-50 off a new phone. 
 [^2]: Especially my five year-old daughter dropping it.

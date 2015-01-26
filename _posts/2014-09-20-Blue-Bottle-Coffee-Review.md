@@ -92,6 +92,69 @@ El Salvador Aida Batlle Tanzania
 
 **Deliciousness**: Caramel, maple, brown sugar, fig
 
+**<a href="https://bluebottlecoffee.com/u/foursides">
+Ethopia Guji Suke Quto
+</a>**
+<center>
+<a href="https://bluebottlecoffee.com/u/foursides">
+![Ethopia Guji Suke Quto](http://www.foursides.ca/images/BBC4.JPG "Ethopia Guji Suke Quto")
+</a>
+</center>
+**Details**: The 68-member Suke Quto producer's association is located in the Odo Shakiso district, in Ethopia's Guji zone. Founded in 2004, Suke Quto stretches across a verdant 291 hectares and includes a diverse array of indigenous plant and animal species. After being hand-picked at its apex of ripeness, this coffee is fermented in concrete tanks, washed, and sun-dried on raised beds.
+
+**Deliciousness**: Strawberry, rose hip, pluot, silk
+
+**<a href="https://bluebottlecoffee.com/u/foursides">
+Costa Rica Tarrazú Divino Niño
+</a>**
+<center>
+<a href="https://bluebottlecoffee.com/u/foursides">
+![Costa Rica Tarrazú Divino Niño](http://www.foursides.ca/images/BBC3.JPG "Costa Rica Tarrazú Divino Niño")
+</a>
+</center>
+**Details**: With four generations of farming experience behind him, Mauricio Vindas is off to a great start at Divino Niño. Since purchasing the 12-hectare farm in 2009 (he worked as a cook to save up the money), he's planted more than 5,000 Caturra and Catuai trees. This year, thanks to some meticulous picking and processing. Divino Niño nabbed its first Cup of Excellence award.
+
+**Deliciousness**: Citron, toffee, cocoa, brisk, clean.
+
+**<a href="https://bluebottlecoffee.com/u/foursides">
+Ethiopia Yirgacheffe Bedhatu Jibicho
+</a>**
+<center>
+<a href="https://bluebottlecoffee.com/u/foursides">
+![Ethiopia Yirgacheffe Bedhatu Jibicho](http://www.foursides.ca/images/BBC6.JPG "Ethiopia Yirgacheffe Bedhatu Jibicho")
+</a>
+</center>
+
+**Details**: In Gedeb, a fertile pocket of southern Ethiopia that's just east of Abaya Lake. Bedhatu Jibicho is producing some of the country's most exciting coffee. With help from her son, Tesfaye, who runs day-to-day operations on the farm, she's getting delicious (and prodigious) yields from her 45 hectares. After careful picking, this coffee is laid out on raised beds to dry, then taken north to be milled at a cooperatively-run facility in Addis Ababa.
+
+**Deliciousness**: Strawberry, dark chocolate, malted milk, cream
+
+**<a href="https://bluebottlecoffee.com/u/foursides">
+Guatemala Cobán Santa Isabel
+</a>**
+<center>
+<a href="https://bluebottlecoffee.com/u/foursides">
+![Guatemala Cobán Santa Isabel](http://www.foursides.ca/images/BBC2.JPG "Guatemala Cobán Santa Isabel")
+</a>
+</center>
+
+**Details**: Finca Santa Isabel, located in a lush corner of Guatemala's San Cristobal Verapaz municipality, has been owned and operated by the Valdes family since 1875. Today, the 187-hectare farm stands out as a paragon of environmental sustainability, with a full 100 hectares dedicated to reforestation and a plenitude of animal species making their homes there.
+
+**Deliciousness**: oak, honey, dark chocolate, peach
+
+**<a href="https://bluebottlecoffee.com/u/foursides">
+Ethopia Guji Hambela Natural
+</a>**
+<center>
+<a href="https://bluebottlecoffee.com/u/foursides">
+![Ethopia Guji Hambela Natural](http://www.foursides.ca/images/BBC1.JPG "Ethopia Guji Hambela Natural")
+</a>
+</center>
+
+**Details**: Aman Adinew, formerly the director of quality control for the Ehiopian Coffee Exchange, has an impressive resume. In addition to establishing the first speciality-focused cupping lab in Africa, he was responsible for training more than 60 certified coffee tasters. Hambela, a farm that hosts its own plants and sources cherry from nearby smallholders, is the brainchild of he and his brother Michael. 
+
+**Deliciousness**: Black cherry, floral, apricot, blackberry
+
 **[$5 off your Blue Bottle Coffee Subscription](https://bluebottlecoffee.com/u/foursides "Blue Bottle Coffee")**
 
 *To be updated as subscriptions are received*

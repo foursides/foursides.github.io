@@ -155,6 +155,20 @@ Ethopia Guji Hambela Natural
 
 **Deliciousness**: Black cherry, floral, apricot, blackberry
 
+**<a href="https://bluebottlecoffee.com/u/foursides">
+Colombia Cauca Caloto
+</a>**
+<center>
+<a href="https://bluebottlecoffee.com/u/foursides">
+![Colombia cauca caloto](http://www.foursides.ca/images/BCC7.jpg "Colombia cauca caloto")
+</a>
+</center>
+
+**Details**:  This coffee comes to us from a group of four smallholders - Marta Cunda, Diego Trujillo, Arturo Lizcano and Jairo Almeguer - all located in Caloto, a small municipality just a couple hours south of the Colombian city of Cali. After picking, coffee cherries from these producers undergo a process of manual de-pulping, then they're fermented in tiled or concrete tanks for a period of 16-20 hours.
+
+**Deliciousness**: Tropical fruit, tangerine, date, toffee.
+
+
 **[$5 off your Blue Bottle Coffee Subscription](https://bluebottlecoffee.com/u/foursides "Blue Bottle Coffee")**
 
 *To be updated as subscriptions are received*

@@ -3,7 +3,7 @@ layout: post
 title: Year of Essentialism
 description: "Essentialism is the disciplined pursuit of less. An excellent book."
 category: article    
-tags: essentialism, books
+tags: essentialism, books, life
 ---
 
 ![Essentialism](http://www.foursides.ca/images/essentialist.jpg "Essentialism")

@@ -47,4 +47,5 @@ That hesitation leads to more missed connections. Every message not sent, words 
 
 Having patience and continuing to take those minor risks more are all I have to work with right now. Eventually, I will find that deep connection that I desire.
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MwpMEbgC7DA" frameborder="0" allowfullscreen></iframe>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Problems With Dating
-description: "Amazingly, I only have two current problems with dating. Being discovered and getting that second date."
+description: "Amazingly, I only have two current problems with dating."
 category: article    
 tags: relationships, life
 ---

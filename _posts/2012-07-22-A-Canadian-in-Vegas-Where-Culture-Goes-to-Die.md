@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Canadian in Vegas- Where Culture Goes to Die
+title: A Canadian in Vegas Where Culture Goes to Die
 description: A short trip to Las Vegas, my first trip to a major US city in 7 years. A rather strange experience.
 category: article    
 tags: las vegas, travel

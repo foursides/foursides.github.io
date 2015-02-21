@@ -19,7 +19,7 @@ He is also the man behind the <a title="NSFW Corp" href="http://www.nsfwcorp.com
 — Darryl Wright (@Eyesno) <a href="https://twitter.com/Eyesno/status/227249817565421568" data-datetime="2012-07-23T03:52:33+00:00">July 23, 2012</a></blockquote>
 &nbsp;
 
-After hitting the publish button on my post, <a title="A Canadian in Las Vegas: Where Culture Comes to Die and Be Reborn as a Bastard | Four Sides" href="http://www.foursides.ca/2012/07/a-canadian-in-las-vegas-where-culture-comes-to-die-and-be-reborn-as-a-bastard/">A Canadian in Las Vegas: Where Culture Comes to Die and Be Reborn as a Bastard</a>, I came across his book that I quoted above (referred to as 33 Dry Nights from here).
+After hitting the publish button on my post, <a title="A Canadian in Las Vegas: Where Culture Comes to Die and Be Reborn as a Bastard | Four Sides" href="http://www.foursides.ca/A-Canadian-in-Vegas-Where-Culture-Goes-to-Die/">A Canadian in Las Vegas: Where Culture Comes to Die and Be Reborn as a Bastard</a>, I came across his book that I quoted above (referred to as 33 Dry Nights from here).
 
 Hitting the <strong>Buy Now with 1-Click</strong> was a no brainer decision for me, considering my fascination with Las Vegas and my love for hotels. At less than 150 pages, the book is about Paul’s adventures through Las Vegas staying in a different hotel each night along The Strip. Thankfully, this is not a hotel review book at all<a id="fnref:1" class="footnote" title="see footnote" href="#fn:1">[1]</a>.
 

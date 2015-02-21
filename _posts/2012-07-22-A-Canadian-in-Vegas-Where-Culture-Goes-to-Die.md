@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: A Canadian in Vegas- Where Culture Goes to Die

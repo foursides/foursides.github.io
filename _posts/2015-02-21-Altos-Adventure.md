@@ -22,4 +22,6 @@ It is only $2.00 on the App Store, so check it out:
 
 **[In USA](https://itunes.apple.com/us/app/altos-adventure/id950812012?mt=8&uo=4&at=10l4Qt "Alto's Adventure")**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wk5JupHelAg" frameborder="0" allowfullscreen></iframe>
+
 [^1]:	See also [Desert Golfing](https://itunes.apple.com/us/app/desert-golfing/id902062673?mt=8&uo=4&at=10l4Qt "Desert Golfing")

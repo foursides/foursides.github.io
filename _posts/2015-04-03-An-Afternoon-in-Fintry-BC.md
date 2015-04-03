@@ -6,7 +6,7 @@ category: article
 tags: explore, photography, bc, okanagan
 ---
 
-![Old Manor](http://www.foursides.ca/images/fintry1.jpg)
+![Old Manor](http://www.foursides.ca/images/Fintry1.jpg)
 
 > Serene He stands among the flowers
 > And only marks life’s sunny hours
@@ -31,19 +31,19 @@ James Cameron Dun-Waters came onto the property in 1908 and started to transform
 
 The farm buildings are mainly untouched and slowly crumbling to the ground. It was a quiet day, so I was able to freely walk around to take some time to marvel at the old construction. I was really drawn to the lines of the buildings, the colours of the bricks stuck in the ground, and the rusted iron poking out. Something new to discover at each step.
 
-![Building](http://www.foursides.ca/images/fintry4.jpg "Building")
+![Building](http://www.foursides.ca/images/Fintry4.jpg "Building")
 
-![Brick](http://www.foursides.ca/images/fintry5.jpg "Brick")
+![Brick](http://www.foursides.ca/images/Fintry5.jpg "Brick")
 
 Behind the farm yard, is the trail leading up to the waterfalls. Dun-Waters harnessed the power of the falls to power a small sawmill, have running water through his property, and even electricity to power a private phone system between the buildings. 400 steps lead up the waterfalls - the same creek cascading down three separate times, progressively more impressive as you climb up. To hear the rush of water falling down 200’ and then turning your head to catch the sun lighting up the blue waters of the Okanagan Lake is quite wonderful. 
 
-![Waterfall](http://www.foursides.ca/images/fintry3.jpg "Waterfall")
+![Waterfall](http://www.foursides.ca/images/Fintry3.jpg "Waterfall")
 
 After descending the stairs, I began to explore the rest of the estate. The area is quite large and hosts a provincial campground now, with a boat launch and beach. On the rest of the estate, there is an old packing house on the shoreline, a lighthouse, and the Victorian manor house that Dun-Waters built for his wife (picture at the beginning). Granite was taken from the cliff walls behind the house, and all the antiques inside were transported by paddle-wheeler to his property. Tours are available for the house in the summertime. 
 
 The packing house is all shuttered, which is a shame, because the view looking out from it is incredible. Naturally, a large, empty space that is locked up has been broken into, creating a new layer on top of the old wood. 
 
-![Packinghouse](http://www.foursides.ca/images/fintry6.jpg "Packinghouse")
+![Packinghouse](http://www.foursides.ca/images/Fintry6.jpg "Packinghouse")
 
 [Fintry](http://www.fintry.ca/index.php "Fintry, BC") is a neat afternoon adventure to take. I look forward to returning there in the summertime to view the inside of the manor house and exploring the buildings a little more closely. 
 

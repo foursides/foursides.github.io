@@ -38,7 +38,7 @@ I was fortunate enough to time the hike so I reached the peak shortly before a s
 
 ![](http://www.foursides.ca/images/SparklingHill8.jpg)
 
-The saunas were more memorable to me this time. I remembered several of them from before, but I had forgotten or never had a chance to experience some of the other ones. There are seven saunas to enjoy, ranging from a high and dry heat (90C with 10% humidity) to extremely humid saunas that have you dripping in sweat after a few seconds. An hour of alternating between the saunas, the outdoor infinity pool, and the hot tub, had my body melting away. It was wonderful to sit in there and not think, about work or life.
+The saunas[^1] were more memorable to me this time. I remembered several of them from before, but I had forgotten or never had a chance to experience some of the other ones. There are seven saunas to enjoy, ranging from a high and dry heat (90C with 10% humidity) to extremely humid saunas that have you dripping in sweat after a few seconds. An hour of alternating between the saunas, the outdoor infinity pool, and the hot tub, had my body melting away. It was wonderful to sit in there and not think, about work or life.
 
 ![](http://www.foursides.ca/images/SparklingHill5.jpg)
 
@@ -53,4 +53,6 @@ One night is more than enough time for me to recharge myself and be better prepa
 > *How beautiful it is to do nothing and then rest afterwards*
 >  
 >  — [Sparkling Hill Resort](http://www.sparklinghill.com "Sparkling Hill Resort")
+
+[^1]: Images of the sauna and relaxation room are from their website. No cameras are allowed in the spa area, partly because of all the moisture in the air, but also because after 9pm is a European hour - clothing optional.
 

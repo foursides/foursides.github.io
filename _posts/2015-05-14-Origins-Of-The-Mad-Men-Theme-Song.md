@@ -17,11 +17,17 @@ A quick Google search later brought me to this post by Tom Barnes, [The Strange 
 The original song is not an instrumental, but a rap song with the rapper Aceyalone rapping overtop of the noticeable beats. Interestingly enough, it is the story of a man. 
 
 > Something outa nothing
+> 
 > Oh, what a far cry
+> 
 > More than a hard tribe
+> 
 > Pointed out the start guide
+> 
 > Made love, made hate
+> 
 > Saved sake
+> 
 > Nothing left the crate but fate
 
 The series finale airs on Sunday, so it is fitting that I come across the story of that theme song at the very end of its lifespan. 

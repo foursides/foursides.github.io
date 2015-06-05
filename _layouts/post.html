@@ -32,7 +32,11 @@
   </div>
   <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
     <div class="headline-wrap">
-      <h1 itemprop="name">{{ page.title }}</h1>
+	  {% if page.link %}  
+	  <h1 itemprop="name"><a href="{{ page.link }}">{{ page.title }}</a></h1>  
+	  {% else %}  
+	  <h1 itemprop="name"> {{ page.title }} </h1>  
+	  {% endif %}
       <h2>{{ page.tagline }}</h2>
     </div><!--/ .headline-wrap -->
     <div class="article-wrap" itemprop="text">

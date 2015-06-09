@@ -1,7 +1,8 @@
 ---
 layout: post
-title: On Reading: Gawker, and the Trifecta of Reading (Kindle, Instapaper, Reeder)
+title: On Reading- Gawker, and the Trifecta of Reading
 category: articles
+Description: Talking about the reading habits with various web apps. 
 tags: [books, reading, iphone, reviews]
 ---
 
@@ -34,7 +35,7 @@ It sounds like Denton is aiming to create his evergreen posts that people will f
 
 In a fantastic post, Alexander Chee writes about his love affair with books and the new romance sparking up between him and his iPad. Every word he wrote echoed my sentiment with reading. I highly suggest reading his article if reading novels is included as one of your favourite pass times. Here is one of the more memorable sentences included in it: 
 
-> The device [his phone] I’d been using to obsessively check for news updates now had something inside of it that helped me make sense of the news for myself, the apparently killer app called “the novel.” But it also made me question whether the internet had really been the problem.
+> The device (his phone) I’d been using to obsessively check for news updates now had something inside of it that helped me make sense of the news for myself, the apparently killer app called “the novel.” But it also made me question whether the internet had really been the problem.
 
 I have a desire to consume books, but be environmentally conscious, as well. Like Chee, I had put off buying an eReader because f the cost involved, and the quality concerns. That all changed when the [Kindle 3](http://www.amazon.com/gp/product/B002Y27P3M?ie=UTF8&tag=four0b-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002Y27P3M) appeared. I happened to be watching Charlie Rose when he interviewed Jeff Bezos, the CEO of Amazon, earlier in the year. I had also watched a previous interview with Bezos several years ago when the original Kindle was coming out, so I was curious to see what the latest device could do - or, more importantly, how good he reading experience was. When I first saw it pulled out and saw how small it was in his hand, I thought the time may be right for me to buy one. 
 

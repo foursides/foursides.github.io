@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exit The Queen
-date: 2015-06-15 23:14
+date: 2015-06-16 12:55
 description: The person that introduced me to theatre is about to retire from teaching, my high school drama teacher, Mary Sloan.
 ---
 

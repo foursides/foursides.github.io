@@ -6,7 +6,7 @@ category: article
 tags: books, reading
 ---
 
-![David Foster Wallace Books](http://www.foursides.ca/images/DFW.jpg "David Foster Wallace Books")
+<img src="http://www.foursides.ca/images/DFW.jpg" title="David Foster Wallace Books">
 
 David Foster Wallace has been an indirect influence on my writing for as long as I have been writing a blog. He was and still is a major influence on some of my favourite writers, primarily [Bill Simmons](http://grantland.com/contributors/bill-simmons/ "Bill Simmons") and [Jason Kottke](http://www.kottke.org "Jason Kottke"), with how they phrased things and their generous usage of footnotes. [^1] The unfortunate thing for me has been a lack of reading the original source. 
 

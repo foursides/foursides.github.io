@@ -8,7 +8,7 @@
         activateCallback: function() {},
         activateOnHover: false,
         allowMultipleFN: false,
-        anchorPattern: /(fn|footnote|note)[:\-_\d]/gi,
+        anchorPattern: /(fn|footnote|note)[\-_\d]/gi,
         anchorParentTagname: 'sup',
         breakpoints: {},
         deleteOnUnhover: false,

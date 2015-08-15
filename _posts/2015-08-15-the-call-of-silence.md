@@ -2,6 +2,7 @@
 layout: post
 title: The Call Of Silence
 date: 2015-08-15 01:18
+tags: zen, buddhism, life
 Description: Reading poetry is a bigger loop, an older loop, a far more stable and enduring loop. Dating back 3,200 years, the Chinese poetic tradition represents the longest continuous literary movement in world history.
 ---
 

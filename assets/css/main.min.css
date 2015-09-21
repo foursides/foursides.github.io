@@ -26,7 +26,7 @@ html {
 }
 
 body {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Arvo', serif;
 	font-weight: 400;
 	
 	margin-top: 2erm;
@@ -36,13 +36,14 @@ body {
 }
 
 blockquote {
+	font-family: 'Arvo', serif;
 	  font-size: 20px;
 	    width: 95% !important;
 	    border-color: #ff
 	    border-width: 0px 0px 2px 2px 
 	}
 p {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Arvo', serif;
 	font-weight: 400;
 	font-size: 1.10erm;
 	line-height: 1.85;
@@ -60,13 +61,13 @@ abbr[title] {
 }
 
 b, strong { 
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Arvo', serif;
     font-weight: 700
 }
 
 dfn {
-	font-family: 'Montserrat', sans-serif;
-    font-style: italic
+	font-family: 'Arvo', serif;
+    font-style: 400 italic
 }
 
 hr {
@@ -1472,7 +1473,7 @@ select:focus {
 
 body {
     color: #333332;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Arvo', serif;
 	font-weight: 400;
 	font-size: 1.2rem;
 	line-height: 150%;
@@ -1751,7 +1752,7 @@ body {
     display: block;
     padding: 0;
     margin: 0;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Arvo', serif;
 	font-weight: 400;
     border-bottom: 1px solid gray
 }
@@ -1834,7 +1835,7 @@ body {
 }
 
 .holder {
-    font-family: 'Montserrat', sans-serif;
+font-family: 'Arvo', serif;
 	font-weight: 400;
 }
 
@@ -2959,7 +2960,7 @@ ol, ul {
 }
 
 #nav li a {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Arvo', serif;
     display: block;
     color: #797979;
     font-size: .875em;

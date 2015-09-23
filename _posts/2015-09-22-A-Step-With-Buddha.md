@@ -3,7 +3,7 @@ layout: post
 title: A Step With Buddha
 date: 2015-09-22
 tags: mindfulness, buddhism
-description: It's been about a month since I wrote [The Call of Silence](http://www.foursides.ca/the-call-of-silence/ "The Call of Silence"), a month of developing a better self-awareness with myself. Thanks to the Okanagan valley being blanketed in smoke for the first period, I was able to put more focus into reading about mindfulness and Buddhism.
+description: It's been about a month since I wrote The Call of Silence, a month of developing a better self-awareness with myself. Thanks to the Okanagan Valley being blanketed in smoke for the first period, I was able to put more focus into reading about mindfulness and Buddhism.
 ---
 
 > Enlightenment is awakening from the dream of being a separate me to being the universal reality. It’s not an experience or a perception that occurs to a separate person as the result of spiritual practice or cultivated awareness. It doesn’t come and go, and you don’t need to do anything to maintain it. It’s not about being centered or blissful or peaceful or any other experience. In fact, enlightenment is a permanent non-experience that happens to nobody. The separate person is seen through, and you realize that only the supreme, universal reality exists, and that you are that.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ego And Work
-tags: mindfulness, work, ego
+tags: mindfulness, work, ego, buddhist
 date: 2015-10-14 00:41
 ---
 

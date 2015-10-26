@@ -3,7 +3,7 @@ layout: post
 title:  Thoughts On Money
 tags: mindfulness, work, ego, buddhism
 date: 2015-10-26
-description: When we grow beyond the egotistic demands of money and become more generous with it, we give people more than just money or objects. We are giving those people the opportunity to free themselves from the relationship they have developed with money.
+description: When we grow beyond the egotistical demands of money and become more generous with it, we give people more than just money or objects. We are giving those people the opportunity to free themselves from the relationship they have developed with money.
 ---
 
 > For the monks, this way of life expressed simplicity. It wasn't an expression of poverty mentality. With this monastic approach, you don't worry about survival. You live day-to-day. You think just of today; you don't think of tomorrow. Tomorrow comes, it doesn't come- either way, you don't worry. You continue to live in a very simple way. It is an everyday life of simplicity. 
@@ -22,7 +22,7 @@ When I started reading the chapters about money in Chögyam’s book, it started
 
 Chögyam defines the personal value of money beyond its monetary value and introduces the concept that money is related to energy. You can spend the money like you give love and have it be returned equally, or you exert your energy to gain power and control over another. Because of the power money has, it is constantly on our minds, from worrying about how much we have, to how much something will cost, to how much we will be earning by completing a task. We grow attached to money, wanting to keep our energy banks full for when we need to use it for love or power. 
 
-When we grow beyond the egotistic demands of money and become more generous with it, we give people more than just money or objects. We are giving those people the opportunity to free themselves from the relationship they have developed with money. They stop thinking about how much something cost, and more about what that item means to them. When an object is thought of only as an object, it frees them to develop their own sense of value for that item. 
+When we grow beyond the egotistical demands of money and become more generous with it, we give people more than just money or objects. We are giving those people the opportunity to free themselves from the relationship they have developed with money. They stop thinking about how much something cost, and more about what that item means to them. When an object is thought of only as an object, it frees them to develop their own sense of value for that item. 
 
 This is the mental space he describes in the quote at the beginning. If the monetary value of an object is ignored and separated from the object, then we are not as concerned when that object is damaged or lost. We forget about losing a thousand dollars, and focus more on that we lost something that can be replaced in time. 
 

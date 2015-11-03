@@ -41,9 +41,6 @@ links:
     url: /blog/
   - title: Reviews
     url: /reviews/
-  - title: Consulting
-    url: http://www.foursidesconsulting.com/
-	external: true
   - title: "Now"
     url: /now/
 

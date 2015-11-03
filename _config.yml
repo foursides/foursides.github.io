@@ -39,13 +39,13 @@ links:
     url: /about/
   - title: Blog
     url: /blog/
-  - title: "Bury Yourself"
-    url: /bury/
   - title: Reviews
     url: /reviews/
   - title: Consulting
     url: http://www.foursidesconsulting.com/
-    external: true
+	external: true
+  - title: "Now"
+    url: /now/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Vancouver

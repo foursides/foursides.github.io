@@ -24,7 +24,7 @@ The changes that are happening are going to make things even better. Below is mo
 
 Until I subscribed to [Blue Bottle Coffee][B].
 
-Blue Bottle Coffee gives you that variety if you desire it, or a certain bean type on a regular basis with consisten flavours.</p>
+Blue Bottle Coffee gives you that variety if you desire it, or a certain bean type on a regular basis with consistent flavours.</p>
 
 Here are some links to learn more about the company:
 

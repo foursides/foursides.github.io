@@ -6,7 +6,7 @@ tagline: Everything I am up to currently.
 tags: [now, life]
 ---
  
- *As of November 16th, 2015*
+ *As of November 19th, 2015*
  
  **Reading:**
  
@@ -18,7 +18,7 @@ tags: [now, life]
  - [Four Sides Hospitality Consulting](http://www.foursidesconsulting.com "Four Sides Hospitality Consulting") - a consulting firm for hotels, motels, vacation rentals, and other areas of the hospitality world. 
  - Taking on the NaNoWriMo challenge of publishing 50,000 words in the month of November (inspired by [Ben Brooks](https://brooksreview.net/2015/11/fifty-thousand/ "Fifty Thousand") here and [Medium](https://medium.com/@four_sides "Medium")
 
-**NaNoWriMo Challenge Word Count:** 4,000 words. 
+**NaNoWriMo Challenge Word Count:** 5,000 words. 
 
 *Inspired by [Ben Brooks](http://www.brooksreview.net/now "Ben Brooks") and [Shawn Blanc](https://shawnblanc.net/now/ "Shawn Blanc")*
 

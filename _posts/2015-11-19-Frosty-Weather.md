@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Frosty Weather
-tags: fall, men
+tags: [fall, men]
 date: 2015-11-19
 description: A perfect Christmas gift for yourself or friend- a pair of lambskin leather gloves from BespokePost.
 --- 

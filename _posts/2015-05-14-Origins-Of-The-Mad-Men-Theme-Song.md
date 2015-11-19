@@ -3,7 +3,7 @@ layout: post
 title: Origins of the Mad Men Theme Song
 description: “The story behind the origins of the Mad Men theme song are not what I expected.”
 category: article    
-tags: mad men, tv
+tags: [mad men, tv]
 --- 
 
 [Mad Men](http://www.amazon.com/gp/product/B000YABIQ6/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000YABIQ6&linkCode=as2&tag=four0b-20&linkId=OHVJZDEZYXLWSSPM "Mad Men"), the television show on AMC, has been one of my favourite TV shows the past ten years. Discovered through Netflix, I have devoured the every season since I first discovered it five years ago. The theme song is instantly recognizable, to lovers of the show and likely to non-viewers of the show. 

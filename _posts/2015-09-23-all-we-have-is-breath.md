@@ -2,7 +2,7 @@
 layout: post
 title: All We Have Is Breath
 date: 2015-09-23 00:15
-tags: mindfulness, buddhism
+tags: [mindfulness, buddhism]
 description: The most important lesson from my readings into mindfulness and Buddhism has been how important the breath is. Strip away everything else happening in life and just breathe.
 ---
 

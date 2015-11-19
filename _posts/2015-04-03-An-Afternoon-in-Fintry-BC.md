@@ -3,7 +3,7 @@ layout: post
 title: An Afternoon in Fintry BC
 description: “An afternoon spent exploring the old Fintry estate and the waterfall.”
 category: article    
-tags: explore, photography, bc, okanagan
+tags: [explore, photography, bc, okanagan]
 ---
 
 ![Old Manor](http://www.foursides.ca/images/Fintry1.jpg)

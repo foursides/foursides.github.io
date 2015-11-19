@@ -3,6 +3,7 @@ layout: post
 title: Summer Of DFW- Depression
 date: 2015-07-27
 description: A wonderful monologue about depression from David Foster Wallace's Infinite Jest.
+tags: [books, review]
 ---
 
 Just over a week ago, I began my [summer of David Foster Wallace](http://www.foursides.ca/summer-of-david-foster-wallace "Summer of David Foster Wallace") with *Infinite Jest*. It is definitely a tough book to get into with chapters taking place in different periods of time, with characters that aren't always named. There is a bit of mystery to reading it and discovering who is actually speaking. 

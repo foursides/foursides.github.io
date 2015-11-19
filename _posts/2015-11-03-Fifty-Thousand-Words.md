@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Fifty Thousand Words
-tags: writing
+tags: [writing]
 date: 2015-11-03
 description: November is the month for NaNoWriMo where authors around the world publish a novel of 50,000 words. With no ideas for a novel, a different challenge has been accepted.
 ---

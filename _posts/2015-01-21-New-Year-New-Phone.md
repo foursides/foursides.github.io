@@ -3,7 +3,7 @@ layout: post
 title: New Year New Phone
 description: “A new brings about it a new phone to play with.“
 category: review    
-tags: iphone
+tags: [iphone]
 ---
 
 ![Sky](http://www.foursides.ca/images/sky.jpg)

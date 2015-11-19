@@ -3,6 +3,7 @@ layout: post
 title: Getting Out Of Jail
 date: 2015-07-20 11:59
 description: NY Times article about what happens to convicts on their first day of freedom reminded me of my encounter with a man just out of jail after twelve years. 
+tags: [life]
 ---
 > Often, the psychological turbulence of those first days or weeks is so debilitating that recently incarcerated people can’t even navigate public transportation; they’re too frightened of crowds, too intimidated or mystified by the transit cards that have replaced cash and tokens. In a recent study, the Harvard sociologist Bruce Western describes a woman who ‘‘frequently forgot to eat breakfast or lunch for several months because she was used to being called to meals in prison.’’ I met one man who explained that, after serving 15 years, he found himself convinced that parked cars would somehow switch on and run him over. So many years inside can leave people vulnerable in almost incomprehensibly idiosyncratic ways, sometimes bordering on helplessness: ‘‘Like that little bird, getting his wings’’ is how one man described himself on Day 1.
 > 

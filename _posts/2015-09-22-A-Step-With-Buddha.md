@@ -2,7 +2,7 @@
 layout: post
 title: A Step With Buddha
 date: 2015-09-22
-tags: mindfulness, buddhism
+tags: [mindfulness, buddhism]
 description: It's been about a month since I wrote The Call of Silence, a month of developing a better self-awareness with myself. Thanks to the Okanagan Valley being blanketed in smoke for the first period, I was able to put more focus into reading about mindfulness and Buddhism.
 ---
 

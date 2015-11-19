@@ -3,7 +3,7 @@ layout: post
 title: My Problems With Dating
 description: "Amazingly, I only have two current problems with dating."
 category: article    
-tags: relationships, life
+tags: [relationships, life, dating]
 ---
 
 > We don’t commit now. We don’t see the point. They’ve always said there are so many fish in the sea, but never before has that sea of fish been right at our fingertips on OkCupid, Tinder, Grindr, Dattch, take your pick. We can order up a human being in the same way we can order up pad thai on Seamless. We think intimacy lies in a perfectly-executed string of emoji. We think effort is a “good morning” text. We say romance is dead, because maybe it is, but maybe we just need to reinvent it. Maybe romance in our modern age is putting the phone down long enough to look in each other’s eyes at dinner. Maybe romance is deleting Tinder off your phone after an incredible first date with someone. Maybe romance is still there, we just don’t know what it looks like now.

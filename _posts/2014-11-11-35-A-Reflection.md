@@ -1,7 +1,7 @@
 ---
 layout: post
 Title: 35-- A Reflection
-Tags: birthday
+Tags: [birthday]
 Description: “A reflection of the past year of life marking the start of the 35th year.”
 category: articles
 ---

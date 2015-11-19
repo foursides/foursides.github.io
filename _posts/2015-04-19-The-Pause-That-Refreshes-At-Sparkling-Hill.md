@@ -3,7 +3,7 @@ layout: post
 title: The Pause That Refreshes at Sparkling Hill
 description: “On the verge of feeling burnt out, I needed a break. I went to the one place I knew I was guaranteed to feel refreshed after a visit - Sparkling Hill.”
 category: article    
-tags: explore, travel, bc
+tags: [explore, travel, bc]
 ---
 
 ![](http://www.foursides.ca/images/SparklingHill3.jpg)

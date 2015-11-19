@@ -3,7 +3,7 @@ layout: post
 title: Alto’s Adventure
 description: “Alto’s Adventure is a snowboarding adventure game for iPhone. Beautiful, simple, fun.”
 category: article    
-tags: iphone
+tags: [iphone]
 ---
 
 ![Alto’s Adventure](http://www.foursides.ca/images/alto2.jpg "Alto's Adventure")

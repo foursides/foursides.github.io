@@ -3,6 +3,7 @@ layout: post
 title: I Made A Thing
 date: 2015-10-09 01:37
 Description: I took a challenge to create something in ten days. I wrote a book about vacation rentals. It's free.
+tags: [creation, writing]
 ---
 
 I've been quiet in my space[^1] here for several weeks for good reason. I've been reading and thinking a lot about the practice of mindfulness and Buddhism, which I hope to tackle more of in the coming weeks, but I also did something a little unexpected: I made a thing. 

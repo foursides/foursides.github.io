@@ -3,6 +3,7 @@ layout: post
 title: Exit The Queen
 date: 2015-06-16 12:55
 description: The person that introduced me to theatre is about to retire from teaching, my high school drama teacher, Mary Sloan.
+tags: [theatre, life]
 ---
 
 > You are going to die in an hour and a half. 

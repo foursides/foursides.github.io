@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Thoughts On Money
-tags: mindfulness, work, ego, buddhism
+tags: [mindfulness, work, ego, buddhism]
 date: 2015-10-26
 description: When we grow beyond the egotistical demands of money and become more generous with it, we give people more than just money or objects. We are giving those people the opportunity to free themselves from the relationship they have developed with money.
 ---

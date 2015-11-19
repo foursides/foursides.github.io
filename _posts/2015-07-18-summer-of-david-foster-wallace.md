@@ -3,7 +3,7 @@ layout: post
 title: A Summer of David Foster Wallace
 description: Picked up a few books by David Foster Wallace to get me through the rest of the summer.
 category: article    
-tags: books, reading
+tags: [books, reading]
 ---
 
 <img src="http://www.foursides.ca/images/DFW.jpg" title="David Foster Wallace Books">

@@ -29,9 +29,9 @@ Altogether, this box was $45.00 US, which becomes $80.00 Canadian after shipping
 I am sure to be warm on my winter walks this coming winter and for many years to come. 
   
 Check out all the fine details at:
-
+<a href="https://bespokepost.com/r/04a5a099">
 ![Bespoke Post](http://www.foursides.ca/images/bespokepostlogo.png)
-
+</a>
 [^1]:	Il Travolino on Richter, behind Save-On Foods in Lower Mission.
 
 [^2]:	I have two free razors to give out. Email me: james@foursides.ca

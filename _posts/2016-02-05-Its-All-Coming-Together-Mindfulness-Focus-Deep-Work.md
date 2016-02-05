@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  It’s All Coming Together Now: Mindfulness, Focus, and Deep Work
+title:  It’s All Coming Together Now - Mindfulness, Focus, and Deep Work
 tags: [mindfulness]
 date: 2016-02-05
 description: Discipline means getting into what is happening.

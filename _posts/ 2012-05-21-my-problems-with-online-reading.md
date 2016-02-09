@@ -19,7 +19,7 @@ Being faced with that problem made me think deeper about the issue. Like Brett, 
 <p>
 Before I discovered RSS feeds, I did what everyone else presumably did: bookmark favourite sites, store them within folders in the browser or Delicious-like services. What drove me to use RSS feeds was the not only the ease at which I could follow a site, but also that it was a form of clean reading - no ads, no share buttons everywhere, didn’t need see the comment feeds underneath, and no temptation to click thru the blog rolls that were common on the side.
 <p>
-Compared to when I first came across RSS feeds in 2003 or 2004, site design has become better and worse at the same time. The proliferation of Google Ads and sidebar ads has grown exponentially, but the number of simpler sites is also on the rise. Applications like Instapaper have improved the readability of the web, as have Wordpress themes like [Basic from Themify](http://themify.me/member/go.php?r=6738 "Basic | Themify") or a CMS like [Kirby](http://getkirby.com/). I have a suspicion that as the web continues to become more mobile, designers will strip down websites so they function properly on mobile devices. 
+Compared to when I first came across RSS feeds in 2003 or 2004, site design has become better and worse at the same time. The proliferation of Google Ads and sidebar ads has grown exponentially, but the number of simpler sites is also on the rise. Applications like Instapaper have improved the readability of the web, as have Wordpress themes like [Basic from Themify](http://themify.me/member/go.php?r=6738 "Basic - Themify") or a CMS like [Kirby](http://getkirby.com/). I have a suspicion that as the web continues to become more mobile, designers will strip down websites so they function properly on mobile devices. 
 <p>
 With these ideas dancing around in my head, I came across Jeffery Zeldman’s site and his manifesto for web design. He had recently did a redesign of the site that is a bit dramatic, but it works better than most of the other sites I have seen. As he explains:
 <p>
@@ -51,6 +51,6 @@ There are three great iPad apps that I use, as well:
 
 I think the combination of using the iPad apps, listening to more comprehensive podcasts and cutting down on the number of sites I read will provide me with a lot more free time to create, rather than consume. 
 <p>
-Our reading habits have definitely changed with the dawn of RSS readers, Twitter, smartphone apps, etc. I thought this episode of *Write for Your Life* summed up my thoughts about the topic better than I could. Have a listen to "[How We Read Now | Write for Your Life](http://www.70decibels.com/writeforyourlife/2012/5/17/s02e15-how-we-read-now.html)
+Our reading habits have definitely changed with the dawn of RSS readers, Twitter, smartphone apps, etc. I thought this episode of *Write for Your Life* summed up my thoughts about the topic better than I could. Have a listen to "[How We Read Now - Write for Your Life](http://www.70decibels.com/writeforyourlife/2012/5/17/s02e15-how-we-read-now.html)
 <p>
 I hope people can suggest other great podcast networks to explore or blog networks to consider.

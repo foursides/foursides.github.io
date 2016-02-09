@@ -27,8 +27,8 @@ Thankfully, [Squarespace][12], has a lot of different themes available that I ca
 [5]:	https://itunes.apple.com/us/app/instapaper/id288545208?mt=8&uo=4&at=10l4Qt "Instapaper"
 [6]:	http://dashes.com/anil/
 [7]:	http://kevinrose.com/
-[8]:	http://www.foursides.ca/digital-sabbatical "Digital Sabbatical | Four Sides"
+[8]:	http://www.foursides.ca/digital-sabbatical "Digital Sabbatical - Four Sides"
 [9]:	http://www.gabrielhummel.com/2010/10/05/the-power-of-subtraction/
 [10]:	http://www.dpbolvw.net/click-3985725-10388259
-[11]:	http://www.foursides.ca/breaking-the-seo-chains-or-the-value-of-not-blogging "Breaking the SEO Chains or the Value of Not Blogging | Four Sides"
+[11]:	http://www.foursides.ca/breaking-the-seo-chains-or-the-value-of-not-blogging "Breaking the SEO Chains or the Value of Not Blogging - Four Sides"
 [12]:	http://www.squarespace.com

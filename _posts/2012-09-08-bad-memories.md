@@ -7,7 +7,7 @@ tags: [life, memories]
 
 > But what’s a memory worth if it only breaks your heart? If it doesn’t make you smile or give you butterflies, if it doesn’t give you a reason to think positively, what’s the point of keeping it around. Someone who associates me with the idea of being a mistake doesn’t deserve my time; I was obviously a waste of theirs, so … it only makes sense right?
 
-> -- Jennifer Thomson, [Mistakes and Memories](http://thomsonjennifer.wordpress.com/2012/09/07/mistakes-and-memories/ "Mistakes and Memories | Jennifer Thomson")
+> -- Jennifer Thomson, [Mistakes and Memories](http://thomsonjennifer.wordpress.com/2012/09/07/mistakes-and-memories/ "Mistakes and Memories - Jennifer Thomson")
 
 Jennifer has been in a world of hurt lately after a bad heart-breaking breakup. I can only imagine how deep the pain truly is since I have only been getting glimpses of it through her writing since coming across her on Twitter a week ago. It has been a bit difficult to read through since my own breakup continues to be fresh in my mind. Not so much the act of the breakup, but the constant reminder of this new reality I am in of only having my daughter around most of the time, not all of the time, like I would prefer. 
 

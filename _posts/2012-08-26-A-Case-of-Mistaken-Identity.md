@@ -16,7 +16,7 @@ tags: [culture, life]
 <blockquote>
 <p>Good artists copy, great artists steal. </p>
 
-<p>&#8211; <a href="http://www.youtube.com/watch?v=CW0DUg63lqU" title="Steve Jobs | YouTube">Steve Jobs</a>, Interview in 1994. </p>
+<p>&#8211; <a href="http://www.youtube.com/watch?v=CW0DUg63lqU" title="Steve Jobs - YouTube">Steve Jobs</a>, Interview in 1994. </p>
 </blockquote>
 <div style="width:200 px; font-size:80%; text-align:center;"><a href="http://www.theatlanticwire.com/global/2012/08/fresco-defacing-octogenarian-officially-internet-hero/56169/">
 <img src="http://cdn.theatlanticwire.com/img/upload/2012/08/24/A0_5lFKCEAA2vSc.jpg" alt="The Atlantic" style="padding-bottom:0.2em;">via The Atlantic</div></a>
@@ -36,7 +36,7 @@ The punishment brought down against Samsung is pretty negligible considering the
 <p>
 Meanwhile, Cecilia Gimenez ruined a fresco, because she was upset about the way it had been deteriorating over the years. She isn&#8217;t being punished, because the city believes she acted with &#8220;good intentions.&#8221; The fresco is unlikely to be recovered to its original form, but that hasn&#8217;t stopped people poking fun at the problem (see image above). </p>
 <p>
- It could be argued that Samsung was acting with &#8220;good intentions,&#8221; as well. I don&#8217;t believe Samsung (or Google, the makers of the Android operating system) were trying to make an exact copy of the iPhone to fool people, but rather are in the process of reworking the original iPhone design. The same can be said of Apple reworking some of the features from Android, most noticeably the notification center (check out this post from <a href="http://www.androidpolice.com/2012/02/17/in-depth-analysis-androids-notification-bar-patent-and-how-apple-may-or-may-not-infringe-it/" title="In Depth Analysis: Android's Notification Bar Patent | Android Police">Android Police</a> ). </p>
+ It could be argued that Samsung was acting with &#8220;good intentions,&#8221; as well. I don&#8217;t believe Samsung (or Google, the makers of the Android operating system) were trying to make an exact copy of the iPhone to fool people, but rather are in the process of reworking the original iPhone design. The same can be said of Apple reworking some of the features from Android, most noticeably the notification center (check out this post from <a href="http://www.androidpolice.com/2012/02/17/in-depth-analysis-androids-notification-bar-patent-and-how-apple-may-or-may-not-infringe-it/" title="In Depth Analysis: Android's Notification Bar Patent - Android Police">Android Police</a> ). </p>
  <p>
  I think Steve sums up my thoughts exactly in his comment at the bottom of that article:
  </p></p>

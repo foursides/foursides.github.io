@@ -15,7 +15,7 @@ I have struggled to discover the identity of this blog much like I have struggle
 
 Some of those keystones have been in existence on this blog from the get-go. Writing is going to be an obvious keystone for me. Sharing music is another (primarily through my Tumblr, [Above a Sheep Farm](http://sheepfarm.tumblr.com)). Another has been the paleo diet.
 
- Within the first month of writing, I touched on why Diets are the new social class. After that, I had the epic review of Tim Ferriss' [The 4 Hour Body](http://www.foursides.ca/The-4-Hour-Body-Free-Chapters "The 4 Hour Body | Free Chapters) and even felt inspired enough to start a newsletter about [all things Paleo](http://eepurl.com/cC-VI) and The 4 Hour Body. 
+ Within the first month of writing, I touched on why Diets are the new social class. After that, I had the epic review of Tim Ferriss' [The 4 Hour Body](http://www.foursides.ca/The-4-Hour-Body-Free-Chapters "The 4 Hour Body - Free Chapters) and even felt inspired enough to start a newsletter about [all things Paleo](http://eepurl.com/cC-VI) and The 4 Hour Body. 
  
  At the beginning of this year, I fell backwards into my old diet issues - drinking Pepsi, eating ice cream, pizza, and the sweet stuff. I felt the weight creep back on because I wasn't able to get out walking like I had been doing last year (cold weather and rain). When the weather started to warm up here in April, I started to go out on my walks again, but had not switched back to the paleo diet completely. After the mother of my child left me, I was left trying to pick up the pieces. 
 

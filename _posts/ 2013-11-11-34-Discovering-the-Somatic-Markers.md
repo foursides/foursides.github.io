@@ -41,7 +41,7 @@ feature: 34-Discovering-the-Somatic-Markers.jpg
 
 <ol>
 <li>Read my review of <a href="http://foursides.ca/tonx-coffee-review" title="Tonx Coffee Review">Tonx Coffee</a> and sign-up if interested.</li>
-<li>Order the Aeropress, my favourite way to brew coffee: <a href="http://www.amazon.ca/gp/product/B002ZD3QJC/ref=as_li_ss_tl?ie=UTF8&amp;camp=15121&amp;creative=390961&amp;creativeASIN=B002ZD3QJC&amp;linkCode=as2&amp;tag=fousid-20" title="Aeropress | Amazon Canada">Canada</a> and <a href="http://www.amazon.com/gp/product/B0018RY8H0/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0018RY8H0&amp;linkCode=as2&amp;tag=four0b-20" title="Aeropress | Amazon USA">USA</a></li>
+<li>Order the Aeropress, my favourite way to brew coffee: <a href="http://www.amazon.ca/gp/product/B002ZD3QJC/ref=as_li_ss_tl?ie=UTF8&amp;camp=15121&amp;creative=390961&amp;creativeASIN=B002ZD3QJC&amp;linkCode=as2&amp;tag=fousid-20" title="Aeropress - Amazon Canada">Canada</a> and <a href="http://www.amazon.com/gp/product/B0018RY8H0/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0018RY8H0&amp;linkCode=as2&amp;tag=four0b-20" title="Aeropress - Amazon USA">USA</a></li>
 <li>Order my favourite book of the year, <a href="http://www.amazon.com/gp/product/B003X4LEHI/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B003X4LEHI&amp;linkCode=as2&amp;tag=four0b-20" title="F**k it">f**k it</a>, &#8211; <a href="http://www.amazon.ca/gp/product/1401927599/ref=as_li_ss_tl?ie=UTF8&amp;camp=15121&amp;creative=390961&amp;creativeASIN=1401927599&amp;linkCode=as2&amp;tag=fousid-20" title="F**k it">in Canada</a></li>
 <li>Or make a <a href="https://spacebox.io/s/A9qlfjJFVc" title="Donation">Donation</a></li>
 </ol>

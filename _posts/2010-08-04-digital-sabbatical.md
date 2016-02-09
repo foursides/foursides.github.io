@@ -15,7 +15,7 @@ It is almost a parallel meme surging through the internet, balanced by the growi
 
 Alice also writes in the same post, "I had forgotten that thoughts and feelings actually grow more complex if you just stop documenting their earliest iterations." Documenting those first flashes of brilliance is useful when brainstorming, or mind mapping, but useless dribble when it comes to commentary of one's opinion in a public forum. I tend to find people over-react when they read something, and don't allow that gestation period for the ideas to fully settle into their body. People are in a rush to be the first responders, the first to point out similar posts on their blog, and to share the links without writing their own commentary to attach with it. 
 
-[Nicholas Carr](http://www.roughtype.com/) writes in his new book, [The Shallows](http://www.amazon.com/gp/product/0393339750/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0393339750&linkCode=as2&tag=four0b-20&linkId=VNGDJ3F63R3ZY5VA "The Shallows | Amazon"): 
+[Nicholas Carr](http://www.roughtype.com/) writes in his new book, [The Shallows](http://www.amazon.com/gp/product/0393339750/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0393339750&linkCode=as2&tag=four0b-20&linkId=VNGDJ3F63R3ZY5VA "The Shallows - Amazon"): 
 
 > "Over the last few years I've had an uncomfortable sense that someone, or something, has been tinkering with my brain, remapping the neural circuitry, reprogramming the memory. My mind isn't going- so far as I can tell- but it's changing. I'm not thinking the way I used to think."
 

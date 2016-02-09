@@ -17,7 +17,7 @@ Tonight, the project was setting up an old Windows desktop computer as a Linux w
 <p>
 Most people would most likely sink into their chairs to watch television. Lately, more people are probably scanning Facebook or Twitter. I usually go through all the stories showing up in Google Reader. 
 <p>
-One of the posts led me to something Joshua wrote yesterday, [How to Ensure Your Ideas Are Never Criticized](http://joshuablankenship.com/blog/2013/01/23/how-to-ensure-your-ideas-are-never-criticized/ "How to Ensure Your Ideas Are Never Criticized | Joshua Blankenship"). Being the curious guy I am, I kept reading before coming across the post I quoted above. 
+One of the posts led me to something Joshua wrote yesterday, [How to Ensure Your Ideas Are Never Criticized](http://joshuablankenship.com/blog/2013/01/23/how-to-ensure-your-ideas-are-never-criticized/ "How to Ensure Your Ideas Are Never Criticized - Joshua Blankenship"). Being the curious guy I am, I kept reading before coming across the post I quoted above. 
 <p>
 His post is about writing content and how people need fewer options because the amount of content is getting out of control. 
 

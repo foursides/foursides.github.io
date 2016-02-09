@@ -5,7 +5,7 @@ category: articles
 tags: [fitness, 4 hour body, tim ferriss]
 ---
 
-When the release of The 4 Hour Body ([short review](http://jamesmccullough.hubpages.com/hub/The-4-Hour-Body-Review-Tim-Ferriss "The 4 Hour Body | Short Review")) was quickly approaching in December, I noticed something happening across several of the blogs I followed. A lot of them not only had interviews with Timothy Ferriss that mentioned the book, they were including sample chapters.  Only after reading the book did I realize how complete these chapters actually were.
+When the release of The 4 Hour Body ([short review](http://jamesmccullough.hubpages.com/hub/The-4-Hour-Body-Review-Tim-Ferriss "The 4 Hour Body - Short Review")) was quickly approaching in December, I noticed something happening across several of the blogs I followed. A lot of them not only had interviews with Timothy Ferriss that mentioned the book, they were including sample chapters.  Only after reading the book did I realize how complete these chapters actually were.
 
 I thought it would be beneficial for someone to gather all of these links into one spot for people to browse and decide once and for all whether the book is worth buying.
 

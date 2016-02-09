@@ -13,7 +13,7 @@ tags: [reviews, bond, movies]
 >
 > At Skyfall
 
-When Adele’s smokey voice starts singing the title song for <a title="Skyfall | Official Site" href="http://www.skyfall-movie.com/site/">Skyfall</a>, I felt chills run down my spine. It is such a perfect song to introduce the Bond story we were all about to witness, both in terms of its lyrics and its melody. The way her voice rises and then falls to disappear echoes the mood of the movie: a play with shadows.
+When Adele’s smokey voice starts singing the title song for <a title="Skyfall - Official Site" href="http://www.skyfall-movie.com/site/">Skyfall</a>, I felt chills run down my spine. It is such a perfect song to introduce the Bond story we were all about to witness, both in terms of its lyrics and its melody. The way her voice rises and then falls to disappear echoes the mood of the movie: a play with shadows.
 
 Writing about a film less than six hours after seeing it is usually not advised. Critics generally want the film to settle into their minds, contemplating it, swirling it around in their mouth to savour everything they had just witnessed. I could not resist, however, as my mind was racing even while sitting in the theater. When I exited the theater, I tapped out a quick note to myself to remind myself of what I wanted to write about:
 
@@ -21,7 +21,7 @@ Writing about a film less than six hours after seeing it is usually not advised.
 
 A short, simple note, much like the 23rd installment of the Bond saga. Some of the criticisms of the most recent Bond film, Quantam Solace, was how visually incoherent it was. It’s a criticism of most modern action films, either the visuals are difficult to follow, or the story line has several failures. Thankfully, Skyfall provides a solid storyline with well-paced action sequences that I could follow. I would almost go as far as saying I could close my eyes for 30 seconds, open them and could understand how they got to the new point of action. That’s something I couldn’t really say with some of the Bourne movies, for example.
 
-The use of light was brilliant in this film. Perhaps it is my background as a lighting designer that paid more attention to it, but it really is difficult to miss. Fight scenes in shadows, silhouettes in the right times, rising and setting sun or moon. Sometimes, I find the usage of light to be more of a gimic in some films, but not in Skyfall. The director, <a title="Sam Mendes" href="http://www.imdb.com/name/nm0005222/">Sam Mendes</a> (American Beauty, Jarhead), and cinematographer, <a title="Roger Deakins | IMDB" href="http://www.imdb.com/name/nm0005683/">Roger Deakins</a> (No Country for Old Men, Shawshank Redemption, A Beautiful Mind, and other great films), really out did themselves with composing the <em>mise-en-scène</em> of the film.
+The use of light was brilliant in this film. Perhaps it is my background as a lighting designer that paid more attention to it, but it really is difficult to miss. Fight scenes in shadows, silhouettes in the right times, rising and setting sun or moon. Sometimes, I find the usage of light to be more of a gimic in some films, but not in Skyfall. The director, <a title="Sam Mendes" href="http://www.imdb.com/name/nm0005222/">Sam Mendes</a> (American Beauty, Jarhead), and cinematographer, <a title="Roger Deakins - IMDB" href="http://www.imdb.com/name/nm0005683/">Roger Deakins</a> (No Country for Old Men, Shawshank Redemption, A Beautiful Mind, and other great films), really out did themselves with composing the <em>mise-en-scène</em> of the film.
 
 <em>Mise-en-scène</em> refers to the composition of the image on screen, the set, lighting, costumes, and camera shot in film. Every time the scene shifted to a new location, the establishing shots took my breath away with their composition. There was always a variety in the usage of light, as well (i.e. sometimes the source was off to a side, others behind, in front, etc.)
 
@@ -41,7 +41,7 @@ The <a title="Tennyson Quote from Skyfall" href="http://jamesmccullough.hubpages
 >
 >To strive, to seek, to find, and not to yield
 
-> -- <a title="Ulysses | Tennyson" href="http://www.poemhunter.com/poem/ulysses-2/">Ulysses</a>, Lord Alfred Tennyson. October 20th, 1833.
+> -- <a title="Ulysses - Tennyson" href="http://www.poemhunter.com/poem/ulysses-2/">Ulysses</a>, Lord Alfred Tennyson. October 20th, 1833.
 
 
 If you are a Bond fan, be sure to take advantage of this deal on Amazon in celebration of the 50th anniversary of Bond:

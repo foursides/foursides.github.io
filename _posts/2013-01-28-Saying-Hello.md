@@ -2,7 +2,7 @@
 layout: post
 title: Saying Hello
 tags: [life, relationships]
-description: [Saying "Hello" while passing in the hallway is a pleasantry; saying "Hello" online is an invitation to connect and build something together.  ]
+description: [Saying Hello while passing in the hallway is a pleasantry; saying "Hello" online is an invitation to connect and build something together. ]
 ---
 
 It always seems strange to me when you first get to know someone new. 

@@ -8,7 +8,7 @@ description: The most important lesson from my readings into mindfulness and Bud
 
 > Breathing expresses the fact that you are alive. If you're alive, you breathe. The technique is basic and direct: you pay heed to breath. You don't try to use the mindfulness of breathing to entertain yourself, but you use the mindfulness of breathing to simplify matters.
 > 
-> --  Chögyam Trungpa Rinpoche, [Cool Boredom](http://www.tricycle.com/blog/cool-boredom "Cool Boredom | Tricycle") | [Tricycle](http://amzn.to/1JtCpy0 "Tricycle Magazine")[^1]
+> --  Chögyam Trungpa Rinpoche, [Cool Boredom](http://www.tricycle.com/blog/cool-boredom "Cool Boredom - Tricycle") - [Tricycle](http://amzn.to/1JtCpy0 "Tricycle Magazine")[^1]
 
 The most important lesson from my readings into mindfulness and Buddhism so far has been how important the breath is. Strip away everything else happening in life and just breathe. It's probably the most challenging part of really buying into living a life of mindfulness, because it's difficult to turn off that switch in your mind that causes you to think. This is especially true with me. My mind tends to dart around a bit and think about various aspects of parenting, finances, work, and the people in my lives. It's hard to make that switch and learn how to focus on what is in front of you. 
 

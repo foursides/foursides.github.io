@@ -7,7 +7,7 @@ description: “My daughter’s journey through 2015 had some bumps but was full
 --- 
 > She leaves a lasting impression on their lives in that short amount of time like she has done with me on a nearly daily basis the past five years. I could not be happier and prouder.
 > 
-> [Happy 5th birthday, Kylie](http://www.foursides.ca/Number-5/ "Number 5 | Four Sides")
+> [Happy 5th birthday, Kylie](http://www.foursides.ca/Number-5/ "Number 5 - Four Sides")
 
 ![Kylie](http://www.foursides.ca/images/Kylie2015-1.jpg)
 

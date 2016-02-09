@@ -18,7 +18,7 @@ What sells me on the game is how beautiful it is. During the game, the light cha
 
 It is only $2.00 on the App Store, so check it out:
 
-**[In Canada](https://itunes.apple.com/ca/app/altos-adventure/id950812012?mt=8&uo=4&at=10l4Qt "App Store | Canada")**
+**[In Canada](https://itunes.apple.com/ca/app/altos-adventure/id950812012?mt=8&uo=4&at=10l4Qt "App Store Canada")**
 
 **[In USA](https://itunes.apple.com/us/app/altos-adventure/id950812012?mt=8&uo=4&at=10l4Qt "Alto's Adventure")**
 

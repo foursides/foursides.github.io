@@ -10,7 +10,7 @@ tags: [iphone]
 
 After several years of watching people use large Android phones, Apple released their own larger phones this past October. Initially, I resisted diving in and buying one. I was rather content with the size and the camera of my two year-old iPhone 5, but then I started seeing the photographs of people using the newer phones and was greatly impressed. 
 
-Seeing all the gorgeous images on [Instagram](http://www.instapaper.com/foursides "Foursides | Instapaper") helped nudge me in the right direction. What finally encouraged me to get it was the year-end sale that Telus[^1] was having on their devices. Saving nearly $100 on the phone was all I needed to go out and purchase the [iPhone 6](http://www.amazon.com/gp/product/B00NQGP5X2/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00NQGP5X2&linkCode=as2&tag=four0b-20&linkId=DR5FMEARVOSP6S53 "iPhone 6") (64GB, Space Grey).
+Seeing all the gorgeous images on [Instagram](http://www.instapaper.com/foursides "Foursides - Instapaper") helped nudge me in the right direction. What finally encouraged me to get it was the year-end sale that Telus[^1] was having on their devices. Saving nearly $100 on the phone was all I needed to go out and purchase the [iPhone 6](http://www.amazon.com/gp/product/B00NQGP5X2/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00NQGP5X2&linkCode=as2&tag=four0b-20&linkId=DR5FMEARVOSP6S53 "iPhone 6") (64GB, Space Grey).
 
 ![Wall](http://www.foursides.ca/images/wall.jpg)
 

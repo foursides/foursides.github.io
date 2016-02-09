@@ -8,7 +8,7 @@ Description: Reading poetry is a bigger loop, an older loop, a far more stable a
 
 > I think of my reading as drawing water from some bottomless, timeless well. In goes the bucket. The rope slides through my hands. I’m sitting on the couch in the living room, the French press on the coffee table, a book open in my lap, a chipped mug balanced on my knee. The city is asleep all around me. The sun is asleep beyond the earth’s curve. And now up comes a cherry tree in blossom, the tolling of a distant bell, a burning stick of incense, a small man in a wooden boat on a perfectly calm lake at dusk. The images are plain and clear, refreshing. I drink deeply, then lower the bucket for more.
 > 
-> Leath Tonino, [A Quiet Subversion](http://www.tricycle.com/awake-world/quiet-subversion "A Quiet Subversion") | Tricycle
+> Leath Tonino, [A Quiet Subversion](http://www.tricycle.com/awake-world/quiet-subversion "A Quiet Subversion") - Tricycle
  
  The past month, I have become acutely aware of how much silence there is in my life. Being an introvert has helped me not become too bothered by it, but it is there. It's become unavoidable. My daughter has been spending more time with her mother this month and it's left a void in my home. Gone are the countless questions and her insatiable curiously about what I am doing and whether she can help. Gone are the sounds of her favourite shows playing on Netflix[^1] that normally play while I prepare meals or we wait for our swimming pool to warm in the sun. All that's left is silence.
 

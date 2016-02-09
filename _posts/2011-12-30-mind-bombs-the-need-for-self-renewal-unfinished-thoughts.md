@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Mind Bombs: The Need For Self-Renewal
+title: Mind Bombs- The Need For Self-Renewal
 category: articles
 tags: [life, work]
 ---
+
 > Had I not been subject to the darkness, I could not have seen the light.
 > 
 > - Midrash (translated from Hebrew)

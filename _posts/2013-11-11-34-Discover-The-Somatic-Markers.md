@@ -36,7 +36,7 @@ The Caesura Letters have opened my eyes on a weekly basis and given me plenty of
 If you wish to do something to support me as a writer and wish me a happy birthday, here are a few things you can do:
 
 1. Read my review of [Tonx Coffee](http://foursides.ca/tonx-coffee-review "Tonx Coffee Review") and sign-up if interested. 
-2. Order the Aeropress, my favourite way to brew coffee: [Canada](http://www.amazon.ca/gp/product/B002ZD3QJC/ref=as_li_ss_tl?ie=UTF8&camp=15121&creative=390961&creativeASIN=B002ZD3QJC&linkCode=as2&tag=fousid-20 "Aeropress | Amazon Canada") and [USA](http://www.amazon.com/gp/product/B0018RY8H0/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0018RY8H0&linkCode=as2&tag=four0b-20 "Aeropress | Amazon USA")
+2. Order the Aeropress, my favourite way to brew coffee: [Canada](http://www.amazon.ca/gp/product/B002ZD3QJC/ref=as_li_ss_tl?ie=UTF8&camp=15121&creative=390961&creativeASIN=B002ZD3QJC&linkCode=as2&tag=fousid-20 "Aeropress - Amazon Canada") and [USA](http://www.amazon.com/gp/product/B0018RY8H0/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0018RY8H0&linkCode=as2&tag=four0b-20 "Aeropress - Amazon USA")
 3. Order my favourite book of the year, [f**k it](http://www.amazon.com/gp/product/B003X4LEHI/ref=as\_li\_ss\_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B003X4LEHI&linkCode=as2&tag=four0b-20 "F**k it"), -- [in Canada](http://www.amazon.ca/gp/product/1401927599/ref=as_li_ss_tl?ie=UTF8&camp=15121&creative=390961&creativeASIN=1401927599&linkCode=as2&tag=fousid-20 "F**k it")
 4. Or make a [Donation](https://spacebox.io/s/A9qlfjJFVc "Donation")
 

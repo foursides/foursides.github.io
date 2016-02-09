@@ -2,21 +2,22 @@
 layout: post
 title: Saying Hello
 tags: [life, relationships]
+description: [Saying "Hello" while passing in the hallway is a pleasantry; saying "Hello" online is an invitation to connect and build something together.  ]
 ---
 
 It always seems strange to me when you first get to know someone new. 
-<p>
+
 There is no easy way to break through that threshold and create a mutual level of respect and comfort automatically. It's a slow process of discovery which can only happen if both parties are equally aggressive in wanting to discover that new person. That comfort level is impossible to create with only one person writing an email to someone, or giving a monologue while standing in an elevator together.  Without some kind of response from the other person, the conversation ends and the process  of getting to know each other is finished. 
-<p>
+
 It is a challenge to come up with compelling topics to keep the conversation flowing. The internet makes this a little easier because people practically wear their interests on their chests. You can scroll through their online history to find out how they behave, their mood shifts, how often they complain. People are easily discoverable through a quick Google search about their name or reverse looking up their email address, too. Looking up my email address, for example, will give you almost everything you'd ever want to know about me, except my grades in high school. You could find me on Facebook, Twitter, Instagram, my resume, my websites, my embarrassing fantasy league teams, and so forth. 
-<p>
+
 More than that though is how we choose to communicate on the Internet allows someone to develop a better sense of who you are and whether we could ever get along with that person. This is not evident on a site like Facebook where we normally have a relationship (usually) with someone before connecting through the site. But it is the case in publishing mediums that have a strong informal voice being used (Twitter, podcasts, blogging.)
-<p>
+
 By being less restrictive in our words and images, we open ourselves up for a connection, whether it is emphatic with our struggles or apathetic with our opinions. The updates that at first seem mundane are actually a window into who that person really is. We can never get a sense of who someone is if they restrain communicating their thoughts in some way. 
-<p>
+
 I was reminded of this when I stumbled across Adam Brault's piece, 
 [I quit Twitter for a month and it completely changed my thinking about mostly everything](http://adambrault.com/post/37201680402/i-quit-twitter-for-a-month-and-it-completely-changed-my "Adam Brault"):
-<p>
+
 
 > The level of candor people often share on Twitter, particularly over time, has given me a strong sense of who some of the people I follow are, how they think, and what they value. I end up including many of the people on my Twitter list in the somewhat fuzzy set of people I empathize with.
 

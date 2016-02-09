@@ -8,7 +8,7 @@ Everyone with an iPhone knows that iOS 7 was released on Wednesday to the genera
 
 ### Begin
 
-[Begin](https://itunes.apple.com/us/app/begin-your-daily-todo-list/id687455038?mt=8&uo=4&at=10l4Qt "Begin | iOS app") is a very simple to-do app for people who don't need power features. When I say simple, I mean dead simple. This is what you can do with the app:
+[Begin](https://itunes.apple.com/us/app/begin-your-daily-todo-list/id687455038?mt=8&uo=4&at=10l4Qt "Begin - iOS app") is a very simple to-do app for people who don't need power features. When I say simple, I mean dead simple. This is what you can do with the app:
 
 - create new items
 - mark items as done

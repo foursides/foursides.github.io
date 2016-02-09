@@ -7,7 +7,7 @@ tags: [life, facts]
 
 > Facts is survived by two brothers, Rumor and Innuendo, and a sister, Emphatic Assertion.
 
--- [Facts, 360 BC - 2012 AD | Chicago Tribune](http://articles.chicagotribune.com/2012-04-19/news/ct-talk-huppke-obit-facts-20120419_1_facts-philosopher-opinion)
+-- [Facts, 360 BC - 2012 AD - Chicago Tribune](http://articles.chicagotribune.com/2012-04-19/news/ct-talk-huppke-obit-facts-20120419_1_facts-philosopher-opinion)
 
 In a mock obituary of the death of Facts, Rex Huppke shares how “facts grew up” from being about “universal principles that everybody agrees on,” by Aristotle, to “empirical observations,” by Francis Bacon. 
 

@@ -23,13 +23,13 @@ As the leaves change colour and fall to the ground, I received an email from [Gw
 >
 > -- Shunryu Suzuki
 
-This past year has been full of challenges and great rewards. Working on this project over the next 31 days will help me focus more on my writing and develop a routine of daily writing again. There are different options in how to participate in this, so I invite you to join in my journey along with many others: [Bury Yourself](http://gwenbell.com "Gwen Bell | Bury Yourself")
+This past year has been full of challenges and great rewards. Working on this project over the next 31 days will help me focus more on my writing and develop a routine of daily writing again. There are different options in how to participate in this, so I invite you to join in my journey along with many others: [Bury Yourself](http://gwenbell.com "Gwen Bell - Bury Yourself")
 
 ### Ulysses 
 
 By pure coincidence, there is also a 30 day trial for Ulyesses, a powerful writing app for Mac. I have heard about how great it is for the past year (mainly from [Ben Brooks](http://brooksreview.net "Ben Brooks") ), and now I have the opportunity to give it a strong go. 
 
-There are too many features to cover here, so I suggest heading over to their site to take a look around. Including in the trial is a free eBook by [David Hewson](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=David%20Hewson&linkCode=ur2&tag=four0b-20&url=search-alias%3Daps&linkId=WEA6ET4QKXQOT6VJ "David Hewson | Amazon") that helps you get your project setup. You can use it to write a book, write all your blog posts and keep them organized, and more. I'm looking forward to giving it a good go for the next month, putting my preferred editor [Byword](https://itunes.apple.com/us/app/byword/id420212497?mt=12&uo=4&at=10l4Qt "Byword" ) to the side for now. 
+There are too many features to cover here, so I suggest heading over to their site to take a look around. Including in the trial is a free eBook by [David Hewson](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=David%20Hewson&linkCode=ur2&tag=four0b-20&url=search-alias%3Daps&linkId=WEA6ET4QKXQOT6VJ "David Hewson - Amazon") that helps you get your project setup. You can use it to write a book, write all your blog posts and keep them organized, and more. I'm looking forward to giving it a good go for the next month, putting my preferred editor [Byword](https://itunes.apple.com/us/app/byword/id420212497?mt=12&uo=4&at=10l4Qt "Byword" ) to the side for now. 
 
 Read more about the free trial: [Try Ulysses for NaNoWriMo](http://www.ulyssesapp.com/nanowrimo/  "Ulyesses for NaNoWriMo") ([National Novel Writing Month](http://nanowrimo.org "NaNoWriMo") is in November.)
 

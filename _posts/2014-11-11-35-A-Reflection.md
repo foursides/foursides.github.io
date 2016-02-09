@@ -8,7 +8,7 @@ category: articles
 
 > I — I hardly know, sir, just at present — at least I know who I WAS when I got up this morning, but I think I must have been changed several times since then.
 >  
-> Alice, [Through the Looking Glass](http://www.amazon.com/gp/product/1500759546/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1500759546&linkCode=as2&tag=four0b-20&linkId=MMGIUW7JVWOAHQON "Through the Looking Glass | Amazon")
+> Alice, [Through the Looking Glass](http://www.amazon.com/gp/product/1500759546/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1500759546&linkCode=as2&tag=four0b-20&linkId=MMGIUW7JVWOAHQON "Through the Looking Glass - Amazon")
 
 **35 Years.** 
 
@@ -30,9 +30,9 @@ An example from [Weathering the Storm](http://www.foursides.ca/Weather-the-Storm
 
 I read that whole post again tonight and felt like giving Old Me a big hug. Just awful to think about how I endured that time of my life. 
 
-On the flip side, it amuses me that the philosophy that I wanted to live by, saying fuck it, is the same approach I was taking last year, over two years after I wrote the previous post. [Saying Fuck It](http://www.foursides.ca/locked-out-and-saying-fck-it/ "Saying Fuck It | Four Sides") came up again and again, and I even recommended the book by the same name, [fuck it](http://www.amazon.com/gp/product/1401927599/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1401927599&linkCode=as2&tag=four0b-20 "fuck it"). 
+On the flip side, it amuses me that the philosophy that I wanted to live by, saying fuck it, is the same approach I was taking last year, over two years after I wrote the previous post. [Saying Fuck It](http://www.foursides.ca/locked-out-and-saying-fck-it/ "Saying Fuck It - Four Sides") came up again and again, and I even recommended the book by the same name, [fuck it](http://www.amazon.com/gp/product/1401927599/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1401927599&linkCode=as2&tag=four0b-20 "fuck it"). 
 
-That approach carried over to this past year, but I also came across another book that has helped me immensely, [The Obstacle is the Way](http://t.co/BwLFNOG8ki "The Obstacle is the Way | Ryan Holiday"). 
+That approach carried over to this past year, but I also came across another book that has helped me immensely, [The Obstacle is the Way](http://t.co/BwLFNOG8ki "The Obstacle is the Way - Ryan Holiday"). 
 
 > Where the head goes, the body follows. Perception precedes action. Right action follows the right perspective.
 
@@ -42,7 +42,7 @@ Health and fitness were the two areas that I renewed my efforts to push even har
 
 Previous years, I would have said, “Fuck it,” and kept going as I always have. This time was different. A clearer mind helped push me to double down in my efforts and clean up my health even further than it was before. 
 
-I went back to tracking my hikes with [RunKeeper](http://runkeeper.com/ "RunKeeper"). You can see my results by visiting my [RunKeeper Profile](http://runkeeper.com/user/mcculloj/profile "RunKeeper Profile"). I have been using the kettle-bells much more regularly and pushing myself to endure a 40 minute workout no matter how hard I am sweating. And, finally, I have been doing a lot better with my diet lately. The [juice challenge](http://www.foursides.ca/Juice-Challenge/ "Juice Challenge | Four Sides") has been going well for me, currently on Day 7 of having a freshly made juice daily. I have also been having a meatless day a few times a week now, and may push it to mainly vegetarian in the coming months. No promises, though. 
+I went back to tracking my hikes with [RunKeeper](http://runkeeper.com/ "RunKeeper"). You can see my results by visiting my [RunKeeper Profile](http://runkeeper.com/user/mcculloj/profile "RunKeeper Profile"). I have been using the kettle-bells much more regularly and pushing myself to endure a 40 minute workout no matter how hard I am sweating. And, finally, I have been doing a lot better with my diet lately. The [juice challenge](http://www.foursides.ca/Juice-Challenge/ "Juice Challenge - Four Sides") has been going well for me, currently on Day 7 of having a freshly made juice daily. I have also been having a meatless day a few times a week now, and may push it to mainly vegetarian in the coming months. No promises, though. 
 
 Ryan Holiday was right when he said, “Right action follows the right perspective.” It has taken me far too long to realize what the right perspectives are with my life to help me take the right action. As I continue to reflect on myself daily, it has helped me with the raising of my daughter. I understand my strengths, where I need to improve, and can pass those lessons down to my daughter more easily. 
 
@@ -55,7 +55,7 @@ A tiny reflection of all the positive changes we have been making which keeps in
 If you wish to do something to support me as a writer and wish me a happy birthday, here are a few things you can do:
 
 1. Read my review of [Blue Bottle Coffee](http://www.foursides.ca/Blue-Bottle-Coffee-Review/ "Blue Bottle Coffee") and discover some of the best coffee on the planet. 
-2. Order the Aeropress, my favourite way to brew coffee: [Canada](http://www.amazon.ca/gp/product/B002ZD3QJC/ref=as_li_ss_tl?ie=UTF8&camp=15121&creative=390961&creativeASIN=B002ZD3QJC&linkCode=as2&tag=fousid-20 "Aeropress | Amazon Canada") and [USA](http://www.amazon.com/gp/product/B0018RY8H0/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0018RY8H0&linkCode=as2&tag=four0b-20 "Aeropress | Amazon USA")
+2. Order the Aeropress, my favourite way to brew coffee: [Canada](http://www.amazon.ca/gp/product/B002ZD3QJC/ref=as_li_ss_tl?ie=UTF8&camp=15121&creative=390961&creativeASIN=B002ZD3QJC&linkCode=as2&tag=fousid-20 "Aeropress - Amazon Canada") and [USA](http://www.amazon.com/gp/product/B0018RY8H0/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0018RY8H0&linkCode=as2&tag=four0b-20 "Aeropress - Amazon USA")
 3. Order my favourite book of the year, [The Obstacle is the Way](http://t.co/BwLFNOG8ki "The Obstacle is the Way")
 4. Or make a [Donation](https://spacebox.io/s/A9qlfjJFVc "Donation")
 

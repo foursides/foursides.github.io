@@ -14,7 +14,7 @@ category: articles
 > 
 > Run the jewels, run the jewels, run the jewels.
 > 
-> LL Cool J, [Cheesy Rat Blues](https://www.youtube.com/watch?v=cwx6pLz21gE&spfreload=10 "Cheesy Rat Blues | LL Cool J")
+> LL Cool J, [Cheesy Rat Blues](https://www.youtube.com/watch?v=cwx6pLz21gE&spfreload=10 "Cheesy Rat Blues - LL Cool J")
 
 Rap is one of the few music genres that I don’t really care for.  
 
@@ -26,9 +26,9 @@ But I *liked* the music.
 
 > Personally, I think rap music has to be born of rebellion. It has to, because no one ever gave shit to rap music. Rap music deserves truth and it deserves spontaneity. For rap music to continue to live, it needs a burst of rebellion and that can come in many, many different forms. It depends on what's going on around you. There's no right or wrong way to do that. 
 >  
-> — EL-P, [Doubling Down with Run The Jewels | The Interview](http://www.interviewmagazine.com/music/run-the-jewels#_ "Doubling Down with Run The Jewels | Interview Magazine")
+> — EL-P, [Doubling Down with Run The Jewels - The Interview](http://www.interviewmagazine.com/music/run-the-jewels#_ "Doubling Down with Run The Jewels - Interview Magazine")
 
-The duo, EL-P and Killer Mike, came together a year ago to create [Run The Jewels](http://www.amazon.com/gp/product/B00NDA9I0W/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00NDA9I0W&linkCode=as2&tag=four0b-20&linkId=V5RMHVM7LYJJYWCK "Run The Jewels | Amazon") to critical success and have released a new album, the simply named [Run the Jewels 2](ttp://www.amazon.com/gp/product/B00O8Z92B6/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00O8Z92B6&linkCode=as2&tag=four0b-20&linkId=BOZVWBXJPZJF6KQM "Run the Jewels 2 | Amazon"). 
+The duo, EL-P and Killer Mike, came together a year ago to create [Run The Jewels](http://www.amazon.com/gp/product/B00NDA9I0W/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00NDA9I0W&linkCode=as2&tag=four0b-20&linkId=V5RMHVM7LYJJYWCK "Run The Jewels - Amazon") to critical success and have released a new album, the simply named [Run the Jewels 2](ttp://www.amazon.com/gp/product/B00O8Z92B6/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00O8Z92B6&linkCode=as2&tag=four0b-20&linkId=BOZVWBXJPZJF6KQM "Run the Jewels 2 - Amazon"). 
 
 Listening to it the first time through, I wasn’t entirely sure what to think. The music is unlike anything I regularly listen to. If it had popped up on [Spotify](http://www.spotify.com "Spotify"), my first reaction would have been to hit the Skip button. The violent language strikes you quick and hard, the beats underneath capture your body, and suddenly you are trapped. Your mind wants to refuse the music, but your body allows you to enjoy it. 
 

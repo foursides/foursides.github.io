@@ -6,7 +6,7 @@ description: “The ongoing battle with email has a new chapter”
 category: articles
 ---
 
-Google released a new app called [Inbox](http://googleblog.blogspot.ca/2014/10/an-inbox-that-works-for-you.html "Google Inbox") today, but only with a limited number of users. It was designed by the creator of Sparrow ([iOS app](https://itunes.apple.com/us/app/sparrow/id492573565?mt=8&uo=4&at=10l4Qt "Sparrow | iOS ") and [Mac app](https://itunes.apple.com/us/app/sparrow/id417250177?mt=12&uo=4&at=10l4Qt "Sparrow | Mac App")), which was purchased by Google. Those apps still remain, not being updated, however. The Mac app is still quite useful. 
+Google released a new app called [Inbox](http://googleblog.blogspot.ca/2014/10/an-inbox-that-works-for-you.html "Google Inbox") today, but only with a limited number of users. It was designed by the creator of Sparrow ([iOS app](https://itunes.apple.com/us/app/sparrow/id492573565?mt=8&uo=4&at=10l4Qt "Sparrow - iOS ") and [Mac app](https://itunes.apple.com/us/app/sparrow/id417250177?mt=12&uo=4&at=10l4Qt "Sparrow - Mac App")), which was purchased by Google. Those apps still remain, not being updated, however. The Mac app is still quite useful. 
 
 Inbox is joining a long list of email clients for the phone, the most well known being [Dispatch](https://itunes.apple.com/us/app/dispatch-email-meets-gtd-textexpander/id642022747?mt=8&uo=4&at=10l4Qt "Dispatch") and [Mailbox](https://itunes.apple.com/us/app/mailbox/id576502633?mt=8&uo=4&at=10l4Qt "Mailbox"). Inbox is more like Mailbox, but more tightly integrated with Google mail. Dispatch is a power-users dream with full support for snippets and IMAP. 
 

@@ -7,7 +7,7 @@ tags: [urban, explore]
 
 > A walk is exploring surfaces and textures with finger, toe, and - yuck - tongue; standing still and seeing who or what comes by; trying out different forms of locomotion (among them running, marching, high-kicking, galloping, scooting, projectile falling, spinning, and noisy shuffling). It is archaelogy; exploring the bits of discarded candy wrapper; collecting a fistful of pebbles and a twig and a torn corner of a paperback; swishing dirt back and forth along the ground. 
 
-> -- Alexandra Horowitz, [On Looking: Eleven Walks with Expert Eyes](http://www.amazon.com/gp/product/1439191255/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1439191255&linkCode=as2&tag=four0b-20 "On Looking: Eleven Walks with Expert Eyes | Alexandra Horowitz")
+> -- Alexandra Horowitz, [On Looking: Eleven Walks with Expert Eyes](http://www.amazon.com/gp/product/1439191255/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1439191255&linkCode=as2&tag=four0b-20 "On Looking: Eleven Walks with Expert Eyes - Alexandra Horowitz")
 
 <br><center>
 <a href="https://www.flickr.com/photos/jmccullough/9134039380" title="Urban Vancouver by James M., on Flickr"><img src="https://farm4.staticflickr.com/3730/9134039380_cf1d3c6a1b_o.jpg" width="270" height="360" alt="Urban Vancouver"></a>

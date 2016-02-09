@@ -5,9 +5,9 @@ category: articles
 tags: [music, moby]
 ---
 
-<center><a href="https://itunes.apple.com/us/album/innocents/id826353202?uo=4&at=10l4Qt">Moby | Innocents<img src="http://www.moby.com/sites/default/files/www/inline/2012/innocents-cover-web.jpg" width="50%" height="50%"></center></a>
+<center><a href="https://itunes.apple.com/us/album/innocents/id826353202?uo=4&at=10l4Qt">Moby - Innocents<img src="http://www.moby.com/sites/default/files/www/inline/2012/innocents-cover-web.jpg" width="50%" height="50%"></center></a>
 
-[Moby](http://www.moby.com/innocents#.udyafhzh3k4 "Moby | Innocents") announced his new album last week on his blog. It's a refreshing way to announce an album after witnessing the release announcements from Justin Timberlake, Jay Z, Kanye West and so forth. This is how he starts off the announcement:
+[Moby](http://www.moby.com/innocents#.udyafhzh3k4 "Moby - Innocents") announced his new album last week on his blog. It's a refreshing way to announce an album after witnessing the release announcements from Justin Timberlake, Jay Z, Kanye West and so forth. This is how he starts off the announcement:
 
 > hi.
 
@@ -17,7 +17,7 @@ Personal and simple. I love it.
 
 Along with the album announcement, he included information about the tour. The "tour" is going to consist of three live shows in L.A. That's it. As much as I would enjoy seeing Moby live sometime, there is something appealing about having a tour consist of only a few concerts. No mention of ticket prices, but given how socially responsible Moby is, I doubt they will be priced out of this world. 
 
-The one song that he released off the album is [A Case of Shame](https://www.youtube.com/watch?v=58MUwnspBRk "A Case of Shame | YouTube"). Listening to it reminds me a lot of his previous work, especially some of songs off of the album that first got me hooked on his music, [Play](http://www.amazon.com/gp/product/B00000J6AG/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00000J6AG&linkCode=as2&tag=four0b-20 "Play | Moby"). 
+The one song that he released off the album is [A Case of Shame](https://www.youtube.com/watch?v=58MUwnspBRk "A Case of Shame - YouTube"). Listening to it reminds me a lot of his previous work, especially some of songs off of the album that first got me hooked on his music, [Play](http://www.amazon.com/gp/product/B00000J6AG/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00000J6AG&linkCode=as2&tag=four0b-20 "Play - Moby"). 
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F98822483"></iframe>
 

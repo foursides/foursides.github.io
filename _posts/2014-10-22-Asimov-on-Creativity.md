@@ -10,11 +10,11 @@ category: articles
 > 
 > The presence of others can only inhibit this process, since creation is embarrassing. For every new good idea you have, there are a hundred, ten thousand foolish ones, which you naturally do not care to display.
 >
-> -- [Isaac Asimov](http://www.technologyreview.com/view/531911/isaac-asimov-mulls-how-do-people-get-new-ideas/ "How do People Get New Ideas? | Asimov")
+> -- [Isaac Asimov](http://www.technologyreview.com/view/531911/isaac-asimov-mulls-how-do-people-get-new-ideas/ "How do People Get New Ideas? - Asimov")
 
 A fascinating piece about creativity, written by Isaac Asimov in 1959. Previously unpublished, and only recently re-discovered by Arthur Obermayer. Not only is it about creativity, but also about where good ideas come from and how to foster them within groups. 
 
-The last line of the quote above reminded me of the infamous Apple ad about [Saying No](http://www.foursides.ca/saying-no/ "Saying No | Four Sides"), 54 years after Asimov’s words. 
+The last line of the quote above reminded me of the infamous Apple ad about [Saying No](http://www.foursides.ca/saying-no/ "Saying No - Four Sides"), 54 years after Asimov’s words. 
 
 <center><iframe width="560" height="315" src="http://www.youtube.com/embed/VpZmIiIXuZ0" frameborder="0" allowfullscreen></iframe></center>
 

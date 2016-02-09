@@ -7,7 +7,7 @@ tags: [life, work]
 
 > Had I not been subject to the darkness, I could not have seen the light.
 > 
-> - Midrash (translated from Hebrew)
+> -- Midrash (translated from Hebrew)
 
 Every now and then, I feel the need to expand on my level of knowledge or experiences to create a change in myself, whether major or minor. The easiest way for me to do this is by reading an article, blog, or book that I normally wouldn't find myself reading, but I also enjoy going somewhere that I haven't been yet. When I do this, I set off a mind bomb and become more aware of myself and my surroundings.
 

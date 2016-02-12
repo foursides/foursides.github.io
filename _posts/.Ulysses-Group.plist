@@ -4,6 +4,7 @@
 <dict>
 	<key>childOrder</key>
 	<array>
+		<string>New Folder</string>
 		<string>css</string>
 	</array>
 	<key>collapsed</key>
@@ -14,6 +15,20 @@
 	<dict>
 		<key>childOrder</key>
 		<dict>
+			<key>New Folder</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>476991644.79279602</real>
+				<key>lastModification</key>
+				<real>476991644.79279602</real>
+				<key>version</key>
+				<dict>
+					<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
+					<integer>4</integer>
+				</dict>
+			</dict>
 			<key>css</key>
 			<dict>
 				<key>lastModification</key>
@@ -1212,6 +1227,8 @@
 				</dict>
 			</dict>
 		</dict>
+		<key>sheetOrder</key>
+		<real>476405199</real>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
@@ -1579,7 +1596,7 @@
 		<key>childOrder</key>
 		<dict>
 			<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
-			<integer>1</integer>
+			<integer>4</integer>
 		</dict>
 		<key>collapsed</key>
 		<dict>
@@ -1595,6 +1612,11 @@
 		<dict>
 			<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
 			<integer>2</integer>
+		</dict>
+		<key>sheetOrder</key>
+		<dict>
+			<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
+			<integer>1</integer>
 		</dict>
 	</dict>
 </dict>

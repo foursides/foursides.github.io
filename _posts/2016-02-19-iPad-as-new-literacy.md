@@ -3,7 +3,7 @@ layout: post
 title: iPad As New Literacy
 tags: parenting, life
 date: 2016-02-19
-description: “Merlin and Dan had an interesting conversation about a problem I have been struggling with: how much time do you allow children to use an iPad?”
+description: “Merlin and Dan had an interesting conversation about a problem I have been struggling with. How much time do you allow children to use an iPad?”
 ---
 
 > Anything that is truly new must feel unfamiliar; if it doesn’t feel unfamiliar it is not truly new. 

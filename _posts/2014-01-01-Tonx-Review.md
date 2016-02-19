@@ -11,41 +11,50 @@ tags: [tonx, coffee, fuel, aeropress]
 **Tonx Coffee has joined Blue Bottle Coffee to continue offering their coffee subscription. To learn more, follow this link:[Blue Bottle Coffee Review](http://www.foursides.ca/Blue-Bottle-Coffee-Review )**
 
 
-<br>
-<a rel="nofollow"  href="https://bluebottlecoffee.com/u/foursides" title="Tonx Coffee">Tonx</a> is an independent operation based out of California that sends the best coffee from their roasters to your door for a low price. After hearing about the service for months, I decided to try it out. Everything being said about Tonx is true: they truly are the best damn coffee out there. </p>
-<p>I live in southern British Columbia in Canada, which besides a lot of wineries and orchards, has several coffee roasters here. I have tried almost all of the various blends, on top of the national chains (<a rel="nofollow"  href="http://goo.gl/KUccF" title="Starbucks">Starbucks</a>, <a rel="nofollow"  href="http://www.blenz.com" title="Blenz">Blenz</a>, <a rel="nofollow"  href="http://www.secondcup.com" title="Second Cup">Second Cup</a>, etc.) and have been unable to find something that really appealed to me day in, day out. I may find one blend I enjoy, but then end up sticking to it all the time. There was no variety. </p>
-<p>Until I subscribed to Tonx. </p>
-<p>Tonx gave me the variety I craved. A new blend of beans every two weeks, roasted fresh, and they all taste excellent. The coffee is sent direct to your address, no need to wait for a FedEx/UPS delivery man or visit a post office to pick up a package. Check your mail every two weeks and find a little treasure. </p>
+[Tonx](https://bluebottlecoffee.com/u/foursides "Blue Bottle Coffee") is an independent operation based out of California that sends the best coffee from their roasters to your door for a low price. After hearing about the service for months, I decided to try it out. Everything being said about Tonx is true: they truly are the best damn coffee out there. 
 
-Everyone talks about how great Tonx is, but no one has been specific about what you are likely to get week in, week out. I thought it would be useful to share a short description of each blend I have received to date to give you a better idea why Tonx is the absolute best for fresh roasted coffee. </p>
+ I live in southern British Columbia in Canada, which besides a lot of wineries and orchards, has several coffee roasters here. I have tried almost all of the various blends, on top of the national chains (<a rel="nofollow"  href="http://goo.gl/KUccF" title="Starbucks">Starbucks</a>, <a rel="nofollow"  href="http://www.blenz.com" title="Blenz">Blenz</a>, <a rel="nofollow"  href="http://www.secondcup.com" title="Second Cup">Second Cup</a>, etc.) and have been unable to find something that really appealed to me day in, day out. I may find one blend I enjoy, but then end up sticking to it all the time. There was no variety.   
+ 
+ Until I subscribed to Tonx.   
+ 
+ Tonx gave me the variety I craved. A new blend of beans every two weeks, roasted fresh, and they all taste excellent. The coffee is sent direct to your address, no need to wait for a FedEx/UPS delivery man or visit a post office to pick up a package. Check your mail every two weeks and find a little treasure.   
 
-####Who Tonx Is
+Everyone talks about how great Tonx is, but no one has been specific about what you are likely to get week in, week out. I thought it would be useful to share a short description of each blend I have received to date to give you a better idea why Tonx is the absolute best for fresh roasted coffee.   
 
-<p>Tonx is a small company based in Los Angeles, California. There are only five people listed on the main company page:<br />
-</p><p>Tony Konecny <a rel="nofollow"  href="http://www.twitter.com/tonx" title="Tonx - Twitter">@tonx</a><br />
-Nik Bauman <a rel="nofollow"  href="http://twitter.com/nbauman" title="Nbauman - Twitter">@nbauman</a><br />
-Nick Griffith <a rel="nofollow"  href="http://twitter.com/nickgriffla" title="Nick Griffith - Twitter">@nickgriffla</a><br />
-Ryan Brown <a rel="nofollow"  href="http://twitter.com/ry3bee" title="Ryan Brown - Twitter">@ry3bee</a><br />
+#### Who Tonx Is
+
+ Tonx is a small company based in Los Angeles, California. There are only five people listed on the main company page:   
+   Tony Konecny <a rel="nofollow"  href="http://www.twitter.com/tonx" title="Tonx - Twitter">@tonx</a>   
+Nik Bauman <a rel="nofollow"  href="http://twitter.com/nbauman" title="Nbauman - Twitter">@nbauman</a>   
+Nick Griffith <a rel="nofollow"  href="http://twitter.com/nickgriffla" title="Nick Griffith - Twitter">@nickgriffla</a>   
+Ryan Brown <a rel="nofollow"  href="http://twitter.com/ry3bee" title="Ryan Brown - Twitter">@ry3bee</a>   
 Scott Rocher <a rel="nofollow"  href="http://twitter.com/rochers" title="Scott Rocher - Twitter">@rochers</a>.
-<p> They come from a variety of backgrounds from longterm baristas to independent roasters to web startup executives. Together, they have upwards of over 40 years experience with coffee and operating a business. They are an insightful and interesting group (from following them on Twitter, haven't met any of them.)</p>
-Also check them out on Vine, the video service from Twitter. They're putting up some neat short videos of the coffee bean harvest procedure: <a rel="nofollow"  href="http://vine.co/v/b1BmqAibaYY">Tonx - Vine</a></p>
+  They come from a variety of backgrounds from longterm baristas to independent roasters to web startup executives. Together, they have upwards of over 40 years experience with coffee and operating a business. They are an insightful and interesting group (from following them on Twitter, haven't met any of them.)  
+  
+Also check them out on Vine, the video service from Twitter. They're putting up some neat short videos of the coffee bean harvest procedure: <a rel="nofollow"  href="http://vine.co/v/b1BmqAibaYY">Tonx - Vine</a>  
 
 ####Tonx on The New Disruptors
 
-Tony Konecny and Nik Bauman joined Glen Fleishmann to talk about Tonx coffee on his podcast, The New Disruptors in the episode: <strong><a rel="nofollow"  href="http://www.muleradio.net/newdisruptors/3/">Good From the First Drop</a></strong>.<br />
-<br />
-It is an excellent episode, and I encourage everyone to listen to it if they are at all interested in learning more about what makes their coffee good, how the company started, and where they think it will head.</intro>
+Tony Konecny and Nik Bauman joined Glen Fleishmann to talk about Tonx coffee on his podcast, The New Disruptors in the episode: <strong><a rel="nofollow"  href="http://www.muleradio.net/newdisruptors/3/">Good From the First Drop</a></strong>.   
+   
+It is an excellent episode, and I encourage everyone to listen to it if they are at all interested in learning more about what makes their coffee good, how the company started, and where they think it will head.
 
 ####How Tonx Works
 
-<p>Tonx is a coffee roaster, that bags and ships out coffee to households throughout Canada and the United States. What makes Tonx different (apart from their coffee) is that it is a subscription service. There isn't an option to order larger quantities of coffee or buy a bag to try for a month and then buy more at a later date. Instead, you pre-order coffee by subscription, with a new roast showing up at your doorstep every two weeks. </p>
-<p>You can cancel the shipments at any time, and you will still receive the coffee you had paid for. You can also pause the shipments, so if you are going out on holidays, you can delay the shipments up to a year (I can't imagine a year without coffee, myself.)</p>
-<p>With the subscriptions, you have two choices to make: regular or decaf, 6 oz or 12 oz bags. The prices for regular and decaf are the same. Here are the prices you are paying:</p>
-<p><strong>6 oz = $24 every 28 days (two shipments)</strong></p>
-<p><strong>12 oz = $38 every 28 days (two shipments)</strong></p>
-<p>The best part is those prices are the same for Canadians as well as Americans. </p>
-<p>People in the United States can actually ask for a free sample, as well. It is a 2 oz bag, which is enough for two people to enjoy coffee each morning for a few days. You can also purchase gift subscriptions for people, a great idea for birthdays and Christmas.</p>
-<p><strong><a rel="nofollow"  href="https://bluebottlecoffee.com/u/foursides" title="Tonx Coffee">Free Trial for Tonx Coffee</a></strong></p>
+ Tonx is a coffee roaster, that bags and ships out coffee to households throughout Canada and the United States. What makes Tonx different (apart from their coffee) is that it is a subscription service. There isn't an option to order larger quantities of coffee or buy a bag to try for a month and then buy more at a later date. Instead, you pre-order coffee by subscription, with a new roast showing up at your doorstep every two weeks.   
+ 
+ You can cancel the shipments at any time, and you will still receive the coffee you had paid for. You can also pause the shipments, so if you are going out on holidays, you can delay the shipments up to a year (I can't imagine a year without coffee, myself.)  
+ 
+ With the subscriptions, you have two choices to make: regular or decaf, 6 oz or 12 oz bags. The prices for regular and decaf are the same. Here are the prices you are paying:  
+ 
+ <strong>6 oz = $24 every 28 days (two shipments)</strong>  
+ <strong>12 oz = $38 every 28 days (two shipments)</strong>  
+ 
+ The best part is those prices are the same for Canadians as well as Americans.   
+ 
+ People in the United States can actually ask for a free sample, as well. It is a 2 oz bag, which is enough for two people to enjoy coffee each morning for a few days. You can also purchase gift subscriptions for people, a great idea for birthdays and Christmas.  
+ 
+ <strong><a rel="nofollow"  href="https://bluebottlecoffee.com/u/foursides" title="Tonx Coffee">Free Trial for Tonx Coffee</a></strong>  
 
 As mentioned previously, with a subscription to Tonx, you receive a different roast every two weeks. The shipments arrive in a small box that can fit inside a post office box, which eliminates the hassle of going to a post office to pick up a package. You won't be receiving duplicate roasts either. Once you have a received a roast you enjoy, you will have to wait and see if they will send it out again in the future. This may be discouraging to some, but to others this will be a welcome treat.
 
@@ -61,15 +70,15 @@ Enjoy.
 
 ### Los Eucaliptos - Huila, Colombia
 **Subscription Coffee #34**
-<br>
+    
 <a href="https://bluebottlecoffee.com/u/foursides"><img src="http://farm8.staticflickr.com/7320/9131507715_255e6ec1f4_n.jpg" width="320" height="308" alt="Los Eucaliptos - Tonx Coffee" - style="PADDING-RIGHT: 3px" style="PADDING-BOTTOM: 2px"></a>
-<br>
-Los Eucaliptos is described as having flavours of "green apple, molasses, and vanilla."<br />
+    
+Los Eucaliptos is described as having flavours of "green apple, molasses, and vanilla."   
 
-It has been my favourite blend to date (mind you, I am only three roasts into this service.) The coffee tasted rather sweet to me, went down smoothly, and there was no need for anything extra like sugar or cream. The roast smelled so good, even my three year old daughter wanted to try it. Normally she stays away from the coffee beans, but with this blend, she tried to eat the beans raw.<br />
-<br />
-This is also the roast I used to introduce my parents to the world of Tonx. Ground up some coffee for them and they absolutely loved it. It was a great way to start the day, but also a nice choice for a little pick-me-up in the afternoon.<br />
-<br />
+It has been my favourite blend to date (mind you, I am only three roasts into this service.) The coffee tasted rather sweet to me, went down smoothly, and there was no need for anything extra like sugar or cream. The roast smelled so good, even my three year old daughter wanted to try it. Normally she stays away from the coffee beans, but with this blend, she tried to eat the beans raw.   
+   
+This is also the roast I used to introduce my parents to the world of Tonx. Ground up some coffee for them and they absolutely loved it. It was a great way to start the day, but also a nice choice for a little pick-me-up in the afternoon.   
+   
 If this roast shows up on my doorstep again, I will definitely not be complaining.
 
 ### Musasa - Gakenke, Rwanda
@@ -88,7 +97,7 @@ Not a favourite right now, but perhaps by the end of the week and I have used up
 
 Tana Toraja is Tonx's first roast of beans from Indonesia. If this is the case, then I can't wait for the next shipment that includes beans from that region. According to the post card, these beans are processed in a different way than most of the varieties there. The process they use is <i><a rel="nofollow"  href="http://en.wikipedia.org/wiki/Giling_Basah">giling basah</a></i> which literally means "wet grinding." I encourage you to click the link to read about it on Wikipedia as it is rather interesting.
 
-This coffee is described to make "a delightful cup, with bartlett pear serving as the flavour backbone for a brew that opens up to reveal a bit of raspberry and cane sugar." It's delicious and full of flavour.</p>
+This coffee is described to make "a delightful cup, with bartlett pear serving as the flavour backbone for a brew that opens up to reveal a bit of raspberry and cane sugar." It's delicious and full of flavour.  
 
 ### Caranavi - Bolivia
 **Subscription Coffee #37**
@@ -112,7 +121,7 @@ The [Aeropress](http://www.amazon.com/gp/product/B001HBCVX0/ref=as_li_tl?ie=UTF8
 
 > Bordering Bolivia and far from any bustling city centers, Sandia de Puno in the Peruvian Andes is home to the Cecovasa Cooperative, the source of this delicious offering. Excellent shading, extreme elevations, and mostly heirloom typica variety trees make for some great coffee. Like many producers in South America, these growers have modest 1-2 hectare farms with simple homestead milling - handcrank pulpers, small tanks for fermentation and communal patios for drying.
 
-> A very balanced and buttery coffee, this Sandia de Puno selection offers flavours of chocolate cake, mixed berries and plum.<br />
+> A very balanced and buttery coffee, this Sandia de Puno selection offers flavours of chocolate cake, mixed berries and plum.   
 
 It was simply delicious.
 
@@ -155,14 +164,12 @@ Santa Clara is a crowd pleaser exemplary of top Antigua coffees - smooth and jui
 **Subscription Coffee #45**
 <img src="http://farm6.staticflickr.com/5517/9131507109_7ba63e5489_n.jpg" width="320" height="315" alt="Chelba - Tonx Coffee" align="left" tyle="PADDING-RIGHT: 3px" style="PADDING-BOTTOM: 2px"></a>
 
-> Chelba, a small village in the famed Yirgacheffe growing region of Ethiopia, is also the namesake washing station of the 700 small farmers who contributed to this Tonx offering. Under the shade of acacia, podocarpus, and cordia trees, these farmers raise cattle, grow a variety of subsistence crops, as well as this heralded heirloom coffee. After hand-sorting the coffee fruit to ensure only the ripest are processed, it's pulped, fermented (for up to two days to loosen any remaining fruit), and laid to dry for about ten days.<br />
+> Chelba, a small village in the famed Yirgacheffe growing region of Ethiopia, is also the namesake washing station of the 700 small farmers who contributed to this Tonx offering. Under the shade of acacia, podocarpus, and cordia trees, these farmers raise cattle, grow a variety of subsistence crops, as well as this heralded heirloom coffee. After hand-sorting the coffee fruit to ensure only the ripest are processed, it's pulped, fermented (for up to two days to loosen any remaining fruit), and laid to dry for about ten days.   
 
 > A vibrant and sweet coffee, chelba has something for everyone with flavours of limeade, floral honey and peach.
 
 ### Bella Vista - Antigua, Guatemala
 **Subscription Coffee #46**
-
-<a href="https://bluebottlecoffee.com/u/foursides><img src="http://farm6.staticflickr.com/5495/9133718454_c903bcbcca_n.jpg" width="309" height="320" alt="2013-06-16 20.05.59-2" align="left" tyle="PADDING-RIGHT: 3px" - style="PADDING-BOTTOM: 2px"></a>
 
 > Luis Pedro Zelaya is a fourth generation coffee farmer working in the heart of the gamed Antigua region. He is also our good friend. Managing the renowned Beneficio Bella Vista and many other well-known farms in the area, Luis Pedro has produced some truly exceptional coffees over the years we've known him. His progressive approach to every aspect of his operation is an inspiration. This past year, he built an incredible greenhouse to dry the coffee, an improvement over the typical patios. This lovely selection is made up of bourbon and caturra from the farms surrounding the mill, nestled between the volcanos Fuego, Agua, and Acatenango. 
 

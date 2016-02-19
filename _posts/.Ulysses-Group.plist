@@ -17,10 +17,6 @@
 		<dict>
 			<key>New Folder</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>476991644.79279602</real>
 				<key>lastModification</key>
 				<real>476991644.79279602</real>
 				<key>version</key>
@@ -1611,7 +1607,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
-			<integer>2</integer>
+			<integer>3</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>

@@ -9,7 +9,7 @@ tags: [work, ipad, apple]
 
 > -- Shawn Blanc, [Why the iPad is My New Laptop](http://shawnblanc.net/2012/04/ipad-laptop/)
 
-Shawn writes about how he’s using his [iPad](http://www.amazon.com/gp/product/B009W8YQ6K/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009W8YQ6K&linkCode=as2&tag=four0b-20&linkId=A6IZHCBNMKAA7KNO "iPad - Amazon") more for regular tasks without missing a beat without using his laptop. I wrote about this earlier when I talked about how I am [Changing My Workflow](www.foursides.ca/Changing-My-Workflow). After I wrote that, I started to explore more ways to push my work onto the iPad and migrate away from my MacBook. The iPad has essentially become my main device for many of the same reasons Shawn outlines in his post. 
+Shawn writes about how he’s using his [iPad](http://www.amazon.com/gp/product/B009W8YQ6K/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009W8YQ6K&linkCode=as2&tag=four0b-20&linkId=A6IZHCBNMKAA7KNO "iPad - Amazon") more for regular tasks without missing a beat without using his laptop. I wrote about this earlier when I talked about how I am [Changing My Workflow](http://www.foursides.ca/Changing-My-Workflow "Changing My Workflow"). After I wrote that, I started to explore more ways to push my work onto the iPad and migrate away from my MacBook. The iPad has essentially become my main device for many of the same reasons Shawn outlines in his post. 
 
 The main reason I enjoy the iPad more for work than the MacBook is for focus. 
 

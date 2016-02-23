@@ -1,10 +1,7 @@
-
-
-
 ---
 layout: post
 title:  Why Conservative Women are So Appealing To Me
-tags: [life]
+tags: \[life]
 date: 2005-12-21 
 description: “There is one thing in my life that frequently embarrasses, or would embarrass me if I ever were to admit it to anyone I know.”
 --- 

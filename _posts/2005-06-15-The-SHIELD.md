@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The S.H.I.E.L.D.
+title:  The SHIELD
 tags: [TV]
 date: 2005-06-15
 description: “It's probably one of the greatest shows on television right now, if not ever, and there's not much being said about it.”

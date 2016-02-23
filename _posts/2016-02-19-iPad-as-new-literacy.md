@@ -1,12 +1,7 @@
 ---
 layout: post
-<<<<<<< HEAD
 title:  iPad As New Literacy
-tags: /[parenting, life]
-=======
-title: iPad As New Literacy
 tags: parenting, life
->>>>>>> origin/master
 date: 2016-02-19
 description: “Merlin and Dan had an interesting conversation about a problem I have been struggling with. How much time do you allow children to use an iPad?”
 ---

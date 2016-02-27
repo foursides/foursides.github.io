@@ -1,0 +1,20 @@
+---
+layout: post
+title: Revisiting The Kindle 2nd Generation 
+date: 2016-02-27 13:22
+description: "It's been over five years since the Kindle 2 cane out. I've started to use it once more instead of reading on my iPad."
+---
+
+When I started reading [Deep Work](http://www.amazon.com/gp/product/1455586692/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1455586692&linkCode=as2&tag=four0b-20&linkId=I3V4JG7WNWFHSQC5 "Deep Work"), I first started to read it on my iPad. The reading experience on the iPad is okay, but I was having a hard time focusing on reading the book for very long because of the screen brightness. Turning it down or turning on the new night shift mode (to be released in the next version of iOS) helped a little, but not significantly. At the same time I was starting to read, I was cleaning up my office and came across my old [Kindle 2](http://www.amazon.com/s/ref=as_li_ss_tl?_encoding=UTF8&camp=1789&creative=390957&field-keywords=kindle%202&linkCode=ur2&tag=four0b-20&url=search-alias%3Daps&linkId=BXEDX3EBOP2SZHMD "Kindle 2") from 2010. I decided to fire it up again and see what the reading experience was like after all these long years.
+
+Since I first received it, I did quite a bit of reading on it in the first year. After the first year, I bought an iPad 2 and started to use that more and the Kindle was tucked away on my shelf alongside some of my other books I hadn’t cracked open. I was pleasantly surprised when I first picked it up to start reading the book. It’s about half the weight of my iPad, which is about double the size. I didn’t think that would make that much of a difference when I was holding onto it and reading, but it does. I don’t feel the same amount of soreness if I hold the Kindle in one hand and read it just like I would with a paperback. 
+
+The text on the screen is displayed by e-ink, which is far easier on the eyes than a backlit screen. The downside is I can’t read the screen without a light being on or being outside. It makes reading in the evening a little tricker, because I tend to not want a heavy light on if I am reading before bed. I still prefer it over my iPad and it is on par with reading a book for me at this moment. 
+
+Navigating is quite a bit slower than the iPad, and highlighting text is quite the nuisance. A 4 button directional pad is how you navigate the menu or when highlighting text and it pales in comparison to tapping and dragging on a touchscreen. Highlights are underlined instead of actually being highlighted, too. That makes it slightly more difficult to distinguish between something I have highlighted or a suggested highlight from the other readers of the book on Amazon. 
+
+That being said, I am there to read the book, and having to wait for things to pop up is not an issue for me. It is a much more relaxing experience than on the iPad. On the iPad, I would highlight a passage and want to do something with it- tweet it, share it on Facebook, or drop it into my writing environment to expand upon it for a post. With the Kindle, I highlight and keep reading. I have been reading my highlights at the end of each chapter to remind myself of certain topics before continuing. 
+
+The other thing I have noticed is I am reading faster. I made the text a little bigger so I’m not straining my eyes so much and I am finding that it helps me go through a chapter a lot quicker than I would a paperback. It makes me wonder if it is just because of the book I am reading, or the Kindle. I will definitely have to compare with the next book I pick up. 
+
+While the device is nearly six years old now, and newer Kindles are out there, it is still a great reading device. The battery life is still amazing as it was then, screen looks the same, and syncing between my Amazon accounts still works. Perhaps it isn’t as fast to download a book as it is on the iPad, but that doesn’t matter to me. I am quite happy with it and look forward to picking it up again tonight. 

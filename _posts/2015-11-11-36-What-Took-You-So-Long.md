@@ -67,7 +67,7 @@ Five ways to wish me a happy birthday:
 1. Treat yourself to some of the best coffee out there, and give me a cup at the same time at: [Blue Bottle Coffee](https://bluebottlecoffee.com/u/foursides "Blue Bottle Coffee")
 2. Order the Aeropress, my favourite way to brew coffee: [Canada](http://www.amazon.ca/gp/product/B002ZD3QJC/ref=as_li_ss_tl?ie=UTF8&camp=15121&creative=390961&creativeASIN=B002ZD3QJC&linkCode=as2&tag=fousid-20 "Aeropress - Amazon Canada") and [USA](http://www.amazon.com/gp/product/B0018RY8H0/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0018RY8H0&linkCode=as2&tag=four0b-20 "Aeropress - Amazon USA")
 3. Order one of my favourite books this year which set me down the mindfulness/Buddhist path: [Buddha Walks Into a Bar: A Guide to Life for a New Generation](http://www.amazon.com/gp/product/1590309375/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1590309375&linkCode=as2&tag=four0b-20&linkId=MW4CL4Y44T6DZW6G "Buddha Walks Into a Bar")
-4. Discover some really great products at [BespokePost](https://bespokepost.com/r/04a5a099 "BespokePost")
+4. Discover some really great products at [BespokePost](https://bespokepost.com/r/04a5a099 "BespokePost") or read my [Bespoke Post Review](http://hubpages.com/style/Bespoke-Post-Review "Bespoke Post Review")
 5. Or make a [Donation](https://spacebox.io/s/A9qlfjJFVc "Donation")
 
 

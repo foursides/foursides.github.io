@@ -22,6 +22,7 @@ What I have enjoyed most are visiting the websites of the hotels after someone c
 > Rates include all meals anywhere on the island, soft beverages, house wines, local beers as well as personal laundry, island buggy, non-motorized water-sports, guided nature walks.
 >  
 > It also includes:
+> 
 > •	A welcome massage (60 minutes)
 > •	An introductory yoga session in the morning at the Rock Spa  (60 mins each day)
 > •	An introduction to scuba diving in the pool (60 minutes)

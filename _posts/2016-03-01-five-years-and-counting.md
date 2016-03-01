@@ -24,7 +24,9 @@ What I have enjoyed most are visiting the websites of the hotels after someone c
 > It also includes:
 > 
 > •	A welcome massage (60 minutes)
+> 
 > •	An introductory yoga session in the morning at the Rock Spa  (60 mins each day)
+> 
 > •	An introduction to scuba diving in the pool (60 minutes)
 
 The lowest rate from January to March is $6,500. *A night.* 

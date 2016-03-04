@@ -19,14 +19,14 @@ audio:not([controls]) {
 }
 
 html {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%
 }
 
 body {
-	font-family: 'Arvo', serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
 	
 	margin-top: 2erm;
@@ -37,13 +37,13 @@ body {
 
 blockquote {
 	font-family: 'Arvo', serif;
-	  font-size: 20px;
+	  font-size: 18px;
 	    width: 95% !important;
 	    border-color: #666666;
 	    border-width: 0px 0px 2px 2px ;
 	}
 p {
-	font-family: 'Arvo', serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
 	font-size: 1.10erm;
 	line-height: 1.85;
@@ -61,7 +61,7 @@ abbr[title] {
 }
 
 b, strong { 
-	font-family: 'Arvo', serif;
+	font-family: 'Open Sans', sans-serif;
     font-weight: 700
 }
 

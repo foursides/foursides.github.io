@@ -52,6 +52,7 @@ p {
 }
 
 h1 {
+	font-family: 'Open Sans', sans-serif;
     margin: .67em 0
 	line-height: 1.0em;
 }

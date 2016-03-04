@@ -1474,7 +1474,7 @@ select:focus {
 
 body {
     color: #333332;
-    font-family: 'Arvo', serif;
+    font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
 	font-size: 1.2rem;
 	line-height: 150%;
@@ -1486,7 +1486,7 @@ body {
     width: 100%;
     padding: 2em 0 0;
     margin: 0 auto;
-    font-family: 'Arvo', serif;
+   font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     text-transform: uppercase;
     *zoom: 1

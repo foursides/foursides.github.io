@@ -20,7 +20,7 @@ My name is <strong>James McCullough</strong> - an entrepreneur, a writer, a fath
 
 <p>I am a host, not a guru. I welcome feedback and good conversation. I want to build a community more than a level of readership.</p>
 
-<p>\[ Below is an introduction to the philosophy of my writing. To learn more about me and my connections, check out my [About.me](http://www.about.me/jamesmccullough)\]</p>
+<p>[ Below is an introduction to the philosophy of my writing. To learn more about me and my connections, check out my [About.me](http://www.about.me/jamesmccullough)]</p>
 
 <h1>Uomo universale: Why a focused blog is dangerous</h1>
 

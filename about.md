@@ -5,8 +5,8 @@ title: About James McCullough
 tags: [about, life, writing, blogging]
 ---
 <script src="//about.me/embed/jamesmccullough?headline=0"></script>
-<br>
-<p>My name is <strong>James McCullough</strong> - an entrepreneur, a writer, a father, a paleo-eating polymath, fuelled by [Blue Bottle Coffee](https://bluebottlecoffee.com/u/foursides). I work as a [consultant for boutique hotels](http://www.foursidesconsulting.com)>.</p>
+
+My name is <strong>James McCullough</strong> - an entrepreneur, a writer, a father, a paleo-eating polymath, fuelled by [Blue Bottle Coffee](https://bluebottlecoffee.com/u/foursides). I work as a [consultant for boutique hotels](http://www.foursidesconsulting.com).
 
 <p>This is my home to help understand what is happening around us. I aim to bring the big ideas, the trends, that are fashionable or obscure and share them with you here.</p>
 

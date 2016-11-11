@@ -4,7 +4,6 @@
 <dict>
 	<key>childOrder</key>
 	<array>
-		<string>New Folder</string>
 		<string>css</string>
 	</array>
 	<key>collapsed</key>
@@ -15,20 +14,6 @@
 	<dict>
 		<key>childOrder</key>
 		<dict>
-			<key>New Folder</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>477864842.197308</real>
-				<key>lastModification</key>
-				<real>477864842.197308</real>
-				<key>version</key>
-				<dict>
-					<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
-					<integer>5</integer>
-				</dict>
-			</dict>
 			<key>css</key>
 			<dict>
 				<key>lastModification</key>
@@ -64,6 +49,26 @@
 				<dict>
 					<key>legacy-473244453.000000</key>
 					<integer>1</integer>
+				</dict>
+			</dict>
+			<key>2005-06-15-The-SHIELD.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>500540584.29335397</real>
+				<key>version</key>
+				<dict>
+					<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
+					<integer>6</integer>
+				</dict>
+			</dict>
+			<key>2005-12-21-why-conservative-women-are-appealing-to-me.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>500540584.29335302</real>
+				<key>version</key>
+				<dict>
+					<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
+					<integer>6</integer>
 				</dict>
 			</dict>
 			<key>2010-07-16-the-paleo-leap-or-a-step-back-in-time.md</key>
@@ -224,6 +229,16 @@
 				<dict>
 					<key>legacy-473244453.000000</key>
 					<integer>1</integer>
+				</dict>
+			</dict>
+			<key>2011-12-30-mind-bombs-the-need-for-self-renewal.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>500540584.29335302</real>
+				<key>version</key>
+				<dict>
+					<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
+					<integer>6</integer>
 				</dict>
 			</dict>
 			<key>2012-01-01-the-4-hour-body-review.md</key>
@@ -1206,6 +1221,56 @@
 					<integer>1</integer>
 				</dict>
 			</dict>
+			<key>2016-02-05-Its-All-Coming-Together-Mindfulness-Focus-Deep-Work.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>500540584.29335201</real>
+				<key>version</key>
+				<dict>
+					<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
+					<integer>6</integer>
+				</dict>
+			</dict>
+			<key>2016-02-19-iPad-as-new-literacy.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>500540584.29335302</real>
+				<key>version</key>
+				<dict>
+					<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
+					<integer>6</integer>
+				</dict>
+			</dict>
+			<key>2016-02-27-revisiting-the-kindle-2nd-generation-.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>500540584.29335397</real>
+				<key>version</key>
+				<dict>
+					<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
+					<integer>6</integer>
+				</dict>
+			</dict>
+			<key>2016-03-01-five-years-and-counting.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>500540584.29335397</real>
+				<key>version</key>
+				<dict>
+					<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
+					<integer>6</integer>
+				</dict>
+			</dict>
+			<key>2016-11-11-37-Absence.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>500540716.16084802</real>
+				<key>version</key>
+				<dict>
+					<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
+					<integer>9</integer>
+				</dict>
+			</dict>
 			<key>3011-03-10-sample-post.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -1572,6 +1637,9 @@
 			<string>2015-11-11-36-What-Took-You-So-Long.md</string>
 		</array>
 		<array>
+			<string>2016-11-11-37-Absence.md</string>
+		</array>
+		<array>
 			<string>2015-11-19-Frosty-Weather.md</string>
 		</array>
 		<array>
@@ -1585,6 +1653,27 @@
 		</array>
 		<array>
 			<string>2015-12-31-Turning-6-Years-Old.md</string>
+		</array>
+		<array>
+			<string>2016-02-05-Its-All-Coming-Together-Mindfulness-Focus-Deep-Work.md</string>
+		</array>
+		<array>
+			<string>2011-12-30-mind-bombs-the-need-for-self-renewal.md</string>
+		</array>
+		<array>
+			<string>2016-02-19-iPad-as-new-literacy.md</string>
+		</array>
+		<array>
+			<string>2005-12-21-why-conservative-women-are-appealing-to-me.md</string>
+		</array>
+		<array>
+			<string>2005-06-15-The-SHIELD.md</string>
+		</array>
+		<array>
+			<string>2016-02-27-revisiting-the-kindle-2nd-generation-.md</string>
+		</array>
+		<array>
+			<string>2016-03-01-five-years-and-counting.md</string>
 		</array>
 	</array>
 	<key>sheetOrder</key>
@@ -1611,7 +1700,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
-			<integer>4</integer>
+			<integer>9</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>

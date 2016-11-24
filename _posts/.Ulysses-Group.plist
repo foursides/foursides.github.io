@@ -1271,6 +1271,16 @@
 					<integer>9</integer>
 				</dict>
 			</dict>
+			<key>2016-11-24-Mindfulness-Reading-List-Plus-Give-Away.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>501672710.32879603</real>
+				<key>version</key>
+				<dict>
+					<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
+					<integer>18</integer>
+				</dict>
+			</dict>
 			<key>3011-03-10-sample-post.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -1293,7 +1303,7 @@
 			</dict>
 		</dict>
 		<key>sheetOrder</key>
-		<real>476405199</real>
+		<real>501659411.00932002</real>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
@@ -1640,6 +1650,9 @@
 			<string>2016-11-11-37-Absence.md</string>
 		</array>
 		<array>
+			<string>2016-11-24-Mindfulness-Reading-List-Plus-Give-Away.md</string>
+		</array>
+		<array>
 			<string>2015-11-19-Frosty-Weather.md</string>
 		</array>
 		<array>
@@ -1677,7 +1690,7 @@
 		</array>
 	</array>
 	<key>sheetOrder</key>
-	<string>manual</string>
+	<string>modificationDate</string>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
 	<key>versioning</key>
@@ -1700,12 +1713,12 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
-			<integer>9</integer>
+			<integer>19</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
 			<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
-			<integer>1</integer>
+			<integer>2</integer>
 		</dict>
 	</dict>
 </dict>

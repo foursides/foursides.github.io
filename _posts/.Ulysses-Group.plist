@@ -1281,6 +1281,16 @@
 					<integer>18</integer>
 				</dict>
 			</dict>
+			<key>2016-12-11-Doing-The-Work.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>503131851.35959399</real>
+				<key>version</key>
+				<dict>
+					<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
+					<integer>24</integer>
+				</dict>
+			</dict>
 			<key>3011-03-10-sample-post.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -1307,6 +1317,9 @@
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2016-12-11-Doing-The-Work.md</string>
+		</array>
 		<array>
 			<string> 2012-05-21-my-problems-with-online-reading.md</string>
 		</array>
@@ -1713,7 +1726,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
-			<integer>19</integer>
+			<integer>25</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>

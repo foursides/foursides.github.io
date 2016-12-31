@@ -1291,6 +1291,16 @@
 					<integer>24</integer>
 				</dict>
 			</dict>
+			<key>2016-12-31-Turning-7-Years-Old.md.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>504871287.921552</real>
+				<key>version</key>
+				<dict>
+					<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
+					<integer>34</integer>
+				</dict>
+			</dict>
 			<key>3011-03-10-sample-post.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -1311,12 +1321,28 @@
 					<integer>1</integer>
 				</dict>
 			</dict>
+			<key>Charles Johnson on Writing.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>504602911.39645302</real>
+				<key>version</key>
+				<dict>
+					<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
+					<integer>28</integer>
+				</dict>
+			</dict>
 		</dict>
 		<key>sheetOrder</key>
-		<real>501659411.00932002</real>
+		<real>504870489.91094601</real>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2016-12-31-Turning-7-Years-Old.md.md</string>
+		</array>
+		<array>
+			<string>Charles Johnson on Writing.md</string>
+		</array>
 		<array>
 			<string>2016-12-11-Doing-The-Work.md</string>
 		</array>
@@ -1726,12 +1752,12 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
-			<integer>25</integer>
+			<integer>35</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
 			<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
-			<integer>2</integer>
+			<integer>5</integer>
 		</dict>
 	</dict>
 </dict>

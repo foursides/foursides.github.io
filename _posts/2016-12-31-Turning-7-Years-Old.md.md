@@ -76,7 +76,7 @@ Happy 7th birthday, Kylie.
 [6]:	http://amzn.to/2iOS1n6 "Berestain Bears"
 [7]:	https://itunes.apple.com/us/app/garageband/id408709785?mt=8&at=10l4Qt "Garage Band"
 
-[image-1]:	http://www.foursides.ca/images/Kylie7a.jpg
-[image-2]:	http://www.foursides.ca/images/Kylie7.jpg
-[image-3]:	http://www.foursides.ca/images/Kylie7c.jpg
-[image-4]:	http://www.foursides.ca/images/Kylie7b.jpg
+[image-1]:	http://www.foursides.ca/images/Kylie7a.JPG
+[image-2]:	http://www.foursides.ca/images/Kylie7.JPG
+[image-3]:	http://www.foursides.ca/images/Kylie7c.JPG
+[image-4]:	http://www.foursides.ca/images/Kylie7b.JPG

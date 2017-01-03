@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Daily Stoic by Ryan Holiday

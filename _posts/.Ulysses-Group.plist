@@ -1301,6 +1301,16 @@
 					<integer>34</integer>
 				</dict>
 			</dict>
+			<key>2017-01-03-Daily-Stoic-by-Ryan-Holiday.md.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>505119073.99087298</real>
+				<key>version</key>
+				<dict>
+					<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
+					<integer>38</integer>
+				</dict>
+			</dict>
 			<key>3011-03-10-sample-post.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -1337,6 +1347,9 @@
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2017-01-03-Daily-Stoic-by-Ryan-Holiday.md.md</string>
+		</array>
 		<array>
 			<string>2016-12-31-Turning-7-Years-Old.md.md</string>
 		</array>
@@ -1752,7 +1765,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
-			<integer>35</integer>
+			<integer>39</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>

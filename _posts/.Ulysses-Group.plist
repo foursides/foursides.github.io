@@ -1303,12 +1303,26 @@
 			</dict>
 			<key>2017-01-03-Daily-Stoic-by-Ryan-Holiday.md.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>505727704.188191</real>
 				<key>lastModification</key>
-				<real>505119073.99087298</real>
+				<real>505727704.188191</real>
 				<key>version</key>
 				<dict>
 					<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
-					<integer>38</integer>
+					<integer>44</integer>
+				</dict>
+			</dict>
+			<key>2017-01-14-Tsundoku-or-reading-in-2017.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>505727720.13240802</real>
+				<key>version</key>
+				<dict>
+					<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
+					<integer>45</integer>
 				</dict>
 			</dict>
 			<key>3011-03-10-sample-post.md</key>
@@ -1347,6 +1361,9 @@
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2017-01-14-Tsundoku-or-reading-in-2017.md</string>
+		</array>
 		<array>
 			<string>2017-01-03-Daily-Stoic-by-Ryan-Holiday.md.md</string>
 		</array>
@@ -1765,7 +1782,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
-			<integer>39</integer>
+			<integer>46</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>

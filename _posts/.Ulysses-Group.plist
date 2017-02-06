@@ -4,6 +4,7 @@
 <dict>
 	<key>childOrder</key>
 	<array>
+		<string>DRAFTS</string>
 		<string>css</string>
 	</array>
 	<key>collapsed</key>
@@ -14,6 +15,16 @@
 	<dict>
 		<key>childOrder</key>
 		<dict>
+			<key>DRAFTS</key>
+			<dict>
+				<key>lastModification</key>
+				<real>508052298.84600103</real>
+				<key>version</key>
+				<dict>
+					<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
+					<integer>8</integer>
+				</dict>
+			</dict>
 			<key>css</key>
 			<dict>
 				<key>lastModification</key>
@@ -1271,14 +1282,14 @@
 					<integer>9</integer>
 				</dict>
 			</dict>
-			<key>2016-11-24-Mindfulness-Reading-List-Plus-Give-Away.md</key>
+			<key>2016-11-24-Mindfulness-Reading-List---.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>501672710.32879603</real>
+				<real>508052379.89257097</real>
 				<key>version</key>
 				<dict>
 					<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
-					<integer>18</integer>
+					<integer>54</integer>
 				</dict>
 			</dict>
 			<key>2016-12-11-Doing-The-Work.md</key>
@@ -1301,28 +1312,38 @@
 					<integer>34</integer>
 				</dict>
 			</dict>
-			<key>2017-01-03-Daily-Stoic-by-Ryan-Holiday.md.md</key>
+			<key>2017-01-03-Daily-Stoic-by-Ryan-Holiday.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>508052219.26106298</real>
+				<key>version</key>
+				<dict>
+					<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
+					<integer>48</integer>
+				</dict>
+			</dict>
+			<key>2017-02-06-Tsundoku-or-reading-in-2017.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>508061828.48859203</real>
+				<key>version</key>
+				<dict>
+					<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
+					<integer>58</integer>
+				</dict>
+			</dict>
+			<key>2017-02-14-The-Importance-of-Listening-to-the-World.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
 				<true/>
 				<key>firstUnassignment</key>
-				<real>505727704.188191</real>
+				<real>508052315.33152199</real>
 				<key>lastModification</key>
-				<real>505727704.188191</real>
+				<real>508052315.33152199</real>
 				<key>version</key>
 				<dict>
 					<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
-					<integer>44</integer>
-				</dict>
-			</dict>
-			<key>2017-01-14-Tsundoku-or-reading-in-2017.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>505727720.13240802</real>
-				<key>version</key>
-				<dict>
-					<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
-					<integer>45</integer>
+					<integer>51</integer>
 				</dict>
 			</dict>
 			<key>3011-03-10-sample-post.md</key>
@@ -1347,12 +1368,16 @@
 			</dict>
 			<key>Charles Johnson on Writing.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>508052324.89627701</real>
 				<key>lastModification</key>
-				<real>504602911.39645302</real>
+				<real>508052324.89627701</real>
 				<key>version</key>
 				<dict>
 					<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
-					<integer>28</integer>
+					<integer>53</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -1362,10 +1387,10 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>2017-01-14-Tsundoku-or-reading-in-2017.md</string>
+			<string>2017-02-14-The-Importance-of-Listening-to-the-World.md</string>
 		</array>
 		<array>
-			<string>2017-01-03-Daily-Stoic-by-Ryan-Holiday.md.md</string>
+			<string>2017-02-06-Tsundoku-or-reading-in-2017.md</string>
 		</array>
 		<array>
 			<string>2016-12-31-Turning-7-Years-Old.md.md</string>
@@ -1719,7 +1744,7 @@
 			<string>2016-11-11-37-Absence.md</string>
 		</array>
 		<array>
-			<string>2016-11-24-Mindfulness-Reading-List-Plus-Give-Away.md</string>
+			<string>2016-11-24-Mindfulness-Reading-List---.md</string>
 		</array>
 		<array>
 			<string>2015-11-19-Frosty-Weather.md</string>
@@ -1757,6 +1782,9 @@
 		<array>
 			<string>2016-03-01-five-years-and-counting.md</string>
 		</array>
+		<array>
+			<string>2017-01-03-Daily-Stoic-by-Ryan-Holiday.md</string>
+		</array>
 	</array>
 	<key>sheetOrder</key>
 	<string>modificationDate</string>
@@ -1767,7 +1795,7 @@
 		<key>childOrder</key>
 		<dict>
 			<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
-			<integer>5</integer>
+			<integer>8</integer>
 		</dict>
 		<key>collapsed</key>
 		<dict>
@@ -1782,7 +1810,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>cacfdcdc0a178703a980cbcb410189b6d7a9a5932538c7f0fd94e8fc23bfaa20</key>
-			<integer>46</integer>
+			<integer>59</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>

@@ -1,8 +1,7 @@
----
 layout: post
-title: Mindfulness Reading List - Plus a Give Away!
+title: Mindfulness Reading List
 tags: [books, mindfulness]
-description: “I’ve been reading about mindfulness and Buddhism over the past year. Here is the path my reading took me on, plus a give-away!”
+description: “I’ve been reading about mindfulness and Buddhism over the past year. Here is the path my reading took me on.”
 date: 2016-11-24
 ---
 
@@ -73,10 +72,6 @@ I can point you in the direction of the two major magazines though, the previous
 
 Both are highly recommended to purchase and explore to see how modern practitioners are following mindfulness around the world. 
 
-Finally, as a thank you for reading this and following me, I’m offering you the opportunity of receiving a book by Chögyam Trungpa Rinpoche, *[Mindfulness In Action][18]: Making Friends with Yourself through Meditation and Everyday Awareness*. An easier read than the book I suggested earlier, and one to share with friends and family. Amazon only allows me to do the give-away for US residents, unfortunately. My Canadian friends can still share the link and maybe I can do something extra for them. 
-
-[Enter the give-away!][19]
-
 Hope you found this list of books interesting. Please consider sharing it with your friends and networks to spread the message of mindfulness. 
 
 [1]:	http://ryanholiday.net/reading-newsletter/ "Ryan Holiday's Reading Recommendations"
@@ -96,5 +91,3 @@ Hope you found this list of books interesting. Please consider sharing it with y
 [15]:	https://tricycle.org "Tricycle"
 [16]:	http://amzn.to/2ftXhOc "Lion's Roar"
 [17]:	http://amzn.to/2gjJj2K "Tricycle"
-[18]:	http://amzn.to/2giBXsw "Mindfulness in Action"
-[19]:	https://www.amazon.com/gp/f.html?C=RNOTE2AA1ZDP&K=A1Z4EEWYRUXOYX&R=H10T2BB78LWZ&T=C&U=https%3A%2F%2Fgiveaway.amazon.com%2Fp%2F3b20deab0d19599c%3Fref_%3Dpe_1771210_134854370&A=YC6MNKIPRO8GEH8DLHR4WT7UXV4A&H=RKXAUFONL83YRJW1ERFCQX3TGESA&ref_=pe_1771210_134854370 "Mindfulness Give-Away!"

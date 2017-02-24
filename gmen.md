@@ -1,4 +1,3 @@
-<!DOCTYPE HTML>
 <html lang="en-US">
     <head>
         <meta charset="UTF-8">
@@ -6,7 +5,7 @@
         <script type="text/javascript">
             window.location.href = "http://gentlemansbox.pxf.io/c/359393/331548/5011"
         </script>
-        <title>Page Redirection</title>
+        <title>The Gentleman's Box</title>
     </head>
     <body>
     <a href="http://gentlemansbox.pxf.io/c/359393/332078/5011"><img src="//a.impactradius-go.com/display-ad/5011-332078" border="0" alt="" width="720" height="300"/></a><img height="0" width="0" src="http://gentlemansbox.pxf.io/i/359393/332078/5011" style="position:absolute;visibility:hidden;" border="0" />
